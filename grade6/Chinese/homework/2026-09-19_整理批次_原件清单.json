@@ -1,0 +1,129 @@
+{
+  "organized_on": "2026-09-19",
+  "date_note": "整理日期，不推定原作业日期",
+  "original_count": 11,
+  "chinese_original_count": 10,
+  "sources": [
+    {
+      "file": "IMG_5445.HEIC",
+      "sha256": "e5896a53c86d89afb81d5d75d70a1c24409fbec417a0d6a08ea17e7f5641f86d",
+      "bytes": 2169049,
+      "title": "周末卷（一）第1—2页",
+      "status": "已作答，有批改",
+      "note": "《草原》基础、《河阳猪》、《柿红秋意浓》前半；续页5446。",
+      "rotation_ccw_degrees": 90,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5445.jpg"
+    },
+    {
+      "file": "IMG_5446.HEIC",
+      "sha256": "a6becf88166ef0f7b833ef9b84d9dc6163bac6ac999fdb8d427d6e237e19de8b",
+      "bytes": 2087475,
+      "title": "周末卷（一）第3—4页",
+      "status": "已作答，有批改",
+      "note": "《柿红秋意浓》后半及概括、修辞赏析、情感题；与5445组成完整卷。",
+      "rotation_ccw_degrees": 90,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5446.jpg"
+    },
+    {
+      "file": "IMG_5447.HEIC",
+      "sha256": "cc807d56d7b458e136a25cbe9c4e0f3c068cd7840368f37f3daa81e6111685cf",
+      "bytes": 1149583,
+      "title": "语文课堂练习一",
+      "status": "仅《管鲍之交》第4题选C，其余基本空白",
+      "note": "《管鲍之交》《刘柳情谊》；空白题安排补做，不推断为错误。",
+      "rotation_ccw_degrees": 0,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5447.jpg"
+    },
+    {
+      "file": "IMG_5448.HEIC",
+      "sha256": "c7adf8798a995a6574529e6ac62c7b6fbec3d2fe7094c0e2ab8f6b3ba8ff7867",
+      "bytes": 1236770,
+      "title": "第三课《古代诗歌三首》预习卷",
+      "status": "已作答，有批改",
+      "note": "《宿建德江》《六月二十七日望湖楼醉书》《西江月·夜行黄沙道中》作者与词句注释。",
+      "rotation_ccw_degrees": 0,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5448.jpg"
+    },
+    {
+      "file": "IMG_5449.HEIC",
+      "sha256": "177f8bdbdde03e037d3ff13e3898bd2625c152a0a3556c61b53aa7f3f75ce5d3",
+      "bytes": 1288843,
+      "title": "第一课《草原》预习卷",
+      "status": "已作答，有批改",
+      "note": "字词、成语、结构图和预习疑问；写作背景首句有资料疑点。",
+      "rotation_ccw_degrees": 0,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5449.jpg"
+    },
+    {
+      "file": "IMG_5450.HEIC",
+      "sha256": "a54e9fb3b943b7010607482042dd9eb91e41e7e8a974e17e3774279b1c731885",
+      "bytes": 1170600,
+      "title": "第二课《丁香结》预习卷",
+      "status": "部分作答，有批改",
+      "note": "字音字形、修辞、结构表；部分注音有划改，预习疑问空白。",
+      "rotation_ccw_degrees": 0,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5450.jpg"
+    },
+    {
+      "file": "IMG_5451.HEIC",
+      "sha256": "1f3c2b04544f521a06029352032a8d3c8a6591ba2b017a7661005693b291a8c5",
+      "bytes": 1372283,
+      "title": "《校史的榜样力量》第一课时学案第1—2页",
+      "status": "阅读范文资料",
+      "note": "人物范文《钢铁女人谢企华》《陈芋汐：“小孩姐”腾空而起》前半；续5452。",
+      "rotation_ccw_degrees": 90,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5451.jpg"
+    },
+    {
+      "file": "IMG_5452.HEIC",
+      "sha256": "1411ad44619aa8517fdab89362544064abd91951783e56b2f2c9a2d5b1b8c01b",
+      "bytes": 1054740,
+      "title": "同学案第3—4页",
+      "status": "阅读资料及空白任务",
+      "note": "陈芋汐范文后半；描写一位敬佩的人、选题、分工表均空白。",
+      "rotation_ccw_degrees": 90,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5452.jpg"
+    },
+    {
+      "file": "IMG_5453.HEIC",
+      "sha256": "d5a0a9b60b81416de7f8d646d0282f24ffea391b3c40dfcff42ad230eaaab7c6",
+      "bytes": 1132964,
+      "title": "周末卷（二）第1—2页",
+      "status": "基础部分已做；后半空白",
+      "note": "古诗词解释与默写；修辞赏析、60字借景练笔、《枭将东徙》未答；续5454。",
+      "rotation_ccw_degrees": 90,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5453.jpg"
+    },
+    {
+      "file": "IMG_5454.HEIC",
+      "sha256": "65daab0483ddccfd180b3f1400fea22137120f2e7a6ac9df82cf35c0e471a8b5",
+      "bytes": 1148322,
+      "title": "周末卷（二）第3—4页",
+      "status": "未作答",
+      "note": "《枭将东徙》第3题选项＋《母亲的蒲公英》全文和问题；与5453完整配对。",
+      "rotation_ccw_degrees": 90,
+      "included_in_chinese": true,
+      "preview": "2026-09-19_整理批次_预览/IMG_5454.jpg"
+    },
+    {
+      "file": "IMG_E5402.JPG",
+      "sha256": "1f60e1627e82b23eb9b62a0e613a80c8e33295767fe24e1a94b6cbd6b66eec9b",
+      "bytes": 1105152,
+      "title": "数学：整数的整除性",
+      "status": "误放学科，画面模糊且部分截断",
+      "note": "实际为数学练习；仅索引登记，原位保留，不计入语文教案或错题。",
+      "rotation_ccw_degrees": 90,
+      "included_in_chinese": false,
+      "preview": "2026-09-19_整理批次_预览/IMG_E5402.jpg"
+    }
+  ]
+}

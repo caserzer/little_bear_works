@@ -1,0 +1,214 @@
+{
+  "organized_on": "2026-09-19",
+  "date_note": "整理日期，不是作业日期；照片中月日批改未补推年份。",
+  "files": [
+    {
+      "source": "IMG_5397.PNG",
+      "sha256": "75c9204848738723d7f4648145ef34115d1fd9339c2cfc49723fa57d6fea3a1a",
+      "title": "非作业",
+      "topics": "打车截图",
+      "review_status": "不进入教学、错题与考核；原件保留",
+      "preview": null
+    },
+    {
+      "source": "IMG_5399.HEIC",
+      "sha256": "b4310f5a01c4670366234582f0e84b2abc27be3b36dab511347f4681ae89fb7d",
+      "title": "习题1.3、1.4",
+      "topics": "整除特征、素数合数、分解素因数",
+      "review_status": "已作答，有批改；部分文字拥挤",
+      "preview": "2026-09-19_整理批次_预览/IMG_5399.jpg"
+    },
+    {
+      "source": "IMG_5400.HEIC",
+      "sha256": "e3c60a3c8d0be143679ca0c22a28d22cfc38d8d6994dc1937608dea46e8891b0",
+      "title": "习题1.5、1.6",
+      "topics": "最大公因数、最小公倍数",
+      "review_status": "已作答；右页30与45一题有遮盖，不能还原原答",
+      "preview": "2026-09-19_整理批次_预览/IMG_5400.jpg"
+    },
+    {
+      "source": "IMG_5401.HEIC",
+      "sha256": "ff21ec65dd40e5764bc7e64812357e70cec515bc6b7f44674c78b54b7decfd18",
+      "title": "分解素因数专项",
+      "topics": "100以内素数、短除法",
+      "review_status": "上半页已答；下排63、78、81、90、96未完成",
+      "preview": "2026-09-19_整理批次_预览/IMG_5401.jpg"
+    },
+    {
+      "source": "IMG_5402.JPG",
+      "sha256": "07cf318481f713526e2651e00561250e2c82438346765f19fc0ea66148624150",
+      "title": "1.1整数和整除的意义，页1—2",
+      "topics": "整除语义、余数",
+      "review_status": "与5404同题同批改的模糊照片；优先读5404，不重复计错",
+      "preview": "2026-09-19_整理批次_预览/IMG_5402.jpg"
+    },
+    {
+      "source": "IMG_5404.HEIC",
+      "sha256": "20ea5311ba2efcbb62bef1cdc90ee9aa2f172d6558e205e946f377806992367f",
+      "title": "1.1整数和整除的意义，页1—2",
+      "topics": "整除、自然数、余数",
+      "review_status": "已作答；部分拓展未答",
+      "preview": "2026-09-19_整理批次_预览/IMG_5404.jpg"
+    },
+    {
+      "source": "IMG_5405.HEIC",
+      "sha256": "4d2948bf2bc1f9c9bea5262766703b0ed720d144ad16dbe298e921229a4523ef",
+      "title": "1.2因数和倍数，页3—4",
+      "topics": "因数、倍数、新定义",
+      "review_status": "已作答；三次方程拓展独立列为选学",
+      "preview": "2026-09-19_整理批次_预览/IMG_5405.jpg"
+    },
+    {
+      "source": "IMG_5406.HEIC",
+      "sha256": "b4e7a278756baec82ceb178e63b203e6cf7333034ba9a54e99b378a4531cd4ef",
+      "title": "1.3能被2、5整除的数，第1课时，页5—6",
+      "topics": "整除特征、奇偶性",
+      "review_status": "已作答；空白同题见5418；部分拓展未答",
+      "preview": "2026-09-19_整理批次_预览/IMG_5406.jpg"
+    },
+    {
+      "source": "IMG_5407.HEIC",
+      "sha256": "08c80289f34be72f091ce52b89898a4f01b65d15082930b8395bfa3bd2f02925",
+      "title": "1.3第2课时，页7",
+      "topics": "能被3整除、数位、奇偶性",
+      "review_status": "已作答；续页见5414",
+      "preview": "2026-09-19_整理批次_预览/IMG_5407.jpg"
+    },
+    {
+      "source": "IMG_5408.HEIC",
+      "sha256": "860ad7b85b30e18b30a53ebfaab130444530da9b02003c6a32694c9a2c412a17",
+      "title": "1.4素数、合数与分解素因数，第1课时，页9—10",
+      "topics": "概念分类、因数枚举",
+      "review_status": "已作答且有订正",
+      "preview": "2026-09-19_整理批次_预览/IMG_5408.jpg"
+    },
+    {
+      "source": "IMG_5409.HEIC",
+      "sha256": "4cf9d39c861c76b40dd91243879a3a6683a2448fc380dd16311a5cf689120c37",
+      "title": "1.4第2课时，页11—12",
+      "topics": "分解素因数、互素、分组",
+      "review_status": "已作答；部分过程覆盖，拓展有未答",
+      "preview": "2026-09-19_整理批次_预览/IMG_5409.jpg"
+    },
+    {
+      "source": "IMG_5410.HEIC",
+      "sha256": "32cff1ce40fa569faeb1c48c8eaa10f7d5c5b59ae7765586eb432c7001dd0c61",
+      "title": "1.5公因数与最大公因数，页13—14",
+      "topics": "公因数、公有素因数、短除法、应用",
+      "review_status": "已作答；植树题宽度被笔迹干扰，单列待核",
+      "preview": "2026-09-19_整理批次_预览/IMG_5410.jpg"
+    },
+    {
+      "source": "IMG_5411.HEIC",
+      "sha256": "c0918cc256325ba98d07844e5d806622fec1d71d7040dd1e4598b4a55f7c1858",
+      "title": "1.6公倍数与最小公倍数，第1课时，页15—16",
+      "topics": "互素、参数、周期问题",
+      "review_status": "已作答；地铁与闹钟题空白",
+      "preview": "2026-09-19_整理批次_预览/IMG_5411.jpg"
+    },
+    {
+      "source": "IMG_5412.HEIC",
+      "sha256": "0dc41f6e659abeff464ae387e9ae3c70dad06a699947d4ad76cf5cd1c7be182e",
+      "title": "1.6第2课时，页17—18",
+      "topics": "三个数的公因数与公倍数",
+      "review_status": "多处错误和订正；拓展多未答",
+      "preview": "2026-09-19_整理批次_预览/IMG_5412.jpg"
+    },
+    {
+      "source": "IMG_5413.HEIC",
+      "sha256": "19bca517d92181e4874e567e5173fa22409426a89fe1dfca8c37e6f9ccadbac2",
+      "title": "周末练习卷1，页1—2",
+      "topics": "整数综合、余数、计数",
+      "review_status": "已作答；第19、20题部分未完成",
+      "preview": "2026-09-19_整理批次_预览/IMG_5413.jpg"
+    },
+    {
+      "source": "IMG_5414.HEIC",
+      "sha256": "336065f387d48aef01c225ac44c33a38b320a67dce09cfb301868c4dbb46e827",
+      "title": "整除特征续页，页8",
+      "topics": "能被3整除的证明、数位拓展",
+      "review_status": "承接5407；书写浅，部分仅见草稿，暂不判错",
+      "preview": "2026-09-19_整理批次_预览/IMG_5414.jpg"
+    },
+    {
+      "source": "IMG_5415.HEIC",
+      "sha256": "4f8520482d36516a5a753fd07a0f9735de29586e40d9868406b2ab30a369c297",
+      "title": "复习题（空白版）",
+      "topics": "整除、素数、最大公因数、最小公倍数",
+      "review_status": "空白题纸；对应5422作答版，不当成一份漏做作业",
+      "preview": "2026-09-19_整理批次_预览/IMG_5415.jpg"
+    },
+    {
+      "source": "IMG_5416.HEIC",
+      "sha256": "1841bcbff15f5dd6ca71327ff9fa73a89631002601cc3d39f5aeedaf7042733f",
+      "title": "2.2分数的基本性质，第1课时，页3—4",
+      "topics": "等值分数、最简分数、单位换算",
+      "review_status": "已作答且有订正",
+      "preview": "2026-09-19_整理批次_预览/IMG_5416.jpg"
+    },
+    {
+      "source": "IMG_5417.HEIC",
+      "sha256": "3098d746d4ed7cb3bf541da1805e96e7b3c6dc853ac6681e5b63f5f61470880f",
+      "title": "2.2分数的基本性质，第2课时，页5—6",
+      "topics": "分数意义、比较基准、分数性质",
+      "review_status": "已作答；部分拓展未答",
+      "preview": "2026-09-19_整理批次_预览/IMG_5417.jpg"
+    },
+    {
+      "source": "IMG_5418.HEIC",
+      "sha256": "64fa79e53bbb4e52bbcf839b36383f825089280c02ac0e586c0f1464080d0a5c",
+      "title": "1.3第1课时，页5—6（空白版）",
+      "topics": "整除特征、奇偶性",
+      "review_status": "对应5406作答版；不重复计作业",
+      "preview": "2026-09-19_整理批次_预览/IMG_5418.jpg"
+    },
+    {
+      "source": "IMG_5419.HEIC",
+      "sha256": "cbda9eb5d9012ede2a2adbb8ad32ba6f4b1cd44b4a444acef8b423eb98888f20",
+      "title": "新预初暑假作业三：应用训练，左页9、右页另起1",
+      "topics": "平均速度、相遇追及、方程、面积体积",
+      "review_status": "已作答；若干结果或单位缺失，按实际算式核对",
+      "preview": "2026-09-19_整理批次_预览/IMG_5419.jpg"
+    },
+    {
+      "source": "IMG_5420.HEIC",
+      "sha256": "47f8d45f80b936ef8b35bbf03b29542f07437636f18e9dcc7202eeffe058ebf0",
+      "title": "应用训练续页及拓展，印刷页码均为1",
+      "topics": "调人、折扣、分组、数轴相遇",
+      "review_status": "已作答；分组题只有短除法，数轴题未完成",
+      "preview": "2026-09-19_整理批次_预览/IMG_5420.jpg"
+    },
+    {
+      "source": "IMG_5421.HEIC",
+      "sha256": "a11d788450f6e86bb3848cffc9e9c4c4cfb94ddda74714400ca7ebc2cb465345",
+      "title": "习题2.1、2.2",
+      "topics": "分数意义、数轴、约分、分类",
+      "review_status": "已作答；习题2.2第8—10题空白，第6(3)题被纸张破损遮挡",
+      "preview": "2026-09-19_整理批次_预览/IMG_5421.jpg"
+    },
+    {
+      "source": "IMG_5422.HEIC",
+      "sha256": "699482f43e4294135182488b9b458bf0418a162b9d7a36024a94e1d52d29e97c",
+      "title": "复习题（作答版）",
+      "topics": "整数综合",
+      "review_status": "对应5415空白版；第8及11—12题未见作答",
+      "preview": "2026-09-19_整理批次_预览/IMG_5422.jpg"
+    },
+    {
+      "source": "IMG_5423.HEIC",
+      "sha256": "902a440264ec9c8d2ff1fc3915133686dcf50647fe039bc7e60cd1fb09790bda",
+      "title": "2.4分数的加减法，第1课时，页9—10",
+      "topics": "通分、加减、整体与剩余、时间",
+      "review_status": "已作答，未见清晰整页批改；拓展多未答",
+      "preview": "2026-09-19_整理批次_预览/IMG_5423.jpg"
+    },
+    {
+      "source": "IMG_5424.HEIC",
+      "sha256": "869487ad6f8231521a78420529dff87d8ee29b3d08b2040e4d05eabcc79c1a82",
+      "title": "习题2.3、2.4（空白版）",
+      "topics": "分数大小比较、分数加减法",
+      "review_status": "未见作答；用作后续教学范围，不据此推断不会",
+      "preview": "2026-09-19_整理批次_预览/IMG_5424.jpg"
+    }
+  ]
+}

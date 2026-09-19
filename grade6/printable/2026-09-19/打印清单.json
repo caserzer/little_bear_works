@@ -1,0 +1,360 @@
+{
+  "paper": "A4",
+  "batch": "2026-09-19",
+  "originals_unchanged": true,
+  "individual_documents": [
+    {
+      "subject": "Math",
+      "label": "数学",
+      "category": "lessons",
+      "name": "教案",
+      "source": "grade6/Math/lessons/2026-09-19_整理批次_教案.md",
+      "source_sha256": "83d1f26ae15eb4816fe48dd3192b88f10c39a955473daeecb1578dbc62d54621",
+      "title": "数学 · 教案",
+      "pdf": "数学_教案.pdf",
+      "pages": 10,
+      "pdf_sha256": "9401e42d962758760b223bb5dd4ca79b698787b18599982f631ec94ff946c123"
+    },
+    {
+      "subject": "Math",
+      "label": "数学",
+      "category": "practice",
+      "name": "专项练习",
+      "source": "grade6/Math/practice/2026-09-19_整理批次_专项练习.md",
+      "source_sha256": "26d7fde83ce8bb50d9065c69786032ca496cda2e6263e7f2b05ed2a98eea875b",
+      "title": "数学 · 专项练习",
+      "pdf": "数学_专项练习.pdf",
+      "pages": 10,
+      "pdf_sha256": "b907e408f4de81f1ee4d20d908f07bcef7ea8b4592e69028380b201125e7081c"
+    },
+    {
+      "subject": "Math",
+      "label": "数学",
+      "category": "practice",
+      "name": "考核A卷",
+      "source": "grade6/Math/practice/2026-09-19_整理批次_考核A卷.md",
+      "source_sha256": "76302417deaa8b7c87be429730c0ca9f845e1bd961cd76687f3f24bbb9eea89b",
+      "title": "数学 · 考核A卷",
+      "pdf": "数学_考核A卷.pdf",
+      "pages": 3,
+      "pdf_sha256": "e65faf40ed2a5f0209ee8f4f6e236c1b4835074bb776be60ccdb1b47dd49e5b9"
+    },
+    {
+      "subject": "Math",
+      "label": "数学",
+      "category": "practice",
+      "name": "考核B卷",
+      "source": "grade6/Math/practice/2026-09-19_整理批次_考核B卷.md",
+      "source_sha256": "7735f66234983f9e1750cee65c05eb31933016070bb34ad9d99ebd5f4ce0898a",
+      "title": "数学 · 考核B卷",
+      "pdf": "数学_考核B卷.pdf",
+      "pages": 3,
+      "pdf_sha256": "99c875ed41b5fd46abcfbe39fc789bfef847cece8125ae84f90df705737773e2"
+    },
+    {
+      "subject": "Math",
+      "label": "数学",
+      "category": "practice",
+      "name": "考核R卷",
+      "source": "grade6/Math/practice/2026-09-19_整理批次_考核R卷.md",
+      "source_sha256": "19423f2523096c42485494ca05fd71cead7dcd654c48e8b121527fded002c3a2",
+      "title": "数学 · 考核R卷",
+      "pdf": "数学_考核R卷.pdf",
+      "pages": 3,
+      "pdf_sha256": "31ddc0cc4c46e975be5396b03068b14a2751eb3d558df14647ffdb5d73114fcb"
+    },
+    {
+      "subject": "Math",
+      "label": "数学",
+      "category": "answers",
+      "name": "专项练习答案",
+      "source": "grade6/Math/answers/2026-09-19_整理批次_专项练习答案.md",
+      "source_sha256": "ab8caac8fca94d84b596f5206a3c08a41ce89fe05eed58dbcc8aa495691efedf",
+      "title": "数学 · 专项练习答案",
+      "pdf": "数学_专项练习答案.pdf",
+      "pages": 4,
+      "pdf_sha256": "1e5ab7b3e546f5c5c4e1014c80d7ca263fd50ada57e485c9fa4bebf66fcbe555"
+    },
+    {
+      "subject": "Math",
+      "label": "数学",
+      "category": "answers",
+      "name": "考核答案与评分",
+      "source": "grade6/Math/answers/2026-09-19_整理批次_考核答案与评分.md",
+      "source_sha256": "e626e65e110f4df6639f692e9eec8f755f30e8eebabd7cf9f8fb1c3df82fc502",
+      "title": "数学 · 考核答案与评分",
+      "pdf": "数学_考核答案与评分.pdf",
+      "pages": 5,
+      "pdf_sha256": "82cd8203e67e0b774c63c8bb7b5f66303053e9092b3fac906e7f0381c6e4db22"
+    },
+    {
+      "subject": "English",
+      "label": "英语",
+      "category": "lessons",
+      "name": "教案",
+      "source": "grade6/English/lessons/2026-09-19_整理批次_教案.md",
+      "source_sha256": "8096280c748c7c0952e80c9ec0302781e62c1cc013e46be90e0f1c5e29205228",
+      "title": "英语 · 教案",
+      "pdf": "英语_教案.pdf",
+      "pages": 10,
+      "pdf_sha256": "1ad37eaa1a6042380296e4f9d12fff3da4a7c84c9ffc4190fb471466e5f0a414"
+    },
+    {
+      "subject": "English",
+      "label": "英语",
+      "category": "practice",
+      "name": "专项练习",
+      "source": "grade6/English/practice/2026-09-19_整理批次_专项练习.md",
+      "source_sha256": "04c68d35377f4775e580c8a5372c50d15d5325209f626018f819ae119e3170e6",
+      "title": "英语 · 专项练习",
+      "pdf": "英语_专项练习.pdf",
+      "pages": 8,
+      "pdf_sha256": "c903c5c7b47d74b89598de8efab1d89c94992989433b5fed4bb5c46c2cde1458"
+    },
+    {
+      "subject": "English",
+      "label": "英语",
+      "category": "practice",
+      "name": "口语考核O任务",
+      "source": "grade6/English/practice/2026-09-19_整理批次_口语考核O任务.md",
+      "source_sha256": "18f66703af73d6cfa9534d2e617981ae4e99f3b8967868c75c6a108db1943618",
+      "title": "英语 · 口语考核O任务",
+      "pdf": "英语_口语考核O任务.pdf",
+      "pages": 1,
+      "pdf_sha256": "caecf3f3f28f1b6acdad785404fd2042454ca0585c719ec461e9583389a01f27"
+    },
+    {
+      "subject": "English",
+      "label": "英语",
+      "category": "practice",
+      "name": "考核A卷",
+      "source": "grade6/English/practice/2026-09-19_整理批次_考核A卷.md",
+      "source_sha256": "a14cc35e00c09cf4d36bc1afa2f938e5a78d7392b87f0de96ccb250d50a7ab61",
+      "title": "英语 · 考核A卷",
+      "pdf": "英语_考核A卷.pdf",
+      "pages": 3,
+      "pdf_sha256": "df8d9e63a1406950c77869326bfea3443e7373d4621367fa892ab29838336c94"
+    },
+    {
+      "subject": "English",
+      "label": "英语",
+      "category": "practice",
+      "name": "考核B卷",
+      "source": "grade6/English/practice/2026-09-19_整理批次_考核B卷.md",
+      "source_sha256": "c935665e9cc6f554c1b96c7064017b798bfd77289e7072c815d7f8ef657cd469",
+      "title": "英语 · 考核B卷",
+      "pdf": "英语_考核B卷.pdf",
+      "pages": 4,
+      "pdf_sha256": "f3188871ed5a18bd9c809a1329f8905e26e79312ce79342740fd2d47fb411314"
+    },
+    {
+      "subject": "English",
+      "label": "英语",
+      "category": "practice",
+      "name": "考核R卷",
+      "source": "grade6/English/practice/2026-09-19_整理批次_考核R卷.md",
+      "source_sha256": "9f1b22c5316ef7df5b0531a493b8f3527afd1c2be99eb8b8e6c6cdd5478c8804",
+      "title": "英语 · 考核R卷",
+      "pdf": "英语_考核R卷.pdf",
+      "pages": 2,
+      "pdf_sha256": "a296b723f01d7f194cbd86c4b36e2c540ff9e4e7aa62da0c4d3ae424f243ad70"
+    },
+    {
+      "subject": "English",
+      "label": "英语",
+      "category": "answers",
+      "name": "专项练习答案",
+      "source": "grade6/English/answers/2026-09-19_整理批次_专项练习答案.md",
+      "source_sha256": "4d7ba68034b595bf99f29874ba091c4e2299b4aa24697f2ee42dd83d4aa78b15",
+      "title": "英语 · 专项练习答案",
+      "pdf": "英语_专项练习答案.pdf",
+      "pages": 4,
+      "pdf_sha256": "64fbc8b4862fb4bbf84bd6f78d2d0b3b4aba3c09e2339fad36724466ebfdcdd2"
+    },
+    {
+      "subject": "English",
+      "label": "英语",
+      "category": "answers",
+      "name": "原卷补做参考",
+      "source": "grade6/English/answers/2026-09-19_整理批次_原卷补做参考.md",
+      "source_sha256": "43726a8fc72cc481b93b47f719a8c2fce73c7ed0cb6eb82b679846085a2744d2",
+      "title": "英语 · 原卷补做参考",
+      "pdf": "英语_原卷补做参考.pdf",
+      "pages": 4,
+      "pdf_sha256": "7f6fd14561ce68f8c0804aa96b18d1ace127c04cb0ca3fa8db92e162bab6e9e5"
+    },
+    {
+      "subject": "English",
+      "label": "英语",
+      "category": "answers",
+      "name": "考核答案与评分",
+      "source": "grade6/English/answers/2026-09-19_整理批次_考核答案与评分.md",
+      "source_sha256": "6f736e7884d5b0930f4e86fd7a68b0b352d1ed78eee90a2aac158c4d46fec4ad",
+      "title": "英语 · 考核答案与评分",
+      "pdf": "英语_考核答案与评分.pdf",
+      "pages": 4,
+      "pdf_sha256": "7124cbb328ba1a195af7ee177228f6407ddecaaef4d17d54e0e0cdb15aba097a"
+    },
+    {
+      "subject": "Chinese",
+      "label": "语文",
+      "category": "lessons",
+      "name": "教案",
+      "source": "grade6/Chinese/lessons/2026-09-19_整理批次_教案.md",
+      "source_sha256": "0914a7dfb5ba28e302bbdf971a03a4228868754371a92e1b627eb159623bfa01",
+      "title": "语文 · 教案",
+      "pdf": "语文_教案.pdf",
+      "pages": 10,
+      "pdf_sha256": "b7ce2cb40faeebcd373f6646a866fc502646c73d3b17b04d6566d92b80314a65"
+    },
+    {
+      "subject": "Chinese",
+      "label": "语文",
+      "category": "practice",
+      "name": "专项练习",
+      "source": "grade6/Chinese/practice/2026-09-19_整理批次_专项练习.md",
+      "source_sha256": "a205bbf3c500604c4fad3f649cb90be383c2b8366c9b7de79208f8d86fcda5ff",
+      "title": "语文 · 专项练习",
+      "pdf": "语文_专项练习.pdf",
+      "pages": 10,
+      "pdf_sha256": "86b7347fb62acb96c1c9254398c4240892befd836dd4f330caf8b9212196b64c"
+    },
+    {
+      "subject": "Chinese",
+      "label": "语文",
+      "category": "practice",
+      "name": "人物观察与采访记录",
+      "source": "grade6/Chinese/practice/2026-09-19_整理批次_人物观察与采访记录.md",
+      "source_sha256": "5c4c095ea68187cdea1f794ea681e64e288f49dc2148f6c9edfe4daccd9f9bcc",
+      "title": "语文 · 人物观察与采访记录",
+      "pdf": "语文_人物观察与采访记录.pdf",
+      "pages": 2,
+      "pdf_sha256": "60ae1e473ee93fd72abd21065ae0aa86890e893b250ec84f6bf643b25f2a491a"
+    },
+    {
+      "subject": "Chinese",
+      "label": "语文",
+      "category": "practice",
+      "name": "考核A卷",
+      "source": "grade6/Chinese/practice/2026-09-19_整理批次_考核A卷.md",
+      "source_sha256": "c3a0a4265820ed2e2051de7ec2051d8c3a788f7e19ab4f523a7c9437c1068f36",
+      "title": "语文 · 考核A卷",
+      "pdf": "语文_考核A卷.pdf",
+      "pages": 3,
+      "pdf_sha256": "a110abe5af1c79c667d575c57d5af6f252544e9023f8b27551e953d83bae30df"
+    },
+    {
+      "subject": "Chinese",
+      "label": "语文",
+      "category": "practice",
+      "name": "考核B卷",
+      "source": "grade6/Chinese/practice/2026-09-19_整理批次_考核B卷.md",
+      "source_sha256": "f7d0b6458bc886070d5c0ced8e91bcc00bbb7a6f58ce871b30cc03b445545cb8",
+      "title": "语文 · 考核B卷",
+      "pdf": "语文_考核B卷.pdf",
+      "pages": 3,
+      "pdf_sha256": "967e35d63e5f191ede6879a5b1517878caed75eb3e1a37e32ae883e9bb977bcc"
+    },
+    {
+      "subject": "Chinese",
+      "label": "语文",
+      "category": "practice",
+      "name": "考核R卷",
+      "source": "grade6/Chinese/practice/2026-09-19_整理批次_考核R卷.md",
+      "source_sha256": "c019a9fa4525088c7bbe96a7ac902946cf8d4132e22074162ad4f9bc9ec764c7",
+      "title": "语文 · 考核R卷",
+      "pdf": "语文_考核R卷.pdf",
+      "pages": 2,
+      "pdf_sha256": "86ec665246c4e0f933c53d32dd0c32f2886f93a9d68fa4d477768838ddf68a05"
+    },
+    {
+      "subject": "Chinese",
+      "label": "语文",
+      "category": "answers",
+      "name": "专项练习答案",
+      "source": "grade6/Chinese/answers/2026-09-19_整理批次_专项练习答案.md",
+      "source_sha256": "5b749da82043beb29527a83efa3f17f8806e26375f52674318b46fa3efb192d0",
+      "title": "语文 · 专项练习答案",
+      "pdf": "语文_专项练习答案.pdf",
+      "pages": 4,
+      "pdf_sha256": "7662e2dcde8b69417af512235feb5a0e1b83e072f47d286827954976fae8c012"
+    },
+    {
+      "subject": "Chinese",
+      "label": "语文",
+      "category": "answers",
+      "name": "原卷补做参考",
+      "source": "grade6/Chinese/answers/2026-09-19_整理批次_原卷补做参考.md",
+      "source_sha256": "b57d9ec7ab5d905bf0647ae07abc55e81a0a8d161008ed653d8d8d94f98d8b9e",
+      "title": "语文 · 原卷补做参考",
+      "pdf": "语文_原卷补做参考.pdf",
+      "pages": 4,
+      "pdf_sha256": "d743253174c231c4d752f85e4d6411b00b9cf31f3b217c663c653689aaf5440e"
+    },
+    {
+      "subject": "Chinese",
+      "label": "语文",
+      "category": "answers",
+      "name": "考核答案与评分",
+      "source": "grade6/Chinese/answers/2026-09-19_整理批次_考核答案与评分.md",
+      "source_sha256": "a1dda768e34c9f2b5f70ef800930c2f74c58dc37d0bda29774f70d27d72e59be",
+      "title": "语文 · 考核答案与评分",
+      "pdf": "语文_考核答案与评分.pdf",
+      "pages": 4,
+      "pdf_sha256": "1f2a141e9922052a68d19724583459bad7b7265727b4d6174293cfd2785766af"
+    }
+  ],
+  "bundles": [
+    {
+      "pdf": "全部教案合订本.pdf",
+      "pages": 30,
+      "members": [
+        "数学_教案.pdf",
+        "英语_教案.pdf",
+        "语文_教案.pdf"
+      ],
+      "sha256": "553af82cfac0092f0ae34a68bb7fe794b6c921edc1026933d8a9c63c854cfb01"
+    },
+    {
+      "pdf": "全部笔试卷合订本.pdf",
+      "pages": 26,
+      "members": [
+        "数学_考核A卷.pdf",
+        "数学_考核B卷.pdf",
+        "数学_考核R卷.pdf",
+        "英语_考核A卷.pdf",
+        "英语_考核B卷.pdf",
+        "英语_考核R卷.pdf",
+        "语文_考核A卷.pdf",
+        "语文_考核B卷.pdf",
+        "语文_考核R卷.pdf"
+      ],
+      "sha256": "1e9c459a6aba93f3fbb94f2cc9ac55f775bb2d86c4ff7a51b350ae805451ba7b"
+    },
+    {
+      "pdf": "全部专项练习合订本.pdf",
+      "pages": 28,
+      "members": [
+        "数学_专项练习.pdf",
+        "英语_专项练习.pdf",
+        "语文_专项练习.pdf"
+      ],
+      "sha256": "c3d9e278cf089c35aa19a75c2c6e5a418db2f6614d8695f8f9c35b0a14464834"
+    },
+    {
+      "pdf": "全部答案与评分合订本.pdf",
+      "pages": 33,
+      "members": [
+        "数学_专项练习答案.pdf",
+        "数学_考核答案与评分.pdf",
+        "英语_专项练习答案.pdf",
+        "英语_原卷补做参考.pdf",
+        "英语_考核答案与评分.pdf",
+        "语文_专项练习答案.pdf",
+        "语文_原卷补做参考.pdf",
+        "语文_考核答案与评分.pdf"
+      ],
+      "sha256": "b508977d59c70c66619d4b1b5459b5cb2083eed584fd7355222eda8dd32b8377"
+    }
+  ]
+}
