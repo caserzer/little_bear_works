@@ -1,0 +1,20 @@
+{
+  "id": 33,
+  "title": "Breakfast Here, Bedtime There",
+  "title_zh": "这里早餐，那里睡觉",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 208.296,
+  "word_count": 487,
+  "words_per_minute_including_pauses": 140.3,
+  "input_sha256": "f1c80e338ed27bca3000ab0dfc383ec21005de8f56ac7ad1d4655aca0a38c55c",
+  "audio_sha256": "ea2e697cfb2915c0a39a9522717f3243db6c91953ab5f662bb31a32fc85df682",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/33_breakfast_here_bedtime_there.mp3",
+  "transcript": "transcripts/33_breakfast_here_bedtime_there.md",
+  "subtitle": "subtitles/33_breakfast_here_bedtime_there.srt"
+}

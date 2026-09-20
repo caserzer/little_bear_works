@@ -1,0 +1,20 @@
+{
+  "id": 21,
+  "title": "The Puddle's Long Vacation",
+  "title_zh": "小水洼的长途旅行",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 223.776,
+  "word_count": 464,
+  "words_per_minute_including_pauses": 124.4,
+  "input_sha256": "a5349bbbc991dc6b157be8aa0d6bd59816629be8aef7da5b64011a6a2bab9e01",
+  "audio_sha256": "e7944910c90e57b2c305b2543c2eb04c081ae16d37798545df90b6208407a9cf",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/21_the_puddle_s_long_vacation.mp3",
+  "transcript": "transcripts/21_the_puddle_s_long_vacation.md",
+  "subtitle": "subtitles/21_the_puddle_s_long_vacation.srt"
+}

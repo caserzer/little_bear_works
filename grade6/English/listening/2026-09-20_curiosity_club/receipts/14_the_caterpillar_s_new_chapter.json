@@ -1,0 +1,20 @@
+{
+  "id": 14,
+  "title": "The Caterpillar's New Chapter",
+  "title_zh": "毛毛虫的新篇章",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 218.472,
+  "word_count": 432,
+  "words_per_minute_including_pauses": 118.6,
+  "input_sha256": "062a83232da5807e2cbf909732378e590b9f2a0ff44385f2613bbd7a814c5c26",
+  "audio_sha256": "aee91470a1f28c44bc8a1d0a68c97e473fa79ff8ceea304348a5382a99510a18",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/14_the_caterpillar_s_new_chapter.mp3",
+  "transcript": "transcripts/14_the_caterpillar_s_new_chapter.md",
+  "subtitle": "subtitles/14_the_caterpillar_s_new_chapter.srt"
+}

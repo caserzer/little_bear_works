@@ -1,0 +1,88 @@
+# 27 · 面团里的小小面包师
+
+## The Tiny Bakers in the Dough
+
+面团慢慢鼓起来，是谁在里面工作？
+
+语言接触重点：grow、make、wait；酵母。
+
+[播放 MP3](../audio/27_the_tiny_bakers_in_the_dough.mp3) · [英文字幕](../subtitles/27_the_tiny_bakers_in_the_dough.srt)
+
+## 听前可看三个词
+
+| 英文 | 中文提示 |
+|---|---|
+| yeast | 酵母 |
+| dough | 面团 |
+| microorganism | 微生物 |
+
+## 完整音频原文
+
+The Curiosity Club. Episode 27. The Tiny Bakers in the Dough.
+
+Here is something to listen for. What made the dough expand while it rested?
+
+Ready? Let us find out.
+
+The club visits a bakery before opening time. The baker shows them a bowl of dough and marks its starting height.
+
+We will check it again later, she says.
+
+Pip stares at the bowl. I am ready to watch every millimeter.
+
+While they wait, the baker shows them ingredients. One is yeast, a living organism so small that an individual cell needs magnification to be seen clearly.
+
+Leo looks closely at the packet. Are there tiny workers with tiny hats?
+
+No hats, the baker says. But yeast does useful work. It uses sugars and releases carbon dioxide gas. The dough traps many gas bubbles and expands.
+
+When they return, the dough has risen above the original mark.
+
+It has grown without anyone adding more flour, Maya says.
+
+The baker explains that the trapped gas has increased its volume. She does not say that a larger dough ball must contain more flour.
+
+Later, she handles the hot oven while the children watch from the visitor area. The smell of baking bread fills the room.
+
+Pip creates a staff list: one baker, many yeast cells, and three extremely interested visitors.
+
+Leo asks whether all tiny living things are bad.
+
+No, says the baker. Microorganisms have many different roles. Some help us make familiar foods.
+
+Maya writes the day's headline: Small helpers, big bubbles.
+
+Leo adds: Excellent smell. Further taste research requested.
+
+Now, a little more to discover.
+
+Baker's yeast is a microscopic fungus. It can use sugars and release carbon dioxide through fermentation. Gas bubbles become trapped in dough, helping it rise. The dough's volume increases without a matching increase in the amount of flour. Baking later changes and sets the bread's structure.
+
+Let us hear the main idea again.
+
+Yeast helped the dough expand by producing gas. The height mark made the change easy to see. The club learned that some microorganisms play useful roles in making food.
+
+Here are three useful expressions. You can listen, or say them with me.
+
+How much has it grown?
+How much has it grown?
+
+Let us compare it with the first mark.
+Let us compare it with the first mark.
+
+Tiny things can make a big difference.
+Tiny things can make a big difference.
+
+Remember our listening question? What made the dough expand while it rested?
+
+Here is the answer. Carbon dioxide produced by yeast became trapped as gas bubbles in the dough.
+
+And here is a question just for your imagination. What other useful things might be happening around you on a scale too small to see directly?
+
+There is more than one possible answer. Keep wondering, and see you next time.
+
+## 资料说明
+
+故事、人物和对话为原创虚构；科普说明与情节分开。AI合成美式旁白：en-US-JennyNeural，语速参数 -8%。
+
+本集为原创情境，知识点为基础常识或故事内部的观察；不冒充真实事件。

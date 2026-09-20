@@ -1,0 +1,20 @@
+{
+  "id": 20,
+  "title": "A Letter Written in Starlight",
+  "title_zh": "用星光写成的信",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 201.336,
+  "word_count": 477,
+  "words_per_minute_including_pauses": 142.2,
+  "input_sha256": "d8e08dffc8fb32de3e3a4003d27226995a9b30e348042a2f6ed9617c358b073a",
+  "audio_sha256": "486a2778032658cbffb4ea697009d90e372afd324035e7118f134c1cd5b16894",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/20_a_letter_written_in_starlight.mp3",
+  "transcript": "transcripts/20_a_letter_written_in_starlight.md",
+  "subtitle": "subtitles/20_a_letter_written_in_starlight.srt"
+}

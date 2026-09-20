@@ -1,0 +1,20 @@
+{
+  "id": 17,
+  "title": "Who Took a Bite of the Moon?",
+  "title_zh": "谁咬了一口月亮？",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 208.272,
+  "word_count": 479,
+  "words_per_minute_including_pauses": 138.0,
+  "input_sha256": "a1d45493618707bacdfaa857f86467a7a8b54cbe55e364a5c3180e1428fd458b",
+  "audio_sha256": "9dd7cdd0222f49cb2ad48747eba9fcb93b790ef3441b57e5a95345dfa561e79a",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/17_who_took_a_bite_of_the_moon.mp3",
+  "transcript": "transcripts/17_who_took_a_bite_of_the_moon.md",
+  "subtitle": "subtitles/17_who_took_a_bite_of_the_moon.srt"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 9,
+  "title": "Eight Arms and Three Hearts",
+  "title_zh": "八只腕足与三颗心",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 216.288,
+  "word_count": 457,
+  "words_per_minute_including_pauses": 126.8,
+  "input_sha256": "8525147de6e674b6dadee06a0420983e0e0b42a17fde6d0bea37ff067b00e434",
+  "audio_sha256": "8321633ab0b5fc5df08d0dd918a8b39f8439d1d30f3f66202391596edcec1c27",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/09_eight_arms_and_three_hearts.mp3",
+  "transcript": "transcripts/09_eight_arms_and_three_hearts.md",
+  "subtitle": "subtitles/09_eight_arms_and_three_hearts.srt"
+}

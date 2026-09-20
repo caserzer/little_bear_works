@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "title": "The Bird That Flies Underwater",
+  "title_zh": "在水下飞翔的鸟",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 219.936,
+  "word_count": 465,
+  "words_per_minute_including_pauses": 126.9,
+  "input_sha256": "4a93f81db6b1863ca2c2355d06e972bce1a22f64cbaf870ba665862427e0553c",
+  "audio_sha256": "15d03df73f00d4711630ddbcbc8ee56c5f174f2d1af5ce36507ec06342e7a97b",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/12_the_bird_that_flies_underwater.mp3",
+  "transcript": "transcripts/12_the_bird_that_flies_underwater.md",
+  "subtitle": "subtitles/12_the_bird_that_flies_underwater.srt"
+}

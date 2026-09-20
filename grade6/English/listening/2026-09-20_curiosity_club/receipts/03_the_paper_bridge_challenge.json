@@ -1,0 +1,20 @@
+{
+  "id": 3,
+  "title": "The Paper Bridge Challenge",
+  "title_zh": "一张纸的桥梁挑战",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 216.672,
+  "word_count": 464,
+  "words_per_minute_including_pauses": 128.5,
+  "input_sha256": "75c0aa352a2b84b3a4cef01c23ccc173f0b6ba74b57d2b0e0a6c840353da30ad",
+  "audio_sha256": "3fe7f1a78e5275d3c63219488b16e212071e10640111bcf830a5eb051b34b6a5",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/03_the_paper_bridge_challenge.mp3",
+  "transcript": "transcripts/03_the_paper_bridge_challenge.md",
+  "subtitle": "subtitles/03_the_paper_bridge_challenge.srt"
+}

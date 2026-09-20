@@ -1,0 +1,20 @@
+{
+  "id": 32,
+  "title": "A Desert with No Sandcastle",
+  "title_zh": "没有沙堡的冰雪沙漠",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 204.888,
+  "word_count": 455,
+  "words_per_minute_including_pauses": 133.2,
+  "input_sha256": "904c148727677d95044b05ce09a635191e0cffb628b5a0b51f2b803b98e02c46",
+  "audio_sha256": "79d2150954d8f0e5915a1f4c68a9cef4b37934ac43f54d3fbfafd1b7a3ad03ac",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/32_a_desert_with_no_sandcastle.mp3",
+  "transcript": "transcripts/32_a_desert_with_no_sandcastle.md",
+  "subtitle": "subtitles/32_a_desert_with_no_sandcastle.srt"
+}

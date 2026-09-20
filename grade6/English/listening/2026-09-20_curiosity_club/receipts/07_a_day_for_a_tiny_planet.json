@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "title": "A Day for a Tiny Planet",
+  "title_zh": "小地球的一天",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 212.976,
+  "word_count": 474,
+  "words_per_minute_including_pauses": 133.5,
+  "input_sha256": "6f27da2b99488f2ac28de7ed6bde4f56503726f12e54f959bce588fcf84c8c9a",
+  "audio_sha256": "120dea615b3ed85d5bde05a2dc24e65ef220c64e310c6175037757fa5381cc54",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/07_a_day_for_a_tiny_planet.mp3",
+  "transcript": "transcripts/07_a_day_for_a_tiny_planet.md",
+  "subtitle": "subtitles/07_a_day_for_a_tiny_planet.srt"
+}

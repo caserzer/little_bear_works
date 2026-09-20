@@ -1,0 +1,251 @@
+1
+00:00:00,100 --> 00:00:02,472
+The Curiosity Club.
+
+2
+00:00:02,472 --> 00:00:04,945
+Episode 38.
+
+3
+00:00:04,945 --> 00:00:07,934
+Pip Follows the Wrong Instructions.
+
+4
+00:00:07,934 --> 00:00:10,828
+Here is something to listen for.
+
+5
+00:00:10,828 --> 00:00:14,565
+Why did Pip miss the star on the first attempt?
+
+6
+00:00:14,565 --> 00:00:16,086
+Ready?
+
+7
+00:00:16,086 --> 00:00:18,192
+Let us find out.
+
+8
+00:00:18,192 --> 00:00:21,847
+Maya draws a grid on a large sheet of paper.
+
+9
+00:00:21,847 --> 00:00:24,741
+A star marks the destination.
+
+10
+00:00:24,741 --> 00:00:28,084
+Pip will follow a short program to reach it.
+
+11
+00:00:28,084 --> 00:00:31,548
+Leo writes: Move forward two squares.
+
+12
+00:00:31,548 --> 00:00:33,369
+Turn right.
+
+13
+00:00:33,369 --> 00:00:36,059
+Move forward one square.
+
+14
+00:00:36,059 --> 00:00:40,842
+Pip follows the instructions and arrives beside a picture of a banana.
+
+15
+00:00:40,842 --> 00:00:43,980
+That is not the star, Maya says.
+
+16
+00:00:43,980 --> 00:00:46,317
+Pip checks his record.
+
+17
+00:00:46,317 --> 00:00:49,035
+I followed every instruction.
+
+18
+00:00:49,035 --> 00:00:52,065
+They examine the starting position.
+
+19
+00:00:52,065 --> 00:00:57,432
+Leo imagined Pip facing the top of the page, but Pip was facing left.
+
+20
+00:00:57,432 --> 00:01:02,010
+We forgot to specify the starting direction, Maya realizes.
+
+21
+00:01:02,010 --> 00:01:05,407
+They add it and run the same sequence again.
+
+22
+00:01:05,407 --> 00:01:08,573
+This time, Pip reaches the star.
+
+23
+00:01:08,573 --> 00:01:11,929
+Next, Leo writes a longer program.
+
+24
+00:01:11,929 --> 00:01:16,195
+One turn is wrong, so Pip ends up at the banana again.
+
+25
+00:01:16,195 --> 00:01:20,081
+The banana is very popular today, says Pip.
+
+26
+00:01:20,081 --> 00:01:25,570
+Instead of rewriting everything at random, the children trace each step with a finger.
+
+27
+00:01:25,570 --> 00:01:28,845
+They find the incorrect turn and change it.
+
+28
+00:01:28,845 --> 00:01:34,592
+That process of finding and fixing problems is called debugging, Ms. Park explains.
+
+29
+00:01:34,592 --> 00:01:40,230
+Maya asks whether a computer always understands what a person really intends.
+
+30
+00:01:40,230 --> 00:01:45,624
+It carries out the operations its system is built to perform, says Ms. Park.
+
+31
+00:01:45,624 --> 00:01:49,442
+Clear instructions and checking results still matter.
+
+32
+00:01:49,442 --> 00:01:52,309
+Pip completes the route at last.
+
+33
+00:01:52,309 --> 00:01:56,766
+He requests one final instruction: Celebrate politely.
+
+34
+00:01:56,766 --> 00:02:00,733
+Leo writes it more precisely: Ring your bell once.
+
+35
+00:02:00,733 --> 00:02:02,839
+Pip rings twice.
+
+36
+00:02:02,839 --> 00:02:05,027
+Everyone looks at him.
+
+37
+00:02:05,027 --> 00:02:07,364
+A joke, he says.
+
+38
+00:02:07,364 --> 00:02:10,652
+Please do not debug my sense of humor.
+
+39
+00:02:10,652 --> 00:02:13,668
+Now, a little more to discover.
+
+40
+00:02:13,668 --> 00:02:18,274
+An algorithm is a sequence of steps for carrying out a task.
+
+41
+00:02:18,274 --> 00:02:21,915
+The starting conditions can affect its result.
+
+42
+00:02:21,915 --> 00:02:26,413
+Debugging means locating and correcting problems in a program.
+
+43
+00:02:26,413 --> 00:02:32,350
+Tracing one step at a time helps connect what the instructions say with what actually happens.
+
+44
+00:02:32,350 --> 00:02:35,380
+Let us hear the main idea again.
+
+45
+00:02:35,380 --> 00:02:39,877
+The first route failed because the starting direction was unclear.
+
+46
+00:02:39,877 --> 00:02:43,614
+A later route failed because one turn was wrong.
+
+47
+00:02:43,614 --> 00:02:48,220
+The children checked the steps, found each problem, and corrected it.
+
+48
+00:02:48,220 --> 00:02:51,222
+Here are three useful expressions.
+
+49
+00:02:51,222 --> 00:02:54,266
+You can listen, or say them with me.
+
+50
+00:02:54,266 --> 00:02:56,644
+Which way are you facing?
+
+51
+00:02:56,644 --> 00:02:59,021
+Which way are you facing?
+
+52
+00:02:59,021 --> 00:03:01,739
+Follow one step at a time.
+
+53
+00:03:01,739 --> 00:03:04,456
+Follow one step at a time.
+
+54
+00:03:04,456 --> 00:03:07,255
+Let us find where it went wrong.
+
+55
+00:03:07,255 --> 00:03:10,054
+Let us find where it went wrong.
+
+56
+00:03:10,054 --> 00:03:12,921
+Remember our listening question?
+
+57
+00:03:12,921 --> 00:03:16,657
+Why did Pip miss the star on the first attempt?
+
+58
+00:03:16,657 --> 00:03:18,845
+Here is the answer.
+
+59
+00:03:18,845 --> 00:03:26,005
+The children had not specified the starting direction, so Pip began facing a different way from the one Leo imagined.
+
+60
+00:03:26,005 --> 00:03:29,796
+And here is a question just for your imagination.
+
+61
+00:03:29,796 --> 00:03:35,502
+Could you give someone precise instructions for drawing a simple shape without showing it to them?
+
+62
+00:03:35,502 --> 00:03:38,668
+There is more than one possible answer.
+
+63
+00:03:38,668 --> 00:03:41,820
+Keep wondering, and see you next time.

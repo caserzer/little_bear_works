@@ -1,0 +1,86 @@
+# 37 · 有巨大前轮的自行车
+
+## The Bicycle with the Giant Wheel
+
+旧式高轮自行车很引人注目，但好设计还要考虑使用者。
+
+语言接触重点：used to、compared with；发明与改进。
+
+[播放 MP3](../audio/37_the_bicycle_with_the_giant_wheel.mp3) · [英文字幕](../subtitles/37_the_bicycle_with_the_giant_wheel.srt)
+
+## 听前可看三个词
+
+| 英文 | 中文提示 |
+|---|---|
+| pedal | 踏板 |
+| chain | 链条 |
+| balance | 平衡 |
+
+## 完整音频原文
+
+The Curiosity Club. Episode 37. The Bicycle with the Giant Wheel.
+
+Here is something to listen for. Why did the club remove its large applause machine from the bicycle design?
+
+Ready? Let us find out.
+
+At a transport museum, Leo stops beside a bicycle with an enormous front wheel and a tiny back wheel.
+
+The wheels forgot to agree on a size, he says.
+
+Pip studies the high seat. I would need a ladder and a very encouraging friend.
+
+The museum educator explains that on many high-wheel bicycles, the pedals directly turned the large front wheel. A larger wheel traveled farther with each turn, but the high riding position brought difficulties and risks.
+
+Maya compares it with a later bicycle in the next display. That one has two more similar-sized wheels and a chain drive.
+
+The chain carries motion from the pedals to the rear wheel, the educator says. This arrangement helped designers use a lower riding position.
+
+So the old bicycle was not simply silly, Maya says. It was part of people trying different solutions.
+
+Exactly. An invention has a history of ideas, trade-offs, and improvements.
+
+The club sketches an imaginary future bicycle. Leo adds a rain cover. Maya adds a place for a schoolbag that will not interfere with riding. Pip adds automatic applause whenever the rider climbs a hill.
+
+How heavy would all that make it? the educator asks.
+
+They pause. Every extra feature has a cost.
+
+Pip removes the large applause machine and replaces it with one small bell.
+
+A lighter celebration, he says.
+
+Maya writes their design question: Better for whom, and better at what?
+
+Now, a little more to discover.
+
+Many historic high-wheel bicycles connected the pedals directly to the front wheel. Later chain-driven designs helped make lower bicycles with more similar wheel sizes practical. Design changes involve trade-offs among speed, comfort, control, weight, and other goals. Newer does not explain which particular feature solves a problem.
+
+Let us hear the main idea again.
+
+The giant wheel reflected an earlier design approach. Comparing it with a chain-driven bicycle showed how mechanisms and riding position changed. The club then discovered that adding features to its own design also added trade-offs.
+
+Here are three useful expressions. You can listen, or say them with me.
+
+How did this design work?
+How did this design work?
+
+What problem did the change solve?
+What problem did the change solve?
+
+It is useful, but it adds weight.
+It is useful, but it adds weight.
+
+Remember our listening question? Why did the club remove its large applause machine from the bicycle design?
+
+Here is the answer. It added too much weight for a small benefit, so they chose a lighter feature.
+
+And here is a question just for your imagination. What one improvement would make an everyday object easier for you to use?
+
+There is more than one possible answer. Keep wondering, and see you next time.
+
+## 资料说明
+
+故事、人物和对话为原创虚构；科普说明与情节分开。AI合成美式旁白：en-US-JennyNeural，语速参数 -8%。
+
+- [知识核对来源 1](https://tnmot.org/collection/penny-farthing-bicycle/)

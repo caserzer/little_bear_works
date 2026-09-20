@@ -1,0 +1,20 @@
+{
+  "id": 28,
+  "title": "The Ice Cube's Hidden Side",
+  "title_zh": "冰块藏起来的那一面",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 200.616,
+  "word_count": 467,
+  "words_per_minute_including_pauses": 139.7,
+  "input_sha256": "077da05b98af94986a698a6ae8f3985dde8afe0cb07ad64300abf4480e40a517",
+  "audio_sha256": "6eb0006a5e38a3e144ac37bd47bee188b3fb8e5d41ff373e8c150ba3f84db364",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/28_the_ice_cube_s_hidden_side.mp3",
+  "transcript": "transcripts/28_the_ice_cube_s_hidden_side.md",
+  "subtitle": "subtitles/28_the_ice_cube_s_hidden_side.srt"
+}

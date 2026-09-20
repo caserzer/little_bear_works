@@ -76,4 +76,6 @@ grade6/Math/practice/2026-09-18_分数除法_专项练习_01_作答_2026-09-20.j
 
 ## 可打印资料
 
+英语听力新增：[好奇心俱乐部 · 40集美式英语音频](grade6/English/listening/2026-09-20_curiosity_club/README.md)，含独立MP3、英文原文、中文导读和离线播放页。
+
 数学、英语、语文的教案、试卷、专项练习和答案已生成A4版PDF，见[打印目录](grade6/printable/2026-09-19/README.md)，或[下载全部PDF压缩包](grade6/printable/2026-09-19_三科可打印PDF.zip)。

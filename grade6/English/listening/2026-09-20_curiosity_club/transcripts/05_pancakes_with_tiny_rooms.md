@@ -1,0 +1,94 @@
+# 05 · 煎饼里的小房间
+
+## Pancakes with Tiny Rooms
+
+松软煎饼里的小孔从哪里来？
+
+语言接触重点：cooking club、some/any；气泡与食物。
+
+[播放 MP3](../audio/05_pancakes_with_tiny_rooms.mp3) · [英文字幕](../subtitles/05_pancakes_with_tiny_rooms.srt)
+
+## 听前可看三个词
+
+| 英文 | 中文提示 |
+|---|---|
+| batter | 面糊 |
+| bubble | 气泡 |
+| ingredient | 原料 |
+
+## 完整音频原文
+
+The Curiosity Club. Episode 5. Pancakes with Tiny Rooms.
+
+Here is something to listen for. What helped make the tiny spaces inside the pancake?
+
+Ready? Let us find out.
+
+Today the cooking club is making pancakes. An adult handles the hot pan. Maya reads the recipe, and Leo measures the ingredients.
+
+Pip wants to help. I have added an important ingredient, he announces.
+
+What ingredient? asks Maya.
+
+Encouragement. You are doing very well.
+
+They mix flour, milk, an egg, and a little baking powder. Leo sees bubbles appearing in the batter.
+
+Is it breathing? he asks.
+
+No, says Ms. Park. The baking powder helps make gas. That gas forms bubbles.
+
+When the first pancake is ready, she cuts it open. Inside are many tiny holes.
+
+It has rooms! says Maya.
+
+Can I move in? Pip asks.
+
+Only if you become much smaller, Leo says.
+
+They compare the fluffy pancake with a thin piece that has fewer little spaces. The textures feel different.
+
+Maya writes a note for the club: Tiny bubbles can make a big difference.
+
+Leo wants to add ten times as much baking powder. Then we could make the tallest pancake in the world.
+
+Ms. Park shakes her head. More is not always better. Recipes use amounts that work together.
+
+Pip makes a menu. Today's special: a pancake with many rooms, no windows, and a very short life.
+
+Why a short life? Maya asks.
+
+Because Leo is about to eat it.
+
+Now, a little more to discover.
+
+Baking powder can release carbon dioxide gas when it becomes wet, and many kinds release more when heated. Bubbles help batter rise. As the pancake cooks, its structure firms up around tiny spaces. Those spaces help make the pancake feel light and soft.
+
+Let us hear the main idea again.
+
+The cooking club found tiny holes inside a pancake. Gas bubbles helped create those spaces. They followed a recipe instead of simply adding more baking powder. Pip supplied encouragement, but no real ingredients.
+
+Here are three useful expressions. You can listen, or say them with me.
+
+Would you like some pancakes?
+Would you like some pancakes?
+
+Yes, please. They look delicious.
+Yes, please. They look delicious.
+
+Let me read the recipe.
+Let me read the recipe.
+
+Remember our listening question? What helped make the tiny spaces inside the pancake?
+
+Here is the answer. Gas bubbles in the batter helped make the spaces as the pancake cooked.
+
+And here is a question just for your imagination. What other foods have little holes or bubbles inside them?
+
+There is more than one possible answer. Keep wondering, and see you next time.
+
+## 资料说明
+
+故事、人物和对话为原创虚构；科普说明与情节分开。AI合成美式旁白：en-US-JennyNeural，语速参数 -12%。
+
+本集为原创情境，知识点为基础常识或故事内部的观察；不冒充真实事件。

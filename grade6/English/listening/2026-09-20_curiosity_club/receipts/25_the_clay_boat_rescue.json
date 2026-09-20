@@ -1,0 +1,20 @@
+{
+  "id": 25,
+  "title": "The Clay Boat Rescue",
+  "title_zh": "橡皮泥小船救援",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 205.248,
+  "word_count": 489,
+  "words_per_minute_including_pauses": 142.9,
+  "input_sha256": "48ba226bd70e3e2cfbb0d2ecf28020ce3545a7f66a28736d558769c86a88c2fe",
+  "audio_sha256": "0a1adf59c07e008d549f1a4150f6447349fe41a09ac06707192422a78a755101",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/25_the_clay_boat_rescue.mp3",
+  "transcript": "transcripts/25_the_clay_boat_rescue.md",
+  "subtitle": "subtitles/25_the_clay_boat_rescue.srt"
+}

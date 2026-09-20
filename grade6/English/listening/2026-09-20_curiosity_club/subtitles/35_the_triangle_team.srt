@@ -1,0 +1,227 @@
+1
+00:00:00,100 --> 00:00:02,350
+The Curiosity Club.
+
+2
+00:00:02,350 --> 00:00:04,769
+Episode 35.
+
+3
+00:00:04,769 --> 00:00:06,956
+The Triangle Team.
+
+4
+00:00:06,956 --> 00:00:09,673
+Here is something to listen for.
+
+5
+00:00:09,673 --> 00:00:13,614
+What did Maya add to help the square frame keep its shape?
+
+6
+00:00:13,614 --> 00:00:15,040
+Ready?
+
+7
+00:00:15,040 --> 00:00:17,119
+Let us find out.
+
+8
+00:00:17,119 --> 00:00:21,684
+The club builds shapes with strips of cardboard joined at the corners.
+
+9
+00:00:21,684 --> 00:00:23,967
+Leo makes a square.
+
+10
+00:00:23,967 --> 00:00:26,385
+Maya makes a triangle.
+
+11
+00:00:26,385 --> 00:00:30,570
+Pip declares the square the winner because it has more corners.
+
+12
+00:00:30,570 --> 00:00:34,374
+Ms. Park asks them to push gently on the shapes.
+
+13
+00:00:34,374 --> 00:00:39,035
+The square changes into a slanted shape as its corner joints turn.
+
+14
+00:00:39,035 --> 00:00:44,021
+Maya's triangle keeps its shape more easily without bending the strips.
+
+15
+00:00:44,021 --> 00:00:48,519
+The number of corners was not a useful test, Pip admits.
+
+16
+00:00:48,519 --> 00:00:52,282
+Maya adds a diagonal strip across the square.
+
+17
+00:00:52,282 --> 00:00:58,179
+Now it is divided into two triangles, and it resists the same gentle push better.
+
+18
+00:00:58,179 --> 00:01:02,255
+They look at pictures of bridge frameworks and roof supports.
+
+19
+00:01:02,255 --> 00:01:05,176
+Triangles appear again and again.
+
+20
+00:01:05,176 --> 00:01:08,614
+Does that mean every bridge must be a triangle?
+
+21
+00:01:08,614 --> 00:01:10,557
+Leo asks.
+
+22
+00:01:10,557 --> 00:01:13,192
+No, says Ms. Park.
+
+23
+00:01:13,192 --> 00:01:16,616
+Engineers use many kinds of structures.
+
+24
+00:01:16,616 --> 00:01:21,888
+The material, connections, shape, and expected loads all matter.
+
+25
+00:01:21,888 --> 00:01:25,991
+The club improves a cardboard tower for its exhibition.
+
+26
+00:01:25,991 --> 00:01:31,711
+They add braces where the frame was leaning and test it with the same small load as before.
+
+27
+00:01:31,711 --> 00:01:35,108
+Pip designs a banner: Team Triangle.
+
+28
+00:01:35,108 --> 00:01:37,730
+Excellent at standing still.
+
+29
+00:01:37,730 --> 00:01:42,907
+Leo asks whether he should make his sandwich triangular for extra strength.
+
+30
+00:01:42,907 --> 00:01:47,133
+That depends on your engineering goal, Maya replies.
+
+31
+00:01:47,133 --> 00:01:49,374
+My goal is to eat it.
+
+32
+00:01:49,374 --> 00:01:56,630
+Then cutting it into triangles may help your lunch, she says, but it will not prove anything about bridge safety.
+
+33
+00:01:56,630 --> 00:02:02,880
+Pip records another important design lesson: Always ask what problem you are trying to solve.
+
+34
+00:02:02,880 --> 00:02:05,788
+Now, a little more to discover.
+
+35
+00:02:05,788 --> 00:02:14,388
+A triangle made of fixed-length sides is geometrically rigid, while a four-sided frame with freely turning corners can change shape.
+
+36
+00:02:14,388 --> 00:02:18,790
+A diagonal brace can divide such a frame into triangles.
+
+37
+00:02:18,790 --> 00:02:27,595
+Real structural strength also depends on materials, connections, and loads; shape alone is not a complete safety test.
+
+38
+00:02:27,595 --> 00:02:30,434
+Let us hear the main idea again.
+
+39
+00:02:30,434 --> 00:02:33,641
+The square frame shifted at its joints.
+
+40
+00:02:33,641 --> 00:02:37,622
+A diagonal brace made it resist that movement better.
+
+41
+00:02:37,622 --> 00:02:44,769
+The children connected the model with real structures while remembering that engineering involves more than a single shape.
+
+42
+00:02:44,769 --> 00:02:47,744
+Here are three useful expressions.
+
+43
+00:02:47,744 --> 00:02:50,869
+You can listen, or say them with me.
+
+44
+00:02:50,869 --> 00:02:53,736
+What problem are we trying to solve?
+
+45
+00:02:53,736 --> 00:02:56,603
+What problem are we trying to solve?
+
+46
+00:02:56,603 --> 00:02:59,402
+This brace helps support the frame.
+
+47
+00:02:59,402 --> 00:03:02,201
+This brace helps support the frame.
+
+48
+00:03:02,201 --> 00:03:05,027
+Let us test it with the same load.
+
+49
+00:03:05,027 --> 00:03:07,853
+Let us test it with the same load.
+
+50
+00:03:07,853 --> 00:03:10,448
+Remember our listening question?
+
+51
+00:03:10,448 --> 00:03:14,388
+What did Maya add to help the square frame keep its shape?
+
+52
+00:03:14,388 --> 00:03:16,521
+Here is the answer.
+
+53
+00:03:16,521 --> 00:03:21,752
+She added a diagonal brace, dividing the square into two triangles.
+
+54
+00:03:21,752 --> 00:03:25,407
+And here is a question just for your imagination.
+
+55
+00:03:25,407 --> 00:03:29,823
+Where can you find triangles used as part of a structure around you?
+
+56
+00:03:29,823 --> 00:03:32,934
+There is more than one possible answer.
+
+57
+00:03:32,934 --> 00:03:36,182
+Keep wondering, and see you next time.

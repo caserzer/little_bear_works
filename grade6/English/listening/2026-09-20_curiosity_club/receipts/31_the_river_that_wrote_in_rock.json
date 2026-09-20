@@ -1,0 +1,20 @@
+{
+  "id": 31,
+  "title": "The River That Wrote in Rock",
+  "title_zh": "在岩石上写字的河流",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 220.968,
+  "word_count": 485,
+  "words_per_minute_including_pauses": 131.7,
+  "input_sha256": "748143473af054d0ff2844f288110df1f96bc777a124f04f9f955a9d1cd87d70",
+  "audio_sha256": "6271bbdf47c1100661b9613e277da175be73636d3f58b7c538ab886c3e3d45bf",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/31_the_river_that_wrote_in_rock.mp3",
+  "transcript": "transcripts/31_the_river_that_wrote_in_rock.md",
+  "subtitle": "subtitles/31_the_river_that_wrote_in_rock.srt"
+}

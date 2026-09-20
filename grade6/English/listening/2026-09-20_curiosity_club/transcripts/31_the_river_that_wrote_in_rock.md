@@ -1,0 +1,82 @@
+# 31 · 在岩石上写字的河流
+
+## The River That Wrote in Rock
+
+大峡谷如何记录漫长变化？一个沙盘模型带来线索。
+
+语言接触重点：over time、slowly；侵蚀与地质时间。
+
+[播放 MP3](../audio/31_the_river_that_wrote_in_rock.mp3) · [英文字幕](../subtitles/31_the_river_that_wrote_in_rock.srt)
+
+## 听前可看三个词
+
+| 英文 | 中文提示 |
+|---|---|
+| canyon | 峡谷 |
+| erosion | 侵蚀 |
+| layer | 层 |
+
+## 完整音频原文
+
+The Curiosity Club. Episode 31. The River That Wrote in Rock.
+
+Here is something to listen for. Did the fast change in the sand tray prove that the Grand Canyon formed equally fast?
+
+Ready? Let us find out.
+
+Maya finds a photograph of the Grand Canyon. Bands of rock stretch across enormous walls, and a river lies far below.
+
+Who dug that? Leo asks. They would need a very large shovel.
+
+Pip calculates how many toy shovels the club owns. The number is not promising.
+
+Ms. Park explains that the Colorado River and other processes shaped the canyon over a very long time. Flowing water carries material away. Weathering breaks rock down, and side streams and falling rock also help change the landscape.
+
+The club builds a small sand tray. With their teacher, they pour a gentle stream of water over one area. A channel begins to form, and sand moves toward the lower end.
+
+This happened quickly, Leo says. Did the real canyon form that quickly, too?
+
+No. Our tray shows an idea about moving water and material. Its scale, materials, and time are very different from the real canyon.
+
+Maya draws arrows showing where the sand traveled. Pip adds a sign beside the new channel: Landscape under construction.
+
+Later, they look again at the photograph. The rock layers remind Maya of pages in a very old book.
+
+Can we read all of it? she asks.
+
+Scientists are still studying its history, says Ms. Park.
+
+Leo puts away the toy shovel. He decides that patient questions are more useful than enormous digging plans.
+
+Now, a little more to discover.
+
+The Grand Canyon records a long history of rock formation and landscape change. The Colorado River cut downward while weathering, tributary streams, and other processes helped widen and shape the canyon. A classroom erosion model can illustrate one process without reproducing the real landscape's full history or timescale.
+
+Let us hear the main idea again.
+
+The photograph led the club to study erosion. Water moved sand in their tray, but the tray was only a simplified model. The real canyon was shaped by several processes over a much longer time.
+
+Here are three useful expressions. You can listen, or say them with me.
+
+It changed over a long time.
+It changed over a long time.
+
+Where did the material go?
+Where did the material go?
+
+Our model is much smaller.
+Our model is much smaller.
+
+Remember our listening question? Did the fast change in the sand tray prove that the Grand Canyon formed equally fast?
+
+Here is the answer. No. The model used different materials, scale, and conditions. It illustrated a process, not the real canyon's full timescale.
+
+And here is a question just for your imagination. Where can you notice small signs of water moving soil or sand after rain?
+
+There is more than one possible answer. Keep wondering, and see you next time.
+
+## 资料说明
+
+故事、人物和对话为原创虚构；科普说明与情节分开。AI合成美式旁白：en-US-JennyNeural，语速参数 -8%。
+
+- [知识核对来源 1](https://www.nps.gov/grca/learn/nature/grca-geology.htm)

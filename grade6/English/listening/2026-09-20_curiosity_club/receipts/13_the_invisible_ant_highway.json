@@ -1,0 +1,20 @@
+{
+  "id": 13,
+  "title": "The Invisible Ant Highway",
+  "title_zh": "看不见的蚂蚁公路",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 221.424,
+  "word_count": 454,
+  "words_per_minute_including_pauses": 123.0,
+  "input_sha256": "38b0123a5853687c6697ed180e22b2fe2a9ee6ff8a68a18f1e50b0b8ea65410d",
+  "audio_sha256": "a08fee807e1cdbde3ab65b78fcc7fc0e259420982e57b7cb0221b2d7d289cfb4",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/13_the_invisible_ant_highway.mp3",
+  "transcript": "transcripts/13_the_invisible_ant_highway.md",
+  "subtitle": "subtitles/13_the_invisible_ant_highway.srt"
+}

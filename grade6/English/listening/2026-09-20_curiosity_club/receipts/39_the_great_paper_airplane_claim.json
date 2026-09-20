@@ -1,0 +1,20 @@
+{
+  "id": 39,
+  "title": "The Great Paper Airplane Claim",
+  "title_zh": "纸飞机冠军的证据",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 223.68,
+  "word_count": 494,
+  "words_per_minute_including_pauses": 132.5,
+  "input_sha256": "83c73cb7f8b192eb2c5674c1456a597486a9a600e668bdf161bbcebdac9e8bb1",
+  "audio_sha256": "5128b07d667d8ccc02b01b689b5b4b0cc78e011970505df03c8bcfcfda119b08",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/39_the_great_paper_airplane_claim.mp3",
+  "transcript": "transcripts/39_the_great_paper_airplane_claim.md",
+  "subtitle": "subtitles/39_the_great_paper_airplane_claim.srt"
+}

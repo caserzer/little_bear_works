@@ -1,0 +1,88 @@
+# 16 · 关门之后的狐狸
+
+## The Fox After Closing Time
+
+学校的夜间相机拍到了意外访客，城市也能成为动物的家。
+
+语言接触重点：usually、at night；城市生态。
+
+[播放 MP3](../audio/16_the_fox_after_closing_time.mp3) · [英文字幕](../subtitles/16_the_fox_after_closing_time.srt)
+
+## 听前可看三个词
+
+| 英文 | 中文提示 |
+|---|---|
+| urban | 城市的 |
+| habitat | 栖息地 |
+| wildlife | 野生动物 |
+
+## 完整音频原文
+
+The Curiosity Club. Episode 16. The Fox After Closing Time.
+
+Here is something to listen for. Why did the children compare several photographs?
+
+Ready? Let us find out.
+
+The school garden camera takes a picture after sunset. In it, two bright eyes shine near the fence.
+
+A tiny dragon, Leo suggests.
+
+A visitor with an excellent flashlight, says Pip.
+
+Maya looks at the next picture. Now she can see pointed ears and a long, bushy tail.
+
+A local wildlife expert identifies the visitor as a fox.
+
+But we live in a city, Leo says.
+
+Cities can have wildlife, too, the expert explains. Gardens, parks, and quiet corners can provide shelter. Some foxes find ways to live close to people.
+
+The children study several nights of photographs. The fox does not appear at exactly the same time every evening. Sometimes the camera shows only a cat. Sometimes it shows leaves moving in the wind.
+
+We should not call every pair of eyes a fox, Maya says.
+
+They decide to observe from a distance and keep their food waste secured. They do not try to feed or touch the animal.
+
+Pip writes a polite invitation: Dear Fox, please attend our science club.
+
+The expert smiles. The best invitation is space to remain wild.
+
+On the next photograph, the fox is walking away with its tail raised slightly.
+
+Leo writes the caption: The garden has a night shift.
+
+Pip adds: Attendance optional. No homework assigned.
+
+Now, a little more to discover.
+
+Some foxes live successfully in towns and cities. Their habitat can include gardens and green spaces as well as quieter places to shelter. Living near people does not make an animal a pet. Careful observation can help us learn about wildlife while leaving it undisturbed.
+
+Let us hear the main idea again.
+
+A nighttime camera revealed a fox near the school garden. The children learned that cities can contain wildlife habitats. They compared several pictures and chose to observe without approaching or feeding the visitor.
+
+Here are three useful expressions. You can listen, or say them with me.
+
+What usually happens at night?
+What usually happens at night?
+
+We saw it near the fence.
+We saw it near the fence.
+
+Let us give it some space.
+Let us give it some space.
+
+Remember our listening question? Why did the children compare several photographs?
+
+Here is the answer. They wanted better evidence about the visitor. Not every picture or pair of shining eyes showed the same animal.
+
+And here is a question just for your imagination. What animals might share your neighborhood while most people are asleep?
+
+There is more than one possible answer. Keep wondering, and see you next time.
+
+## 资料说明
+
+故事、人物和对话为原创虚构；科普说明与情节分开。AI合成美式旁白：en-US-GuyNeural，语速参数 -12%。
+
+- [知识核对来源 1](https://www.nhm.ac.uk/discover/the-secret-life-of-urban-foxes.html)

@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "title": "The Map with a Missing Key",
+  "title_zh": "缺少图例的寻宝地图",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 223.176,
+  "word_count": 456,
+  "words_per_minute_including_pauses": 122.6,
+  "input_sha256": "974918fcb13f1ddc3e1147b4ae1982468af10541bed379ed3ec77b85905f5a2d",
+  "audio_sha256": "08e82c2102e7c6a9057d6e0084436b4ea4dbf85d7f00c36e074e087f3aaa1bbd",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/06_the_map_with_a_missing_key.mp3",
+  "transcript": "transcripts/06_the_map_with_a_missing_key.md",
+  "subtitle": "subtitles/06_the_map_with_a_missing_key.srt"
+}

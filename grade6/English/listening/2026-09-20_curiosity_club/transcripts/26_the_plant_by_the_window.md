@@ -1,0 +1,90 @@
+# 26 · 窗边植物的午餐
+
+## The Plant by the Window
+
+植物不会吃三明治，却有自己的制造食物方式。
+
+语言接触重点：need、make、because；植物与光。
+
+[播放 MP3](../audio/26_the_plant_by_the_window.mp3) · [英文字幕](../subtitles/26_the_plant_by_the_window.srt)
+
+## 听前可看三个词
+
+| 英文 | 中文提示 |
+|---|---|
+| leaf | 叶子 |
+| energy | 能量 |
+| photosynthesis | 光合作用 |
+
+## 完整音频原文
+
+The Curiosity Club. Episode 26. The Plant by the Window.
+
+Here is something to listen for. Does a green plant get all its food simply by eating soil?
+
+Ready? Let us find out.
+
+Maya notices a plant leaning toward the classroom window. Leo turns its pot to make the desk look tidier.
+
+Several days later, the new growth is bending toward the light again.
+
+It likes the view, Leo says.
+
+Pip offers the plant a picture of mountains. The plant does not respond.
+
+Ms. Park explains that light matters for more than a nice view. Green plants use light energy to make sugars from water and carbon dioxide.
+
+Is that the plant's lunch? Maya asks.
+
+Sugars provide material and energy for life, says Ms. Park. The process is called photosynthesis.
+
+Leo looks at the soil. Then the soil is not simply a bowl of food that the plant eats?
+
+Soil provides support, water, and minerals, but the plant makes sugars using light, Ms. Park explains.
+
+The club starts an observation notebook. They record the date, where the pot stands, and what the leaves look like. They continue normal care instead of changing everything at once.
+
+Pip draws a restaurant menu for the plant: light, water, and air, with a sensible supply of minerals.
+
+No sandwiches? Leo asks.
+
+Not for this customer, says Maya.
+
+One morning, a new leaf opens. The club celebrates quietly.
+
+Pip asks whether the plant would like a loyalty card.
+
+It already comes to this window every day, Leo says. I think it is a regular customer.
+
+Now, a little more to discover.
+
+Green plants use photosynthesis to make sugars from water and carbon dioxide using light energy. Oxygen is released in the process. Roots take up water and minerals, while leaves exchange gases with the air. Some growing plant parts bend toward light, a response called phototropism.
+
+Let us hear the main idea again.
+
+The plant's growth turned toward the window. The club learned why light is important and how plants make sugars. Their notebook followed changes over time while they kept caring for the plant.
+
+Here are three useful expressions. You can listen, or say them with me.
+
+What does the plant need?
+What does the plant need?
+
+It is growing toward the light.
+It is growing toward the light.
+
+Let us record what we notice.
+Let us record what we notice.
+
+Remember our listening question? Does a green plant get all its food simply by eating soil?
+
+Here is the answer. No. It makes sugars through photosynthesis, using light, water, and carbon dioxide, while soil can provide water and minerals.
+
+And here is a question just for your imagination. What differences can you notice between two leaves on the same plant?
+
+There is more than one possible answer. Keep wondering, and see you next time.
+
+## 资料说明
+
+故事、人物和对话为原创虚构；科普说明与情节分开。AI合成美式旁白：en-US-GuyNeural，语速参数 -8%。
+
+本集为原创情境，知识点为基础常识或故事内部的观察；不冒充真实事件。

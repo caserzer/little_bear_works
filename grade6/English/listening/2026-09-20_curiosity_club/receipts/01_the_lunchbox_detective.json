@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "title": "The Lunchbox Detective",
+  "title_zh": "午餐盒侦探",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 228.552,
+  "word_count": 460,
+  "words_per_minute_including_pauses": 120.8,
+  "input_sha256": "7504d71431644f7d84835fd9266b188b1ae4ddfce79acb4c48788feaea6a37a4",
+  "audio_sha256": "4df80cbbd764d77bcb9b25cab4955fcaa3361ea9626ecce9edc037ece145ee97",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/01_the_lunchbox_detective.mp3",
+  "transcript": "transcripts/01_the_lunchbox_detective.md",
+  "subtitle": "subtitles/01_the_lunchbox_detective.srt"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 18,
+  "title": "A Postcard from the Red Planet",
+  "title_zh": "来自红色星球的明信片",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 216.888,
+  "word_count": 461,
+  "words_per_minute_including_pauses": 127.5,
+  "input_sha256": "83bd0cff634b71190c0fe4c67a562f9d2c738f7314a559338dd47ed87cfa303d",
+  "audio_sha256": "0d49a5ce20cab81aa0ec241ae1a5b125b45d2ac039c701c360ceef7a5a3a7975",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/18_a_postcard_from_the_red_planet.mp3",
+  "transcript": "transcripts/18_a_postcard_from_the_red_planet.md",
+  "subtitle": "subtitles/18_a_postcard_from_the_red_planet.srt"
+}

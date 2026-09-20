@@ -1,0 +1,20 @@
+{
+  "id": 38,
+  "title": "Pip Follows the Wrong Instructions",
+  "title_zh": "Pip认真执行了错误指令",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 221.88,
+  "word_count": 485,
+  "words_per_minute_including_pauses": 131.2,
+  "input_sha256": "b485d4534e9bbed1d7a479f579d1596ebcc9e2a7fb416233cd0e94ca3fce0404",
+  "audio_sha256": "fe2b25a87d51bce3838b101d84e46ea207a6ae6f7645c63decfbf157030a3fe7",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/38_pip_follows_the_wrong_instructions.mp3",
+  "transcript": "transcripts/38_pip_follows_the_wrong_instructions.md",
+  "subtitle": "subtitles/38_pip_follows_the_wrong_instructions.srt"
+}

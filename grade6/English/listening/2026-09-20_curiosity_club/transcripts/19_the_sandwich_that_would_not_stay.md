@@ -1,0 +1,86 @@
+# 19 · 不肯待在盘子里的三明治
+
+## The Sandwich That Would Not Stay
+
+宇航员为什么漂浮？从太空午餐讲起。
+
+语言接触重点：why/because、keep doing；在轨生活。
+
+[播放 MP3](../audio/19_the_sandwich_that_would_not_stay.mp3) · [英文字幕](../subtitles/19_the_sandwich_that_would_not_stay.srt)
+
+## 听前可看三个词
+
+| 英文 | 中文提示 |
+|---|---|
+| astronaut | 宇航员 |
+| gravity | 重力；引力 |
+| free fall | 自由落体 |
+
+## 完整音频原文
+
+The Curiosity Club. Episode 19. The Sandwich That Would Not Stay.
+
+Here is something to listen for. Has Earth's gravity disappeared where astronauts orbit?
+
+Ready? Let us find out.
+
+In a space video, an astronaut releases a small object. It floats beside her instead of dropping onto a table.
+
+My lunch would escape, Leo says. I would spend every meal chasing it.
+
+Pip imagines a sandwich wearing a tiny seat belt.
+
+Maya asks a bigger question. Is there no gravity up there?
+
+Ms. Park explains that Earth's gravity still acts strongly at the height of an orbiting space station. The station and the objects inside it are falling around Earth together.
+
+Falling around Earth? Leo repeats.
+
+The station also has a great deal of sideways motion. Its path curves around the planet. The astronauts and their surroundings share that motion, so the astronauts appear to float inside.
+
+The children use an animation to follow the curved path. They do not try to reproduce it by jumping off anything.
+
+Maya notices straps and holders in the video. Everyday objects need ways to stay in place.
+
+An astronaut catches a floating package. Leo cheers as if she has scored a goal.
+
+The club designs an imaginary space lunch tray. Maya adds clips for containers. Leo adds a place to hold a drink package. Pip adds a button labeled Find Missing Sandwich.
+
+What does that button do? asks Maya.
+
+It says, Leo, check behind you.
+
+Leo turns around automatically. Pip is very pleased with his first successful space-lunch test.
+
+Now, a little more to discover.
+
+Astronauts in an orbiting station experience apparent weightlessness because they and the station are in continuous free fall around Earth. Gravity has not disappeared. This environment changes many ordinary tasks, including handling objects and eating. Securing equipment keeps useful things from drifting away.
+
+Let us hear the main idea again.
+
+The floating object did not show that gravity was absent. The station and everything inside were falling around Earth together. The club then imagined practical ways to keep a space lunch in place.
+
+Here are three useful expressions. You can listen, or say them with me.
+
+Why does it float?
+Why does it float?
+
+Gravity is still acting.
+Gravity is still acting.
+
+Let us keep it in place.
+Let us keep it in place.
+
+Remember our listening question? Has Earth's gravity disappeared where astronauts orbit?
+
+Here is the answer. No. Their apparent weightlessness comes from falling around Earth together with their spacecraft.
+
+And here is a question just for your imagination. Which ordinary activity would be funniest or most difficult if loose objects drifted around you?
+
+There is more than one possible answer. Keep wondering, and see you next time.
+
+## 资料说明
+
+故事、人物和对话为原创虚构；科普说明与情节分开。AI合成美式旁白：en-US-JennyNeural，语速参数 -8%。
+
+- [知识核对来源 1](https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-microgravity-grades-5-8/)

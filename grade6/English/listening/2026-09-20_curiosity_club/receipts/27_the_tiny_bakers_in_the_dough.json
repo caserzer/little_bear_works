@@ -1,0 +1,20 @@
+{
+  "id": 27,
+  "title": "The Tiny Bakers in the Dough",
+  "title_zh": "面团里的小小面包师",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 213.504,
+  "word_count": 469,
+  "words_per_minute_including_pauses": 131.8,
+  "input_sha256": "e643449b9ddd4b619e57f3f9d884d284577733f5b62b11010f00c721f9391955",
+  "audio_sha256": "c8c6c93d9ab7094bc9932f35a118370aabf96c9a6f5c12992380fd6c102c1fd2",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/27_the_tiny_bakers_in_the_dough.mp3",
+  "transcript": "transcripts/27_the_tiny_bakers_in_the_dough.md",
+  "subtitle": "subtitles/27_the_tiny_bakers_in_the_dough.srt"
+}

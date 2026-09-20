@@ -1,0 +1,86 @@
+# 32 · 没有沙堡的冰雪沙漠
+
+## A Desert with No Sandcastle
+
+沙漠一定又热又有沙吗？南极带来一个意外答案。
+
+语言接触重点：not always、definition；南极与干燥。
+
+[播放 MP3](../audio/32_a_desert_with_no_sandcastle.mp3) · [英文字幕](../subtitles/32_a_desert_with_no_sandcastle.srt)
+
+## 听前可看三个词
+
+| 英文 | 中文提示 |
+|---|---|
+| desert | 沙漠；荒漠 |
+| precipitation | 降水 |
+| Antarctica | 南极洲 |
+
+## 完整音频原文
+
+The Curiosity Club. Episode 32. A Desert with No Sandcastle.
+
+Here is something to listen for. Must every desert be hot and sandy?
+
+Ready? Let us find out.
+
+The geography club is playing Guess the Place. Maya reads the first clue: It is a desert.
+
+Leo draws a hot Sun and a camel. Pip adds a sandcastle with a robot flag.
+
+Second clue, says Maya. This place can be extremely cold.
+
+Leo puts a scarf on the camel.
+
+Third clue: Much of the land is covered by a thick ice sheet.
+
+Pip looks at his sandcastle. My building material may be wrong.
+
+The answer is Antarctica, Maya announces.
+
+Leo is surprised. How can a place with so much ice be a desert?
+
+Ms. Park explains that desert conditions are about very low precipitation, not simply heat or sand. Much of Antarctica receives little new snowfall. Ice can accumulate and remain over a very long time.
+
+So the amount already stored and the amount arriving each year are different questions, Maya says.
+
+They imagine a jar holding many old coins. Even if only a few new coins arrive each year, the jar may still contain a lot.
+
+Pip labels the comparison carefully: Ice is not money. Please do not pay for lunch with a snowball.
+
+Leo changes his first drawing. The camel stays on a separate page about a hot desert. Antarctica gets its own icy landscape.
+
+The club's final clue is for every geography question: Check the definition before trusting the first picture in your head.
+
+Now, a little more to discover.
+
+Deserts are characterized by very low precipitation. They can be hot or cold, and they do not all consist of sand dunes. Much of Antarctica is a cold desert. Its large store of ice does not mean that it receives a large amount of new precipitation each year.
+
+Let us hear the main idea again.
+
+Leo first imagined a hot sandy desert, but Antarctica challenged that picture. The club used the meaning of desert and distinguished stored ice from newly falling precipitation.
+
+Here are three useful expressions. You can listen, or say them with me.
+
+It is not always hot.
+It is not always hot.
+
+What does the word really mean?
+What does the word really mean?
+
+Those are two different questions.
+Those are two different questions.
+
+Remember our listening question? Must every desert be hot and sandy?
+
+Here is the answer. No. Very low precipitation is the important feature, and deserts can be cold.
+
+And here is a question just for your imagination. What word makes you picture one familiar example even though other examples are very different?
+
+There is more than one possible answer. Keep wondering, and see you next time.
+
+## 资料说明
+
+故事、人物和对话为原创虚构；科普说明与情节分开。AI合成美式旁白：en-US-GuyNeural，语速参数 -8%。
+
+- [知识核对来源 1](https://www.bas.ac.uk/about/where-we-work/antarctica/)

@@ -1,0 +1,20 @@
+{
+  "id": 40,
+  "title": "The Museum of Better Questions",
+  "title_zh": "更好问题博物馆",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 231.624,
+  "word_count": 499,
+  "words_per_minute_including_pauses": 129.3,
+  "input_sha256": "379fce37c7e66644c06943fc5064f8302fa8a17def745ebe6bfd5633344a9679",
+  "audio_sha256": "0c848448f120b8e5af33e273953e5ff52bdd71e534df6670eda486a0ebc7c9da",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/40_the_museum_of_better_questions.mp3",
+  "transcript": "transcripts/40_the_museum_of_better_questions.md",
+  "subtitle": "subtitles/40_the_museum_of_better_questions.srt"
+}

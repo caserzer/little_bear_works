@@ -1,0 +1,20 @@
+{
+  "id": 24,
+  "title": "The Compass and the Stubborn Needle",
+  "title_zh": "指南针与固执的小针",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 211.248,
+  "word_count": 468,
+  "words_per_minute_including_pauses": 132.9,
+  "input_sha256": "1635c41035c7f0fd37687c42b5c2ccb369f3112a94cf3dc2739ecd10eb7441dc",
+  "audio_sha256": "1705c59b1b21b4956eb5dfecad8932fc7c0a8bf825699480326a13e1294e5293",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/24_the_compass_and_the_stubborn_needle.mp3",
+  "transcript": "transcripts/24_the_compass_and_the_stubborn_needle.md",
+  "subtitle": "subtitles/24_the_compass_and_the_stubborn_needle.srt"
+}

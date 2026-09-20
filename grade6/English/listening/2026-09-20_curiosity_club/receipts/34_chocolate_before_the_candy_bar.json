@@ -1,0 +1,20 @@
+{
+  "id": 34,
+  "title": "Chocolate Before the Candy Bar",
+  "title_zh": "巧克力成为糖果之前",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 214.824,
+  "word_count": 468,
+  "words_per_minute_including_pauses": 130.7,
+  "input_sha256": "a7d2b416bb7271d375f1579ada8d94bd8d12f11af80e19a43da90f4706155d63",
+  "audio_sha256": "0c4a84518b6159ff4e04f9cbcd59c2bc4c47066f16977f66b6b26c469277db47",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/34_chocolate_before_the_candy_bar.mp3",
+  "transcript": "transcripts/34_chocolate_before_the_candy_bar.md",
+  "subtitle": "subtitles/34_chocolate_before_the_candy_bar.srt"
+}

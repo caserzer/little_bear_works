@@ -1,0 +1,20 @@
+{
+  "id": 8,
+  "title": "The Dinosaur at the Window",
+  "title_zh": "窗边的小恐龙",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 224.616,
+  "word_count": 449,
+  "words_per_minute_including_pauses": 119.9,
+  "input_sha256": "5c7a89663bc050da980b297df01020198f1bcdc3a10bb918a90bdab5204a2311",
+  "audio_sha256": "9414d69c64f331688e51c21cb21e5661e14cb1aa30504f88b4e3d465f3cb53e3",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/08_the_dinosaur_at_the_window.mp3",
+  "transcript": "transcripts/08_the_dinosaur_at_the_window.md",
+  "subtitle": "subtitles/08_the_dinosaur_at_the_window.srt"
+}

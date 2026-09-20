@@ -1,0 +1,20 @@
+{
+  "id": 36,
+  "title": "A Message Made of Flashes",
+  "title_zh": "用闪光发出的消息",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 217.176,
+  "word_count": 469,
+  "words_per_minute_including_pauses": 129.6,
+  "input_sha256": "dffdfde09c1c97d5d9e8c7cec49a5581c57cc9ab7c7069585e086250023333c6",
+  "audio_sha256": "8ac91770a7c4ca92aeab98e509b6ebf45efdfc939b9785eaa312d061a945e091",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/36_a_message_made_of_flashes.mp3",
+  "transcript": "transcripts/36_a_message_made_of_flashes.md",
+  "subtitle": "subtitles/36_a_message_made_of_flashes.srt"
+}

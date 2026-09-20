@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "title": "The Mystery Humming Box",
+  "title_zh": "嗡嗡响的神秘盒子",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 217.344,
+  "word_count": 443,
+  "words_per_minute_including_pauses": 122.3,
+  "input_sha256": "5cc8a50c103b29183180d667cad824688acd61fd7a25c351bdb59a7fc4637c01",
+  "audio_sha256": "153b37412617f19138c7c4d8d2ddc170c10e4b2900cefd34fe14ee9e01a7c1ff",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/04_the_mystery_humming_box.mp3",
+  "transcript": "transcripts/04_the_mystery_humming_box.md",
+  "subtitle": "subtitles/04_the_mystery_humming_box.srt"
+}

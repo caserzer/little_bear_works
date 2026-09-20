@@ -4,6 +4,8 @@
 
 ## 使用入口
 
+新增：[40集美式英语磨耳朵：好奇心俱乐部](listening/2026-09-20_curiosity_club/README.md) · [打开播放页](listening/2026-09-20_curiosity_club/播放.html) · [音频目录](listening/2026-09-20_curiosity_club/目录.md)。
+
 | 内容 | 文件 | 用途 |
 |---|---|---|
 | 20张原件与转正预览 | [作业索引](homework/2026-09-19_整理批次_作业索引.md) | 内容、状态、重复和缺页关系 |

@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "title": "Pancakes with Tiny Rooms",
+  "title_zh": "煎饼里的小房间",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 227.952,
+  "word_count": 438,
+  "words_per_minute_including_pauses": 115.3,
+  "input_sha256": "6f3105a0ff2fd6cb90249e7a7f0d6cc98a1fcbabc53e139441ccaa1569697ac9",
+  "audio_sha256": "ef79d4e7374d3b94195180a27e2e96a927a587b441d5b04d7771184f2f6c9164",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/05_pancakes_with_tiny_rooms.mp3",
+  "transcript": "transcripts/05_pancakes_with_tiny_rooms.md",
+  "subtitle": "subtitles/05_pancakes_with_tiny_rooms.srt"
+}

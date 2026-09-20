@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "title": "The Nighttime Sound Map",
+  "title_zh": "夜空中的声音地图",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-GuyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 219.912,
+  "word_count": 457,
+  "words_per_minute_including_pauses": 124.7,
+  "input_sha256": "e95451c1bb6f8d2bb525a5f3d24bdae9fe712b7849dbe450c5d60cc1175933fd",
+  "audio_sha256": "61eb1a7c53b4d9c92207c044a8b8b1ce4efdab732fa238eaccab8b66a1db4bcf",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/10_the_nighttime_sound_map.mp3",
+  "transcript": "transcripts/10_the_nighttime_sound_map.md",
+  "subtitle": "subtitles/10_the_nighttime_sound_map.srt"
+}

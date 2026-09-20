@@ -1,0 +1,14 @@
+{
+  "actual_audio_playback_advanced": true,
+  "offline_file_loading": true,
+  "episode_count": 40,
+  "next_episode": true,
+  "speed_control": true,
+  "loop_control": true,
+  "auto_next": true,
+  "category_filter": true,
+  "search": true,
+  "mobile_no_horizontal_overflow": true,
+  "browser": "local headless Chrome",
+  "human_listening_review": false
+}

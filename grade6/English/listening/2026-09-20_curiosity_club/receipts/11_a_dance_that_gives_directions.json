@@ -1,0 +1,20 @@
+{
+  "id": 11,
+  "title": "A Dance That Gives Directions",
+  "title_zh": "会指路的舞蹈",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-12%",
+  "duration_seconds": 212.064,
+  "word_count": 445,
+  "words_per_minute_including_pauses": 125.9,
+  "input_sha256": "c80477d3f1d0d5d4a3312718a72106ecda713b16d288850763531eff1a510ee7",
+  "audio_sha256": "d252cf20eba426e9cfbb9d6324b3b776254725b7af6329febc09886db5d890e4",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/11_a_dance_that_gives_directions.mp3",
+  "transcript": "transcripts/11_a_dance_that_gives_directions.md",
+  "subtitle": "subtitles/11_a_dance_that_gives_directions.srt"
+}

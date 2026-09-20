@@ -1,0 +1,20 @@
+{
+  "id": 23,
+  "title": "The Shadow That Changed Its Mind",
+  "title_zh": "会改变主意的影子",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": "en-US-JennyNeural",
+  "locale": "en-US",
+  "rate": "-8%",
+  "duration_seconds": 203.88,
+  "word_count": 479,
+  "words_per_minute_including_pauses": 141.0,
+  "input_sha256": "3906a860b331eddb953f7c2de2ffb0faf43aad30fb1bdbb098c7bf4f2740bf4e",
+  "audio_sha256": "01e0d0942c44b4292d158670dfba8c0900f7164b14171f404395067a6810152d",
+  "decode_check": "passed",
+  "human_listening_check": "not_performed",
+  "audio": "audio/23_the_shadow_that_changed_its_mind.mp3",
+  "transcript": "transcripts/23_the_shadow_that_changed_its_mind.md",
+  "subtitle": "subtitles/23_the_shadow_that_changed_its_mind.srt"
+}
