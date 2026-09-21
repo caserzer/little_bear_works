@@ -1,0 +1,206 @@
+{
+  "id": 16,
+  "title": "Two Tickets, Please",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "clerk": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+      "ShortName": "en-US-JennyNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "General"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Considerate",
+          "Comfort"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 85.224,
+  "word_count": 231,
+  "words_per_minute_including_pauses": 162.6,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 15.0,
+      "clip_sha256": "4c1adf185bdc741c501d01ba218af49475f10fb48f52f51026e35780e77ccad6"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 15.12,
+      "end": 18.168,
+      "clip_sha256": "2421e2bdc2327831b015d6ce667f4c0de1ddb175366737c92e2995c83c10ab9f"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 18.288,
+      "end": 22.656,
+      "clip_sha256": "d7ffe14f55294d1adf371c846d836bdbd0168925f284d8f462fd3b04e5e94310"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 22.776,
+      "end": 29.064,
+      "clip_sha256": "af0e4a475a8e2fcbd93836e51287f2fdbe76a7aba9c5343c04192e92daf6321e"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 29.184,
+      "end": 31.080000000000002,
+      "clip_sha256": "45bab41dd757e8800256f65ae010c45ddcb1e4fa8b048652cb215ff8fccffae5"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 31.200000000000003,
+      "end": 36.048,
+      "clip_sha256": "c2f8c7e0812f6c4769678051cf5bec1e7463e17fa15a4bc43d8fc1445cc6ec6d"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 36.168,
+      "end": 39.912,
+      "clip_sha256": "ee8861a1efebfdb5d8036b642491326908097c747427c9d040b11100003cd918"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 40.032,
+      "end": 51.263999999999996,
+      "clip_sha256": "a2db7cf2177c48e82937c889ef7dd8eec338938040d4386a8e129cf4da5febbd"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 51.38399999999999,
+      "end": 54.599999999999994,
+      "clip_sha256": "b5df6f16694ab43fd355915781087cc2d34461f377194416891b9b371e1ca4d7"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 54.71999999999999,
+      "end": 61.29599999999999,
+      "clip_sha256": "75713f390543a47ad8d9d720ccb283c2e0fd2e96352b3a176005248c9782c67c"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 61.41599999999999,
+      "end": 65.27999999999999,
+      "clip_sha256": "631b11e4122c5048b0e22c3877f4fb60ba3e7813f6d2f6c026aea33ac79460b3"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 65.39999999999999,
+      "end": 74.952,
+      "clip_sha256": "f2af0f36b02708d2ef005b8b6b0cfe51d4c10a734e7b42874a2c34c86142ff45"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 75.072,
+      "end": 77.04,
+      "clip_sha256": "b37ce2855a0e3539ea35ba9cdec3310a7baeec4585268ce8752c21d691926d6b"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 77.16000000000001,
+      "end": 85.17600000000002,
+      "clip_sha256": "3095d9ca57f1882be39478a5ea0f8334b021c49fb687878985ef752c01cf00fb"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "23861651eed5d21c04eb0a7588aeec704ce1205a36d2c2ab59c4b249ffb8149d",
+  "subtitle_sha256": "a45fc5f0683afdec2f28cca298733b7a03ad7fde09cf5c2546aa541abd49636d",
+  "input_sha256": "75b75981d2c7495b814421851afad398038d42bd444ab8a5d8d50330f53b887c",
+  "audio": "audio/16_two_tickets_please.mp3",
+  "subtitle": "subtitles/16_two_tickets_please.srt",
+  "transcript": "transcripts/16_two_tickets_please.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.5,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

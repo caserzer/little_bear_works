@@ -1,0 +1,208 @@
+{
+  "id": 4,
+  "title": "Is This Seat Taken?",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "staff": {
+      "name": "老师／男性服务人员（按每集角色表）",
+      "voice": "en-US-ChristopherNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    },
+    "staff": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, ChristopherNeural)",
+      "ShortName": "en-US-ChristopherNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Christopher Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Reliable",
+          "Authority"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 79.68,
+  "word_count": 231,
+  "words_per_minute_including_pauses": 173.9,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 11.832,
+      "clip_sha256": "6a254541b0aca0556e51c6b82391dc902a976c0dfe9aa1f56e576d27a3903688"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 11.952,
+      "end": 16.416,
+      "clip_sha256": "c68514a87c05fbf22b3c6781bc20c8727ace877fc3b6c646ea0b5e5e6c4f7659"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 16.536,
+      "end": 26.328000000000003,
+      "clip_sha256": "0c0d0f09c9000b88971027b0309a84664cc2aca5ef8f334a8cc52ca371be37b6"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 26.448000000000004,
+      "end": 31.200000000000003,
+      "clip_sha256": "31978c510db5e9609bb5d503a2af54cdff9aebc6854beeaac5d16a2456b891c8"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 31.320000000000004,
+      "end": 42.55200000000001,
+      "clip_sha256": "81a6ff8f0d159dc4c3b7cde12e92ae38d66e1ce60c4395d227abfd097810eca3"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 42.672000000000004,
+      "end": 46.536,
+      "clip_sha256": "0b1c765b398c8e9206a465c21a4fe0c254ee0bc67c03515f6b5d18158cee53c6"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 46.656,
+      "end": 49.896,
+      "clip_sha256": "c9e2a7b4cf45efa68a1f95cfc3b345a6b433f2442057e7883cfb0d65392c7f99"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 50.016,
+      "end": 56.472,
+      "clip_sha256": "025d2c4d85a1b81326c171431a2bc2db4cbf86738892e984689bf9cfc854ef04"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 56.592,
+      "end": 59.352,
+      "clip_sha256": "1e74e5dd83c470efca14e0c20f89e591fec8cf6f8186e0326f39623b6744fb9d"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 59.471999999999994,
+      "end": 64.752,
+      "clip_sha256": "1fe4fcfe5628d370b2a62961d322ddcc6c90e9c0cde1a7b0dc4fb2b87b9862e7"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 64.872,
+      "end": 66.216,
+      "clip_sha256": "c6ec791fc0a7b55a63eeeeb74ec5dbab87a3af50919d9e274a59caa87404ad87"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 66.336,
+      "end": 70.344,
+      "clip_sha256": "427a5026b79c2ea8b52d4ecc08ec9d83e64524331880c5bf3e0383d2b5e64e84"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 70.464,
+      "end": 72.576,
+      "clip_sha256": "2bbaeae8eb23fb40ca38a23074df6c25ff2e0dd99e4f6d1c49b453ae6a31fda6"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 72.696,
+      "end": 79.632,
+      "clip_sha256": "69edca70eb76d93ff27fc758f2e1dbe55a13185802b9bc0ef3dcd8f547eece4c"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "3a699e001ae98de7d06f66025124a80c54c0e5e2f4284e200c3171603fc9a6c8",
+  "subtitle_sha256": "dbd6614d0f2f41e71b0753c1baa643ecde6e53760d2e842d075314b6194ff895",
+  "input_sha256": "714888b90c62c6ee67097d959687c308aeeaf1e611de6a35b195361dedb7073c",
+  "audio": "audio/04_is_this_seat_taken.mp3",
+  "subtitle": "subtitles/04_is_this_seat_taken.srt",
+  "transcript": "transcripts/04_is_this_seat_taken.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.3,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

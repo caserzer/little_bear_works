@@ -1,0 +1,201 @@
+{
+  "id": 33,
+  "title": "The After-School Club Choice",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "staff": {
+      "name": "老师／男性服务人员（按每集角色表）",
+      "voice": "en-US-ChristopherNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    },
+    "staff": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, ChristopherNeural)",
+      "ShortName": "en-US-ChristopherNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Christopher Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Reliable",
+          "Authority"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 79.776,
+  "word_count": 242,
+  "words_per_minute_including_pauses": 182.0,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 14.304,
+      "clip_sha256": "ab20b0eda14743a7be803592791fe978fe85ce691044b6c15242a55617d864f3"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 14.424,
+      "end": 16.776,
+      "clip_sha256": "dbc81c098a55f030415633308302d550549a16e2af795b04ed773c3e2fe7e991"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 16.896,
+      "end": 26.04,
+      "clip_sha256": "0031a7cf15337ab65e50db1ed07db75151b24361003119e2d728143d68604a48"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 26.16,
+      "end": 30.768,
+      "clip_sha256": "b34bd38801db6e290fa90b0804cfb3d81e14d6d80969031b6e31f2b51ec7a364"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 30.888,
+      "end": 32.976,
+      "clip_sha256": "35b997e91f94cb3df31866dc89a349bbc3fe42fbd3cfe03e777e6f15770cabb7"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 33.096,
+      "end": 39.336,
+      "clip_sha256": "0b2d85df7c34a1e058dbdc5c59a62154afdc85876aa4e682059b87d44deebf46"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 39.455999999999996,
+      "end": 42.672,
+      "clip_sha256": "4c78253213510ec4082b228a829e3cf828ad06cdae97c9eadb359311c4455e48"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 42.791999999999994,
+      "end": 48.16799999999999,
+      "clip_sha256": "11b14e940af3bef8c4037df408c79eaa9dc92d9e7ccd9397bd8b68c6fd2ac121"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 48.28799999999999,
+      "end": 50.13599999999999,
+      "clip_sha256": "05427b8475f8d068bf763caeb3da4e208ee7d4f998d23c67339b111ba2bcffb8"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 50.255999999999986,
+      "end": 56.11199999999999,
+      "clip_sha256": "366c4d25e36dc9a0b9c206c38c2df5af3f4885ba127bad7455ace5cfba4a64b4"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 56.231999999999985,
+      "end": 63.191999999999986,
+      "clip_sha256": "6acbf08e294ccf2df9422b3b36b9bceb80b694535afd4a303a9df23e65649e1b"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 63.31199999999998,
+      "end": 65.61599999999999,
+      "clip_sha256": "06b7ea4cf2133fa03061db45bd1067c5260e313f68cf78d0c190e3bf59074d8b"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 65.73599999999999,
+      "end": 79.728,
+      "clip_sha256": "1819486d72a5b101c352dbd5a29a2ce77ccdb9006089352d4fedaed22e2dd8b8"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "29b00964440b49b8ab55a63ed791d7c3fa13c79290ea7accad9fe4625284737a",
+  "subtitle_sha256": "18147e607e52023e15caed6c8ce0e2430c579049ca211125ee81dd3b94b01e3a",
+  "input_sha256": "e433c01ece015ac1f5d925abfc0133f9a6ed997104df7e12b487052313c53011",
+  "audio": "audio/33_the_after_school_club_choice.mp3",
+  "subtitle": "subtitles/33_the_after_school_club_choice.srt",
+  "transcript": "transcripts/33_the_after_school_club_choice.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

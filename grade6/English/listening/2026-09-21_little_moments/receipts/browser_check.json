@@ -1,0 +1,19 @@
+{
+  "status": "passed",
+  "browser": "Headless Chrome",
+  "offline_file_url": true,
+  "episode_buttons": 40,
+  "actual_playback": {
+    "time": 1.69749,
+    "paused": false,
+    "duration": 79.728,
+    "title": "选哪个课后社团"
+  },
+  "speed_change": true,
+  "single_repeat": true,
+  "autonext_event": true,
+  "search_and_category_filters": true,
+  "mobile_width": 390,
+  "mobile_no_horizontal_overflow": true,
+  "javascript_errors": []
+}

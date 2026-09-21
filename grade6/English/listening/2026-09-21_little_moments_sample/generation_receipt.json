@@ -1,0 +1,42 @@
+{
+  "status": "SAMPLE_AWAITING_USER_FEEDBACK",
+  "title": "One More, Please!",
+  "title_zh": "再来一个，谢谢！",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AnaNeural)",
+    "ShortName": "en-US-AnaNeural",
+    "Gender": "Female",
+    "Locale": "en-US",
+    "LocaleName": "English (United States)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Ana Online (Natural) - English (United States)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "Cartoon",
+        "Conversation"
+      ],
+      "VoicePersonalities": [
+        "Cute"
+      ]
+    }
+  },
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "duration_seconds": 190.272,
+  "word_count": 316,
+  "words_per_minute_including_pauses": 99.6,
+  "audio_sha256": "61ef54f08c7e965b1a93dcf771522f24b270f05ea7700a449b67c4e227bd761f",
+  "text_sha256": "f1e93d0b4c13a10043183ce2480d5bf5432adab0ef623b69ec5321493ad2f221",
+  "checks": {
+    "full_decode": "passed",
+    "subtitle_full_text_match": true,
+    "peak_db": -3.3,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed",
+  "new_season_episodes_generated": 1,
+  "notes": "Single childlike synthetic American narrator; all characters share the narrator voice."
+}

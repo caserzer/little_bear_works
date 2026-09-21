@@ -1,0 +1,192 @@
+{
+  "id": 26,
+  "title": "The Package Next Door",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "clerk": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+      "ShortName": "en-US-JennyNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "General"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Considerate",
+          "Comfort"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 84.216,
+  "word_count": 235,
+  "words_per_minute_including_pauses": 167.4,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 15.96,
+      "clip_sha256": "a69aa9164297ac020672e69e909fc92bbf762d7eba612937e69e3f311c27f95e"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 16.080000000000002,
+      "end": 18.312,
+      "clip_sha256": "e0169f645d363d6193d19639aafb4c302eed11b4287e4bc511656d57585f2542"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 18.432000000000002,
+      "end": 26.136000000000003,
+      "clip_sha256": "6fb082326e54d8750a24aa3d704dd1059bd031e28be3409f134bdc6a6508809f"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 26.256000000000004,
+      "end": 31.248000000000005,
+      "clip_sha256": "7cde0c267ed11458115fb40856f552369dbc5656bda82172a5ec710e537b118d"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 31.368000000000006,
+      "end": 39.864000000000004,
+      "clip_sha256": "bfdf391a02b13d8267e3d66b2391eac219b1c002b52d3245836d6671c95448b0"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 39.984,
+      "end": 45.576,
+      "clip_sha256": "91f3c38a3f80bb2a060c040ed012b1a590c2e8372b240b26a1dd08d8a14ef2c4"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 45.696,
+      "end": 49.751999999999995,
+      "clip_sha256": "c7ae4c61528b840af5058c1355e91fd85029b4b487fdaf985a784d143fc0a37d"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 49.87199999999999,
+      "end": 59.44799999999999,
+      "clip_sha256": "6a007bd6efeb5d39c2524226e2dde78cb77cd2644df0c9df64e1d6ab31451388"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 59.56799999999999,
+      "end": 61.70399999999999,
+      "clip_sha256": "d57cd89717bf68a33293e2212eb7eb0afa9f59a33afe1bf9e9f36921cf53c4ed"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 61.82399999999999,
+      "end": 66.43199999999999,
+      "clip_sha256": "cf148ba85d86a2470de2cc3d681b2149ee4cccf379ad64ad3c7f091653e1199b"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 66.55199999999999,
+      "end": 69.312,
+      "clip_sha256": "472d7d4e722f1f60f18517714f5a459a40919040ff2b4680347ed25a3461c3d5"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 69.432,
+      "end": 84.168,
+      "clip_sha256": "b9e722a2017787be2cc607df03ae91b8543b04a0151c23a3037b731e2a28ba84"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "4ea558634b1378afda16d06eba6fb7677d5a98a1548d0e0fca9e865b6691e661",
+  "subtitle_sha256": "ab41633d920e89b6a5e96bcdda15ade4da4e16e664bc9bdb6bd30f642629f4ec",
+  "input_sha256": "b63ff2e06f6b7d4e231f1f7cf9c120952e0f4b33525eb35a3b10efc205c740c6",
+  "audio": "audio/26_the_package_next_door.mp3",
+  "subtitle": "subtitles/26_the_package_next_door.srt",
+  "transcript": "transcripts/26_the_package_next_door.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.3,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

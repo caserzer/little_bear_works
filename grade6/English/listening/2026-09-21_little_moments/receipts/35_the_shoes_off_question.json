@@ -1,0 +1,161 @@
+{
+  "id": 35,
+  "title": "The Shoes-Off Question",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 79.392,
+  "word_count": 248,
+  "words_per_minute_including_pauses": 187.4,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 15.576,
+      "clip_sha256": "6ca982b44bf5ecbfcedbeef4464a0b210f6ad040b535b38247a79df5ebcafa3d"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 15.696,
+      "end": 21.12,
+      "clip_sha256": "c1113b2b27fc151fe12cf12c2b14dfacca2b3c7095df8df28d30774d360a9902"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 21.240000000000002,
+      "end": 30.144000000000002,
+      "clip_sha256": "39b428b82124c0bc2a920af8cfcc90bd6e05c78ce894026ec2e8caf0b9e5315d"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 30.264000000000003,
+      "end": 33.816,
+      "clip_sha256": "072e58fef539843f9479122078816d51162e31b7545bcb2676d589d9c1b19e8d"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 33.936,
+      "end": 42.576,
+      "clip_sha256": "f8ed9771c8dc1a049a563ff6a17a7ff893c1eedcca91de460f1bf1c7d229a7ad"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 42.696,
+      "end": 47.76,
+      "clip_sha256": "f1a0e349b33d6065c6d99b5e26594d2ccbbb119426c258c3bff5249460b5395b"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 47.879999999999995,
+      "end": 58.416,
+      "clip_sha256": "7a258a0267aa6b673bdefe3079d2d4e8e56ccfbaa4406765069114940a47b7b7"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 58.535999999999994,
+      "end": 61.751999999999995,
+      "clip_sha256": "790161295cd715655456d1f898affaabd3a76ac1f9a3e6f4f349d8b557f3e999"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 61.87199999999999,
+      "end": 69.576,
+      "clip_sha256": "b2d56beba7c58cc9226b6d60f73e0139ba23539a0f245bbb46e6484a54a3ecef"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 69.696,
+      "end": 72.96,
+      "clip_sha256": "961f5db2177875d07adf034ee8b7e20023c0640d91c8992ea77e5e3ae8dea2ac"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 73.08,
+      "end": 79.344,
+      "clip_sha256": "f5312d0e95aff919211c1416a6e02dd4fce96d1a284876778ef8c4b2269dde29"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "247b80bb23227b6c96b658572466c21cb683a160cce47284bb3029924104e97f",
+  "subtitle_sha256": "63931e0b2b6eb65cb1647539c85698735f9b83f1fff3417861508b7a447879bc",
+  "input_sha256": "846287bec14575c15a8c6fa21dd2418e9ce45c952eed7d74bcc3fc66543fe686",
+  "audio": "audio/35_the_shoes_off_question.mp3",
+  "subtitle": "subtitles/35_the_shoes_off_question.srt",
+  "transcript": "transcripts/35_the_shoes_off_question.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.6,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

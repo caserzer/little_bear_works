@@ -1,0 +1,226 @@
+{
+  "id": 10,
+  "title": "The Almost-Perfect Picnic",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 79.776,
+  "word_count": 234,
+  "words_per_minute_including_pauses": 176.0,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 16.584,
+      "clip_sha256": "82fd0c9ca488c50de153f825ad913779b1f6f03f2068c4cf403caec326acb970"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 16.704,
+      "end": 18.264,
+      "clip_sha256": "47203d715e6b3acc0aaf5af2178e3ea0389aa08ae31208208050fabc01f7a64f"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 18.384,
+      "end": 20.112000000000002,
+      "clip_sha256": "1c0215c490a3ab6ff9824b58c43a4e3f81f1925d0ab7ff768bfbba507697f55e"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 20.232000000000003,
+      "end": 23.376000000000005,
+      "clip_sha256": "05f49d011f57c8ed23e87d4bb17684367e8920ddd8ef76bec9f54d3f0f87f822"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 23.496000000000006,
+      "end": 27.288000000000004,
+      "clip_sha256": "cb3ada77caa4c3797411fc2a2e4eb6c65a0fbb6f73f5b716ad4690e64977009c"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 27.408000000000005,
+      "end": 33.888000000000005,
+      "clip_sha256": "bd718e296bc5fcf2e79f96e7b1596bd3abd526f0390714851906078d29c4ed14"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 34.008,
+      "end": 44.448,
+      "clip_sha256": "4b6c85a117df3deba576b7051bb347d652a62968cdfeaa8d6cdfbca9ab3c052e"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 44.568,
+      "end": 49.416,
+      "clip_sha256": "c57b61c9a539fa76b77f00acbd8cb1320e9f8db8b7f8c40743f196fbe9db0640"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 49.535999999999994,
+      "end": 53.736,
+      "clip_sha256": "2c49a517e7d7d77b04a14a25db70ecbe0e2fcb9b9ccb38125925867625fe58ac"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 53.855999999999995,
+      "end": 61.343999999999994,
+      "clip_sha256": "23a3884fb02e4abf8bdfdbb3475f20c90a59896ae2c14f5636eb47ebe9771d26"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 61.46399999999999,
+      "end": 65.472,
+      "clip_sha256": "a75e5d4c07ff767dd685dff77895a216ad7143dbc1241ae091eb33ae3f30232a"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 65.592,
+      "end": 69.52799999999999,
+      "clip_sha256": "f5fa08bed241e934ddb60694ad6fe1193925468aa81e49f45cb9d30e633f3eb6"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 69.648,
+      "end": 79.728,
+      "clip_sha256": "e12d9f52b955a1c86e02170e99c0c2d7977ba82415f4a44a1b18ec28c925d3ba"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "dac317133872d56489df45e0fa3ff9835d8e350946528bdba2641cc07ab5fc80",
+  "subtitle_sha256": "57ce3712228c2b3efba176582e6fd4dd3f6ffccc1e73e3d803d1c4d936fe9676",
+  "input_sha256": "d6aba7c3ef214cbb2ebfb38e4121c24adfdd307ce3d31362f18a9a6fb739cd8f",
+  "audio": "audio/10_the_almost_perfect_picnic.mp3",
+  "subtitle": "subtitles/10_the_almost_perfect_picnic.srt",
+  "transcript": "transcripts/10_the_almost_perfect_picnic.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

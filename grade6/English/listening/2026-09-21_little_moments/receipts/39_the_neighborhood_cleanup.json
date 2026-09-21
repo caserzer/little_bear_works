@@ -1,0 +1,225 @@
+{
+  "id": 39,
+  "title": "The Neighborhood Cleanup",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 81.96,
+  "word_count": 242,
+  "words_per_minute_including_pauses": 177.2,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 16.2,
+      "clip_sha256": "544090abb2dcb64fe8f83dfea9a0e55ca01f4a63968214ab5d280e6cd27f4e8a"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 16.32,
+      "end": 22.416,
+      "clip_sha256": "c96df5fec41c98d5fc4463c38fd48b4b32601bc98d52dbb22bd3e9644b2e2ddc"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 22.536,
+      "end": 24.144000000000002,
+      "clip_sha256": "ad67132ff6a8e8eb52472eb326144d5f8fc386bd83735504750989ba87da182e"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 24.264000000000003,
+      "end": 29.040000000000003,
+      "clip_sha256": "0027f4433036e77feb61b1fbb0d8870908d987b1415986100b027e115b841d48"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 29.160000000000004,
+      "end": 33.6,
+      "clip_sha256": "bd36176158b1549c312b777c2d1907981381666165338e5d19e95b4367d9aca4"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 33.72,
+      "end": 42.504,
+      "clip_sha256": "36e2eea4249b951de1899c8aaaaa55efa3cb93a2c114dbedb67367cee11485aa"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 42.623999999999995,
+      "end": 44.711999999999996,
+      "clip_sha256": "b85a96dd945111508a7abd48fe5f162aae4c9396b5dcdc7f5bec4dcc239285b7"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 44.831999999999994,
+      "end": 53.80799999999999,
+      "clip_sha256": "2f30a39e92536fdf94787ff87636d63cc7249f7a883aa360b4aac7abb70f4d34"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 53.92799999999999,
+      "end": 57.93599999999999,
+      "clip_sha256": "14d84a8a9bf7440b6ccedb51ba3e3620426bd8f0050228727b75a2c57b790c46"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 58.05599999999999,
+      "end": 61.77599999999999,
+      "clip_sha256": "44f66b36a6913775696f98dc873c59435f84df69ec4f3088151ea709af38e2a1"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 61.89599999999999,
+      "end": 70.19999999999999,
+      "clip_sha256": "9945879f2062bedb98f3edf415ab2b159611a5ac8f3b1926a15d8fe738a74154"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 70.32,
+      "end": 72.192,
+      "clip_sha256": "74dee0e65215ce07f0f165933c39d0832628d4318970c7ba0cd182415c1754b1"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 72.312,
+      "end": 81.91199999999999,
+      "clip_sha256": "4d7bd59b75d97a0cb1233cea87819aceebc9e5d5dc33ec31f968125b1a36f472"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "e2cbb7a1121cdf7b8c3175b95a8a5edf649eadfb4c93a044b1ebfb0f386a3a42",
+  "subtitle_sha256": "4c846f4914d6e6a21150a5510794c1696b38945f573886ae101c85a8636c5d83",
+  "input_sha256": "236e5342a19fd5fabafec07d4c24b969362325a990eed12d745a949f34a38197",
+  "audio": "audio/39_the_neighborhood_cleanup.mp3",
+  "subtitle": "subtitles/39_the_neighborhood_cleanup.srt",
+  "transcript": "transcripts/39_the_neighborhood_cleanup.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.6,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

@@ -1,0 +1,246 @@
+{
+  "id": 19,
+  "title": "A Table by the Window",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "clerk": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+      "ShortName": "en-US-JennyNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "General"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Considerate",
+          "Comfort"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 84.744,
+  "word_count": 237,
+  "words_per_minute_including_pauses": 167.8,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 14.064,
+      "clip_sha256": "1c465778f8bc3e996cd58e3af941b661017338fc90055693084778fad63fa181"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 14.184,
+      "end": 16.535999999999998,
+      "clip_sha256": "2a17a76f14888eb9587a4f84979712ccc38d10b7bb32e1b7f2b5e2c4a00d316c"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 16.656,
+      "end": 20.424,
+      "clip_sha256": "ff0dab4300a942b1e6e916f11837227336a2c4e93e0785989661d213096b7983"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 20.544,
+      "end": 22.728,
+      "clip_sha256": "d0668fc7db5fc82ad5ef1d143881df6f960f031fc4999c53460832fd0a745cbf"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 22.848000000000003,
+      "end": 26.016000000000002,
+      "clip_sha256": "23761dcd4b12c8b886280451219f86592653ce5340e57b8881a7be4e6114c628"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 26.136000000000003,
+      "end": 27.888,
+      "clip_sha256": "1d9b8f87438841448e737f6afe4cbecabff46794d1f3977950a857bb9d1b6eff"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 28.008000000000003,
+      "end": 32.712,
+      "clip_sha256": "dd36a2f48a630b3eaac9bac0a72f54df3f4d1647f2608182daadf55900c6d631"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 32.832,
+      "end": 35.688,
+      "clip_sha256": "506089c319491c09409cda5acb4b411d44c052143c0b57da9072d037b4de16b6"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 35.808,
+      "end": 44.352000000000004,
+      "clip_sha256": "6fef3770a71afef6d82ead02893676b9fdbee428d40b08e0a95baab5cbec1a8e"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 44.472,
+      "end": 49.632000000000005,
+      "clip_sha256": "3740a22a61fb411d6de5ddb59b39e7431f05fece99b31b6373f39c60352734c9"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 49.752,
+      "end": 55.752,
+      "clip_sha256": "1a4a9afb6522b19c4c06cc6d044fa0255f1507a41d9a1766ce58e1c226e74318"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 55.872,
+      "end": 59.544,
+      "clip_sha256": "ebffb6ddc56c1cb46eacaabf8b4f921df9b9bc96f396caa4b427d2d1850fda5a"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 59.663999999999994,
+      "end": 62.663999999999994,
+      "clip_sha256": "107466d26ade0556945e9ecb1b597ed6238224f433df346e0ca2dc63f4473ea9"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 62.78399999999999,
+      "end": 74.232,
+      "clip_sha256": "596de4953925581fd0c4fe7bec2efc623b8ca007b1061ff85bb676d1b8e32397"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 74.352,
+      "end": 76.296,
+      "clip_sha256": "6de243c114a0f4111320ae9b40515488ce792d2a6b493103f153b74c60a3f41b"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 76.41600000000001,
+      "end": 84.69600000000001,
+      "clip_sha256": "a5fa8c547c499506de5e4579368f9d5f9bed2f67eaec58fdec277bd2f9da2fef"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "e44411ab9e9e8db534767a6d6997d62c2282a515f44d2cee44dcb032c5ff00a1",
+  "subtitle_sha256": "e4de354d71c8ce326b3fea5bdc88368c735145951ed7652555d21cc76ff4f67d",
+  "input_sha256": "8137ccdeafcfc55ee78881ac37ae9d72b028a82033157ccda0f7e702f721a87a",
+  "audio": "audio/19_a_table_by_the_window.mp3",
+  "subtitle": "subtitles/19_a_table_by_the_window.srt",
+  "transcript": "transcripts/19_a_table_by_the_window.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

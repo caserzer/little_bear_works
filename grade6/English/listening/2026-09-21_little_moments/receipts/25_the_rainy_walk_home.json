@@ -1,0 +1,201 @@
+{
+  "id": 25,
+  "title": "The Rainy Walk Home",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 82.056,
+  "word_count": 238,
+  "words_per_minute_including_pauses": 174.0,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 13.536,
+      "clip_sha256": "0d56b54570a89e783bbf80ee36af623fa67d675e4892c94506e74abfdf3a4500"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 13.655999999999999,
+      "end": 15.264,
+      "clip_sha256": "23baf12a7bccabbe834fbd46f4f4707ed10689562442707fa03a48ed4fafd351"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 15.383999999999999,
+      "end": 25.128,
+      "clip_sha256": "66512a336e18cb0cf2a1afd2e5fd6ab6e4000efd3bfb5420f4c6acd406bda671"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 25.248,
+      "end": 28.152,
+      "clip_sha256": "61ba225009f589a34862be611f0f1cd82806037398842fd848fb23242a32f5bb"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 28.272000000000002,
+      "end": 37.848,
+      "clip_sha256": "4ff01ecfc5e6fad4a405dee960f88f81330f9ecb2f684e9e34aa5b2b6715c2e9"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 37.967999999999996,
+      "end": 39.983999999999995,
+      "clip_sha256": "37f6e53bc19eebc0cfba06260d9017f80528e6e137d65cf600bb8920bf14430d"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 40.10399999999999,
+      "end": 45.983999999999995,
+      "clip_sha256": "c389d61ebfcac937f924b06420ec41d5bfb91950f9208cab4da750208180519c"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 46.10399999999999,
+      "end": 48.28799999999999,
+      "clip_sha256": "eac23c021a80b0b3d1281aca1ed9e80857ab8b4f9bb0d83cb205d336989d3628"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 48.40799999999999,
+      "end": 56.87999999999999,
+      "clip_sha256": "a52ee1b4e07ba5ae6e7e9995147560b852ed42177a195b5db8f80064d1ba4341"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 56.999999999999986,
+      "end": 60.02399999999999,
+      "clip_sha256": "ab33855ad2a476ad930c14897e6ccc7d9393e20bc0b567dea22a66f581a6aad7"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 60.143999999999984,
+      "end": 70.12799999999999,
+      "clip_sha256": "01727ac892a4793e264d33cfc82171edb2c2e7f00eb1a0ce8ff90b20d1fc9642"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 70.24799999999999,
+      "end": 74.35199999999999,
+      "clip_sha256": "622d0d3cb04b55d4afb9e2df5002edc55bf8971cd1bbd4b533b926d13ae86db5"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 74.472,
+      "end": 82.008,
+      "clip_sha256": "a268b11f8db74852472d483d9606ce7e089b3c8672f891d86aa449bfed74075e"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "f527a53cbc901a83366925f0d4ea81bcc36715acdc1e116613589f5c6149e49f",
+  "subtitle_sha256": "45a20c58e85c5d2eccde90cd99a961468d59ea658eb4baed1faa8c263d63b3fd",
+  "input_sha256": "70bef889f9b17bea284859bcbc297394adc4ec469001ca0a687c3a09ec9f0f41",
+  "audio": "audio/25_the_rainy_walk_home.mp3",
+  "subtitle": "subtitles/25_the_rainy_walk_home.srt",
+  "transcript": "transcripts/25_the_rainy_walk_home.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -3.2,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

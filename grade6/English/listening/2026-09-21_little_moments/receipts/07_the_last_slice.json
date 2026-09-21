@@ -1,0 +1,219 @@
+{
+  "id": 7,
+  "title": "The Last Slice",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 85.752,
+  "word_count": 232,
+  "words_per_minute_including_pauses": 162.3,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 12.984,
+      "clip_sha256": "721417b4f963d54360ca71c96661da9790c636b5e9a2c372319c8091cfccc7d4"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 13.104,
+      "end": 14.879999999999999,
+      "clip_sha256": "bcd3ffcff2aca3ee6b877b3bbd61e121cbce3b2775f130e5e3b8a5291bbffa97"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 14.999999999999998,
+      "end": 17.855999999999998,
+      "clip_sha256": "393a63439dc4634420ccab2025d0f7458b2d2c54e8b57b0a8b184a4b0bfc83c8"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 17.976,
+      "end": 22.919999999999998,
+      "clip_sha256": "5284bc49af960d93f18842ab19e2410da909cd5db7c167c733f049dc87ff23d4"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 23.04,
+      "end": 26.976,
+      "clip_sha256": "df1f3a112e6e38c7de367310e1702896da7613107b43f8545178547d0732d9d3"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 27.096,
+      "end": 34.056,
+      "clip_sha256": "c24089113bcf4de7c317f1ccae16a20a76cc5173926ef56db31ba2b1bf33ba3f"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 34.175999999999995,
+      "end": 38.99999999999999,
+      "clip_sha256": "e4695d1a0a882b60b8cefd95f69e336ca1befc00e80343751b49ee885728017d"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 39.11999999999999,
+      "end": 41.18399999999999,
+      "clip_sha256": "1ede2b457b7b35c1a86dc6f4ef3d954b662553f0e13fcb0da560a9c8a00eaf17"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 41.30399999999999,
+      "end": 43.17599999999999,
+      "clip_sha256": "02f0039bbb7e6e5567719ecec4b9e9cbd2af3cce0ae428b834ea5d0f82369534"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 43.295999999999985,
+      "end": 48.23999999999999,
+      "clip_sha256": "ded53e7db697b9472d353d3c640619a97b201de860709f90e6f83009e41ff45c"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 48.359999999999985,
+      "end": 57.23999999999999,
+      "clip_sha256": "9ee0f4584e7cf1344e409ceb1437ddc5d14a9818bd5b9ff6ab263d84643abbba"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 57.359999999999985,
+      "end": 61.89599999999999,
+      "clip_sha256": "d34fca137208444cbceb3d9f2066aeaa340c47156892f0d15551385e34d8e7d5"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 62.015999999999984,
+      "end": 69.79199999999999,
+      "clip_sha256": "38d1d81e9a0425caa41824d3a1b5e6ea231ccc31dc599021fd64e3b0dcaab2c9"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 69.91199999999999,
+      "end": 71.61599999999999,
+      "clip_sha256": "5da0e73f4f5faa56fba24b573dd28617faaae91edb18ccab191e46fd1134cf2f"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 71.73599999999999,
+      "end": 76.60799999999999,
+      "clip_sha256": "d92c32e9c31cf34a2301b1a0a174c4dffc09f3afb0cfd7feb19bde12acd70fc8"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 76.728,
+      "end": 85.704,
+      "clip_sha256": "92fa8bed8e4dff1957320f6bce386aab78fd714ab064d08dac4e478cc5050f65"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "89f3d1a8cf6591453d05ed5505bea1f54373c1729e810bd4fa0ee8ba40921fd5",
+  "subtitle_sha256": "905ca9914f1a1b0fb214d5c15203f1278efcfa2264e51342e43d6007a71e0594",
+  "input_sha256": "97484f8dc96943ac19993f7da182f237ddbe041e21a278bdaf399c9fe6e49f0b",
+  "audio": "audio/07_the_last_slice.mp3",
+  "subtitle": "subtitles/07_the_last_slice.srt",
+  "transcript": "transcripts/07_the_last_slice.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.3,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

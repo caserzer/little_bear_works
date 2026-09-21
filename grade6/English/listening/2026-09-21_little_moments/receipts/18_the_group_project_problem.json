@@ -1,0 +1,201 @@
+{
+  "id": 18,
+  "title": "The Group Project Problem",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "staff": {
+      "name": "老师／男性服务人员（按每集角色表）",
+      "voice": "en-US-ChristopherNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    },
+    "staff": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, ChristopherNeural)",
+      "ShortName": "en-US-ChristopherNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Christopher Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Reliable",
+          "Authority"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 81.768,
+  "word_count": 240,
+  "words_per_minute_including_pauses": 176.1,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 12.84,
+      "clip_sha256": "a8754dd1faae1a684b91170b0721ce162d3b458e98a2dc28e317f696adc69e7a"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 12.959999999999999,
+      "end": 14.664,
+      "clip_sha256": "fc122760aa4b8c7abc48ea053a30ef1e1cf840005ff7221d04c0969bf9613e01"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 14.783999999999999,
+      "end": 18.264,
+      "clip_sha256": "00cdb29ca9d65c2129b2ac1e5df7637f1edcc9a93a0834ed1e1201779781f944"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 18.384,
+      "end": 21.984,
+      "clip_sha256": "afc2b7f97e6eb85594b5aeeaa58e4ff649b0650e40bba5c4b2bb152302b4f9e8"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 22.104000000000003,
+      "end": 31.488000000000003,
+      "clip_sha256": "11fde78191b7d19ce781afe198e6e9e13f1557a687ad018b5fd152732cc9b21b"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 31.608000000000004,
+      "end": 36.288000000000004,
+      "clip_sha256": "4a288bd99ceb322d6af36ac9bfeff69d5929dda9087aa251e483ba0afdff635e"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 36.408,
+      "end": 46.704,
+      "clip_sha256": "3bd66161452d310060943c3a6f29f30be8d37c0d7f10103df7c7de92b197fa7a"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 46.824,
+      "end": 49.128,
+      "clip_sha256": "81160e63058184e6baa0e1617e0b5df5326f31c27ad38ccc10e2cc7a06a8fed3"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 49.248,
+      "end": 54.528,
+      "clip_sha256": "ee6ea7d24b10d7981b6b74c104ec12d918a3180c8889365b4cc020be5f46a78e"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 54.647999999999996,
+      "end": 59.63999999999999,
+      "clip_sha256": "d5fbe86dc322fd3f3ccdba5859deddc4605711cac8415ef875bdf6b906105220"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 59.75999999999999,
+      "end": 71.35199999999999,
+      "clip_sha256": "263202fc04d1270972c95461820cef5cfb9447732007502f22593c40a054b9fc"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 71.472,
+      "end": 73.63199999999999,
+      "clip_sha256": "523ccdf1edfdb7eee6b5725cde88783927218520fd3c2942d5171a81eed6d2cd"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 73.752,
+      "end": 81.72,
+      "clip_sha256": "dd07195075e3f81be8ed4368d3aafbdd2f263442582f2cb17e5053111099692d"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "154fe4afb5b37e5f58be9ad98a7ee93bfaddb849ef02ee9dee63d54ac6a7b564",
+  "subtitle_sha256": "237c8d28bed58968779a0149e82039b2acefdc5ff2712c1c7d3903f82db997a0",
+  "input_sha256": "cbccbf409aa61589b48bc86203bbe2fc15e8ebd141ba6280feb921267d18a031",
+  "audio": "audio/18_the_group_project_problem.mp3",
+  "subtitle": "subtitles/18_the_group_project_problem.srt",
+  "transcript": "transcripts/18_the_group_project_problem.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

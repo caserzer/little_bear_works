@@ -1,0 +1,43 @@
+{
+  "status": "SAMPLE_AWAITING_USER_FEEDBACK",
+  "title": "One More, Please!",
+  "title_zh": "再来一个，谢谢！",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "voice": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+    "ShortName": "en-US-MichelleNeural",
+    "Gender": "Female",
+    "Locale": "en-US",
+    "LocaleName": "English (United States)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "News",
+        "Novel"
+      ],
+      "VoicePersonalities": [
+        "Friendly",
+        "Pleasant"
+      ]
+    }
+  },
+  "rate": "+20%",
+  "pitch": "+0Hz",
+  "duration_seconds": 133.512,
+  "word_count": 316,
+  "words_per_minute_including_pauses": 142.0,
+  "audio_sha256": "2dd8b8f8ac0adb48a470d903c3df76cad675232c5b53307940c9c833db7e1327",
+  "text_sha256": "f1e93d0b4c13a10043183ce2480d5bf5432adab0ef623b69ec5321493ad2f221",
+  "checks": {
+    "full_decode": "passed",
+    "subtitle_full_text_match": true,
+    "peak_db": -2.6,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed",
+  "new_season_episodes_generated": 1,
+  "notes": "Single synthetic American female narrator, targeting a youthful natural sound; perceived age is not guaranteed. Faster revision requested by user; all characters share one voice."
+}

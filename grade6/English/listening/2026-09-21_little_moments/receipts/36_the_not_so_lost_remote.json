@@ -1,0 +1,198 @@
+{
+  "id": 36,
+  "title": "The Not-So-Lost Remote",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 86.568,
+  "word_count": 229,
+  "words_per_minute_including_pauses": 158.7,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 18.72,
+      "clip_sha256": "001f05245c15a5c794e0578740a6440717294acb2d33203ef96822160d4b4595"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 18.84,
+      "end": 20.688,
+      "clip_sha256": "5534ff5179fc216e994cd8f2e2a593d4ea7fdd7bf8a78d102503f80bbcaffe3f"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 20.808,
+      "end": 22.488,
+      "clip_sha256": "8892b1ab5b37d93c534d16db4e7c9832657ca36e03bb9dff95d11564c0b2d4a1"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 22.608,
+      "end": 29.880000000000003,
+      "clip_sha256": "676163f3eb46f5ec7fc9fb70dcce834261376917786c73d9fec731ea2dc557a2"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 30.000000000000004,
+      "end": 34.128,
+      "clip_sha256": "6f6e811a5f16ce8acec1cc5eb3539ff12455f5982f85e59e023e8df583ab9e0a"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 34.248,
+      "end": 41.064,
+      "clip_sha256": "31ee4d95628487d3a6dcab6523d26339bfa9e64ef75b3c7eb7975d77c5246abb"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 41.184,
+      "end": 51.288,
+      "clip_sha256": "bb7f9d30a9a787b64a052dc92dc169451a382ad8015b6a80fcd85f1cb0c5c78e"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 51.407999999999994,
+      "end": 53.855999999999995,
+      "clip_sha256": "5985ad50591b2ca4edad42d44e78eb9aa537a558eb1ce553a68a0dd27715244c"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 53.97599999999999,
+      "end": 57.26399999999999,
+      "clip_sha256": "8e25079dae7112f823644a35fcfb3de0661dea9e7c87197b9201d3683a33d900"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 57.383999999999986,
+      "end": 66.91199999999999,
+      "clip_sha256": "e59faa64d825b9a8675a9d9d0378de9b3aa607b0b220a71cbf623d30375770f5"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 67.032,
+      "end": 70.584,
+      "clip_sha256": "992a84f516ae3c60be88b5afd4b3b8bc5c9a9a864e106a959d7b3a5f16c3738c"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 70.70400000000001,
+      "end": 73.84800000000001,
+      "clip_sha256": "2023d9193d04d7deff0e864b967ed936c5816750f9afe60153617fc477e2d6b3"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 73.96800000000002,
+      "end": 86.52000000000001,
+      "clip_sha256": "5141bda9cda117728d4dbca041b1a5f27db532e356b3aa23c235b57e9205369b"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "6648334fb362386546a6184032927e42cf890e2463e0d2c7e17f49f368b6458c",
+  "subtitle_sha256": "7fcddeedda6e010b4c9c96c719181bcc35f4606c890c4e5e7ed5004c78d30436",
+  "input_sha256": "b14ede29a24bc0138270657aba3947108b67a59327e272b8206b9ab5f88bd4d2",
+  "audio": "audio/36_the_not_so_lost_remote.mp3",
+  "subtitle": "subtitles/36_the_not_so_lost_remote.srt",
+  "transcript": "transcripts/36_the_not_so_lost_remote.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

@@ -1,0 +1,201 @@
+{
+  "id": 38,
+  "title": "The Calendar Collision",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 85.704,
+  "word_count": 239,
+  "words_per_minute_including_pauses": 167.3,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 11.688,
+      "clip_sha256": "768903576410aabf76e7ab11fcae13fa3f58bdc941f49b06a2239f6e8617e275"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 11.808,
+      "end": 16.296,
+      "clip_sha256": "d729dc9a09ec2313a9ac00ad79b0c241dbd7f55f3bae999f68562979bde2f4d4"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 16.416,
+      "end": 23.64,
+      "clip_sha256": "552c85393c9b7ba44148a1ce19bb73b54aad03762a70c5c2a794b4127b4e3a04"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 23.76,
+      "end": 29.088,
+      "clip_sha256": "8cceb5396b976401b7fd1942f9b58c5a6b386eeaa0f00244c64692df32f6117f"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 29.208000000000002,
+      "end": 37.368,
+      "clip_sha256": "57511588c1cff6eb404cdea0423ee4914b436b0cc744040f481de8cfada7423c"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 37.488,
+      "end": 42.192,
+      "clip_sha256": "8992ee43e152157b6ff789c122fe246f56c85c09f2a9256ec91a23b1c18c6763"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 42.312,
+      "end": 47.232,
+      "clip_sha256": "a055994704c48526d68e37edad132bd8e23d69decd638d575f148d91ed4b4340"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 47.352,
+      "end": 50.16,
+      "clip_sha256": "50b65330c37e5d8fa4ebfd6213e820a77eb9982df0cc8433c7820a797f1758a7"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 50.279999999999994,
+      "end": 58.48799999999999,
+      "clip_sha256": "8f720e9cf0ca65c850ddce37be7108c8f617fa88ec6e40a36b0962b446415194"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 58.60799999999999,
+      "end": 62.03999999999999,
+      "clip_sha256": "bb17bbcf035d18d1c62a123b2c6b71a262f1c846f96a12a1d9eb8a2b23da2f55"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 62.15999999999999,
+      "end": 71.51999999999998,
+      "clip_sha256": "2934824232e48e3824748d5acf4afba2fa9d1c37dacbcf74403ff22fe8d6f93a"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 71.63999999999999,
+      "end": 73.46399999999998,
+      "clip_sha256": "12832cbfe15d2fe45f2b01a0ae820e75600b6cbafb8aa7b2e387a8466b8ae677"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 73.58399999999999,
+      "end": 85.65599999999999,
+      "clip_sha256": "8470af1320431940f74e5312819eb287a6a8c7b2c8a338a147ec257ee98d0b59"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "4a51c391ceff67084e0015c98094e5f2ff18888479644567dea4377bbf9aeb24",
+  "subtitle_sha256": "92e848b1da23af74fbeba93a3eb4088f79c5b8c413dfc604c0373479fde14525",
+  "input_sha256": "a2ca345cd52b36e7799284da4ac3d8463022f620b2dcce5a60acb884b974b397",
+  "audio": "audio/38_the_calendar_collision.mp3",
+  "subtitle": "subtitles/38_the_calendar_collision.srt",
+  "transcript": "transcripts/38_the_calendar_collision.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

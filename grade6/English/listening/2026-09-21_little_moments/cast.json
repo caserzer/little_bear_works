@@ -1,0 +1,44 @@
+{
+  "lucy": {
+    "name": "Lucy／第一人称旁白",
+    "voice": "en-US-MichelleNeural",
+    "rate": "+20%",
+    "pitch": "+0Hz"
+  },
+  "dad": {
+    "name": "爸爸",
+    "voice": "en-US-GuyNeural",
+    "rate": "+20%",
+    "pitch": "+0Hz"
+  },
+  "clerk": {
+    "name": "店员",
+    "voice": "en-US-JennyNeural",
+    "rate": "+20%",
+    "pitch": "+0Hz"
+  },
+  "ben": {
+    "name": "弟弟 Ben",
+    "voice": "en-US-EricNeural",
+    "rate": "+20%",
+    "pitch": "+6Hz"
+  },
+  "mom": {
+    "name": "妈妈",
+    "voice": "en-US-AriaNeural",
+    "rate": "+20%",
+    "pitch": "+0Hz"
+  },
+  "emma": {
+    "name": "朋友 Emma",
+    "voice": "en-US-EmmaMultilingualNeural",
+    "rate": "+20%",
+    "pitch": "+0Hz"
+  },
+  "staff": {
+    "name": "老师／男性服务人员（按每集角色表）",
+    "voice": "en-US-ChristopherNeural",
+    "rate": "+20%",
+    "pitch": "+0Hz"
+  }
+}

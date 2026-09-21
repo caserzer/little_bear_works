@@ -1,0 +1,220 @@
+{
+  "id": 8,
+  "title": "Wait, That's My Hoodie",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 85.152,
+  "word_count": 221,
+  "words_per_minute_including_pauses": 155.7,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 14.064,
+      "clip_sha256": "783dfeaf6d37aaf225f09fe8d8a1c0d43a2e9d381c502ac19c2396dcfda007f0"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 14.184,
+      "end": 17.352,
+      "clip_sha256": "77aa34c4916763a46b7b83d51099f3ccd785edca31b373512f898bdb7e2e19a3"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 17.472,
+      "end": 27.048000000000002,
+      "clip_sha256": "2784130761c3f35ef9e1737635825f0936eba94197b3dd1745cf7d29cf58fdd7"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 27.168000000000003,
+      "end": 32.472,
+      "clip_sha256": "308726c0f2aed424010aeac90349ebe05f832b158b23127b9d971a0c7adc7c71"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 32.592,
+      "end": 36.312,
+      "clip_sha256": "060025a2f829d769b7e5deeb5f6e2f9d82fc96de6cbde9764e2846c4c0e1fd89"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 36.431999999999995,
+      "end": 39.16799999999999,
+      "clip_sha256": "d515b4e2f5d0b780b8d9ae8decb5986a3140f514e6e9b49d2645b645c1711500"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 39.28799999999999,
+      "end": 41.95199999999999,
+      "clip_sha256": "de62b6303fda5eadee716d8ad32c6804761bdb0421b9aa66ad131878ce3b813b"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 42.07199999999999,
+      "end": 43.96799999999999,
+      "clip_sha256": "30091383e5932430138e458dff160ffd318f8ea8725cfacc993f035765a0a0f7"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 44.08799999999999,
+      "end": 49.823999999999984,
+      "clip_sha256": "85592d428bf498317c09e876a3992c95c84328d1df2e33edfedf1409909d21aa"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 49.94399999999998,
+      "end": 54.28799999999998,
+      "clip_sha256": "b515df27b1d1df8da8c2d39cc5217d44330dbf8ce991d465e82d9bb0a554dc48"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 54.40799999999998,
+      "end": 58.72799999999998,
+      "clip_sha256": "44caf7125209c4517a1611927a8911aa41c85ac0aa0f70b172e696e83bc364f8"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 58.84799999999998,
+      "end": 62.42399999999998,
+      "clip_sha256": "40afa521a4a7bf185fcf736cc8ef7b93d524660f3474ccbde86b47021895e25a"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 62.543999999999976,
+      "end": 71.97599999999997,
+      "clip_sha256": "fba125966b54a7dbf0e6e8312d06927d8348551f994c8f25ec3ee2264031e18a"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 72.09599999999998,
+      "end": 75.14399999999998,
+      "clip_sha256": "d3ee7b891e09c96ad8f44b94cc605504a92dc4dbc714c585d1902a980e98b735"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 75.26399999999998,
+      "end": 80.90399999999998,
+      "clip_sha256": "e9f2600d942498f61817a5e7a6561ddd3a444fa64c55b6f8298ff24ebbfb1906"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 81.02399999999999,
+      "end": 85.10399999999998,
+      "clip_sha256": "59525ac58e41f342392f3ef4ff11d640cb42ac151ebe94238de9cd955d2f40ed"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "8ef820ac5beca94e047da93c1a8ea7b1915f4b82b3be324b6b0735fac9f9ad92",
+  "subtitle_sha256": "0fb2cb3d4b937cc691d08480adf60aff232aebed60005d0558bdd4b534a3141e",
+  "input_sha256": "f49657b1730061dca6d0bfacf01ee155bb5061bfa08de81a2aeb7c649e6c8b36",
+  "audio": "audio/08_wait_that_s_my_hoodie.mp3",
+  "subtitle": "subtitles/08_wait_that_s_my_hoodie.srt",
+  "transcript": "transcripts/08_wait_that_s_my_hoodie.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.5,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

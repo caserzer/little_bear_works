@@ -1,0 +1,206 @@
+{
+  "id": 12,
+  "title": "Can I Try Another Size?",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "clerk": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+      "ShortName": "en-US-JennyNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "General"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Considerate",
+          "Comfort"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 76.584,
+  "word_count": 228,
+  "words_per_minute_including_pauses": 178.6,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 13.128,
+      "clip_sha256": "f709b2d4504f75b87605836858d5bb5c873d483713bb076cdf72e32bfaabba08"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 13.248,
+      "end": 15.48,
+      "clip_sha256": "707f87ac82daf10a4f936e49ac9caaf5dc7e21d1ee6cf4258e03f8323505e0b9"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 15.6,
+      "end": 25.416,
+      "clip_sha256": "eaff5788cd3ddb2f807ffae4341b03a2ef0ed71c6f26a3d7e64bdb540d6aa2fa"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 25.536,
+      "end": 27.168000000000003,
+      "clip_sha256": "6ba45413ebd1e12534fa8afb4d896ad66dc3e1eca5fbd882ca47792d55d76089"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 27.288000000000004,
+      "end": 31.872000000000003,
+      "clip_sha256": "5aacd39ec1c75cd009e6d7a45903506b4b856f2be186b79d624e0825a72f9edf"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 31.992000000000004,
+      "end": 34.344,
+      "clip_sha256": "a94c9aff780f3332564f0d9fc4f3facc6068fb6b4e077d7aa434efb0b1caab4a"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 34.464,
+      "end": 38.832,
+      "clip_sha256": "a627dc118dd8ef7d4cc84652b1f5dcdd92fb2517aa992739bf4dcf9fbf2b0002"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 38.952,
+      "end": 44.711999999999996,
+      "clip_sha256": "0f1f6a360e588fb4cf8f786b3576301164d221afda83d2f200ff8acd589e9a50"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 44.831999999999994,
+      "end": 49.60799999999999,
+      "clip_sha256": "672080918f49800ec3e76b94ae3a0e3b04385b81198d2cfdc33d5d682a2d7a1c"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 49.72799999999999,
+      "end": 56.231999999999985,
+      "clip_sha256": "91cef1e1515fded4c13a5b99cd9cef5be7bb92ce6fc422419dd6d8bef4c65734"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 56.35199999999998,
+      "end": 59.51999999999998,
+      "clip_sha256": "8b542033b0173f3fdf36ee2920a4b902df17ef6b88bdcd9addbbde8ef8c55048"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 59.63999999999998,
+      "end": 66.21599999999998,
+      "clip_sha256": "16564e515a166d77f3f5ba4a145458bfad2f7249c6b1a077ba375ff14535f8c7"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 66.33599999999998,
+      "end": 67.60799999999999,
+      "clip_sha256": "c5a9f726091c433cfc4723cb7c3989c5f80841fca61492082122de14e966d3a8"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 67.728,
+      "end": 76.536,
+      "clip_sha256": "42c0a70a56947f2cab3da21ba9b10a968225649748b3c5e13d12538be8468637"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "6f1610048fe5dce791f1da78fec98533a44e1706a4202a6b8df6bfacdadf14ac",
+  "subtitle_sha256": "df20710aaff68a2fa270be9c9b6956be071b929d5e48f5c954109c1b36fd5192",
+  "input_sha256": "949bb60e1ee4d79eeac95688c5a2ac9b7a9784ec2b5b6f81b84bc68d9732496a",
+  "audio": "audio/12_can_i_try_another_size.mp3",
+  "subtitle": "subtitles/12_can_i_try_another_size.srt",
+  "transcript": "transcripts/12_can_i_try_another_size.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.5,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

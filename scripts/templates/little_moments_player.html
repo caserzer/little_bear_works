@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Little Moments · 生活英语</title>
+<style>
+:root{color-scheme:light;--ink:#263c38;--green:#28675b;--paper:#fcfaf3;--line:#dce4d9;--muted:#61766f}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.7 system-ui,-apple-system,"Segoe UI",sans-serif}
+header,main,footer{max-width:1120px;margin:auto;padding:28px}header{padding-top:40px;padding-bottom:12px}.eyebrow{color:var(--green);font-size:13px;letter-spacing:2px;font-weight:700}h1{font-size:clamp(28px,5vw,42px);margin:6px 0}h2{font-size:25px;line-height:1.4;margin:8px 0}.sub{color:var(--muted);margin:8px 0}.layout{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(280px,1fr);gap:24px;align-items:start}
+.card{background:white;border:1px solid var(--line);border-radius:20px;padding:25px;box-shadow:0 6px 24px #263c3806}.player{position:sticky;top:20px}.pill{display:inline-block;padding:3px 11px;border-radius:20px;background:#eaf2e9;color:var(--green);font-size:13px}
+audio{width:100%;margin:18px 0 10px}.controls{display:flex;align-items:center;gap:9px;flex-wrap:wrap}button,select,input{font:inherit;border:1px solid var(--line);border-radius:9px;background:white;color:var(--ink);padding:8px 12px}button{cursor:pointer}button:hover{background:#edf4ec}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #dcb957;outline-offset:3px}.primary{background:var(--green);color:white;border-color:var(--green)}.primary:hover{background:#205247}.small{font-size:13px;color:var(--muted)}
+.listen-mode{margin-top:16px;display:flex;gap:12px;align-items:center;flex-wrap:wrap}.listen-mode input{accent-color:var(--green)}
+details{margin-top:20px;border-top:1px solid var(--line);padding-top:14px}summary{cursor:pointer;font-weight:600}.transcript{font:17px/1.95 Georgia,"Times New Roman",serif;white-space:pre-wrap;max-height:430px;overflow:auto;padding-top:15px}.vocab{font-size:14px;padding:12px 15px;background:#f6f8f1;border-radius:10px}.links{display:flex;gap:16px;margin-top:17px;font-size:14px}a{color:var(--green);text-underline-offset:3px}
+.filters{display:flex;flex-direction:column;gap:10px;margin-bottom:15px}.filters input,.filters select{width:100%}.episodes{display:flex;flex-direction:column;gap:7px;max-height:780px;overflow:auto;padding:2px}.episode{text-align:left;width:100%;display:grid;grid-template-columns:34px 1fr auto;gap:10px;padding:12px;border-radius:12px}.episode.active{background:#eaf2e9;border-color:#92b5a8}.number{font-weight:700;color:var(--green)}.en-title{font-size:12px;color:var(--muted);display:block;line-height:1.45}.length{font-size:12px;color:var(--muted);white-space:nowrap}.empty{padding:20px}.note{border-left:3px solid #e0bd63;padding-left:12px;margin-top:20px;font-size:14px;color:var(--muted)}footer{font-size:13px;color:var(--muted);padding-top:0}.error{color:#a23527}
+@media(max-width:760px){header,main,footer{padding:18px}header{padding-top:28px}.layout{grid-template-columns:1fr}.player{position:static}.card{padding:20px}.episodes{max-height:520px}h2{font-size:22px}}
+</style>
+</head>
+<body>
+<header><div class="eyebrow">LITTLE MOMENTS</div><h1>生活小事，慢慢听懂。</h1><p class="sub" id="collection">美式英语 · 分角色生活故事</p></header>
+<main class="layout">
+<section class="card player" aria-label="音频播放器">
+<span class="pill" id="category"></span><h2 id="title"></h2><p class="sub" id="englishTitle"></p><p id="intro"></p>
+<audio id="audio" controls preload="metadata"></audio>
+<div class="controls"><button id="prev" aria-label="上一集">← 上一集</button><button id="next" class="primary" aria-label="下一集">下一集 →</button><label class="small" for="speed">播放速度</label><select id="speed"><option value="0.85">0.85×</option><option value="1" selected>1×</option><option value="1.1">1.1×</option><option value="1.25">1.25×</option></select></div>
+<div class="listen-mode"><label><input type="checkbox" id="autonext" checked> 连续播放</label><label><input type="checkbox" id="repeat"> 单集循环</label></div>
+<p class="small" id="status" aria-live="polite"></p>
+<details><summary>听前看一眼：三个词</summary><p class="vocab" id="words"></p><p class="small" id="focus"></p></details>
+<details id="transcriptDetails"><summary>展开英文原文</summary><div class="transcript" id="transcript" lang="en"></div></details>
+<div class="links"><a id="download" download>下载本集 MP3</a><a id="subtitle" download>下载英文字幕</a></div>
+<p class="note">先听故事，再按需展开原文。熟悉的角色会用固定声音出现；喜欢的生活片段可以多听几次。</p>
+</section>
+<section class="card" aria-label="全部集数">
+<div class="filters"><input type="search" id="search" aria-label="搜索故事" placeholder="找一个感兴趣的故事…"><select id="filter" aria-label="按主题选择"><option value="">全部主题</option></select></div>
+<div id="episodes" class="episodes"></div>
+</section>
+</main>
+<footer>原创虚构人物与故事 · AI合成分角色美式配音 · 下载解压后可离线使用。<a href="README.md">使用说明</a> · <a href="目录.md">完整目录</a></footer>
+<script>
+const episodes = __EPISODES__;
+const $=id=>document.getElementById(id), audio=$('audio');
+let current=0;
+const minutes=s=>Math.floor(Math.round(s)/60)+':'+String(Math.round(s)%60).padStart(2,'0');
+const safeStore={get(k){try{return localStorage.getItem(k)}catch{return null}},set(k,v){try{localStorage.setItem(k,v)}catch{}}};
+const prior=Number(safeStore.get('little-moments-episode')||1);
+const priorIndex=episodes.findIndex(e=>e.id===prior);if(priorIndex>=0)current=priorIndex;
+const total=episodes.reduce((a,e)=>a+e.duration_seconds,0);
+$('collection').textContent=episodes.length+' 集 · 分角色对话 · 总计约 '+Math.round(total/60)+' 分钟 · 美式英语';
+for(const group of [...new Set(episodes.map(e=>e.category))]){const o=document.createElement('option');o.value=group;o.textContent=group;$('filter').append(o)}
+function list(){
+ $('episodes').replaceChildren();
+ const query=$('search').value.trim().toLowerCase(),group=$('filter').value;
+ episodes.forEach((e,i)=>{
+  if(group&&e.category!==group)return;
+  if(query&&!(e.title+' '+e.title_zh+' '+e.summary_zh+' '+e.id).toLowerCase().includes(query))return;
+  const b=document.createElement('button');b.className='episode'+(i===current?' active':'');b.setAttribute('aria-label','第'+e.id+'集 '+e.title_zh+'，'+minutes(e.duration_seconds));
+  if(i===current)b.setAttribute('aria-current','true');
+  const n=document.createElement('span');n.className='number';n.textContent=String(e.id).padStart(2,'0');
+  const title=document.createElement('span');title.textContent=e.title_zh;const en=document.createElement('span');en.className='en-title';en.textContent=e.title;title.append(en);
+  const time=document.createElement('span');time.className='length';time.textContent=minutes(e.duration_seconds);
+  b.append(n,title,time);b.onclick=()=>select(i,true);$('episodes').append(b);
+ });
+ if(!$('episodes').children.length){const p=document.createElement('p');p.className='empty';p.textContent='没有找到，试试其他关键词。';$('episodes').append(p)}
+}
+function play(){audio.play().catch(()=>{$('status').textContent='请点播放器上的播放按钮继续。'})}
+function select(i,shouldPlay=false){
+ current=(i+episodes.length)%episodes.length;const e=episodes[current];
+ $('category').textContent='第 '+String(e.id).padStart(2,'0')+' 集 · '+e.category;
+ $('title').textContent=e.title_zh;$('englishTitle').textContent=e.title;$('intro').textContent=e.summary_zh;
+ $('words').textContent=Object.entries(e.words).map(([w,v])=>w+'：'+v).join('　 /　 ');
+ $('focus').textContent='生活情境：'+e.focus;
+ $('transcript').textContent=e.speech;$('download').href=e.audio;$('subtitle').href=e.subtitle;
+ $('transcriptDetails').open=false;$('status').classList.remove('error');
+ $('status').textContent='时长 '+minutes(e.duration_seconds)+' · '+Object.keys(e.cast).length+'个不同角色声音';
+ audio.src=e.audio;audio.playbackRate=Number($('speed').value);audio.loop=$('repeat').checked;
+ safeStore.set('little-moments-episode',String(e.id));list();if(shouldPlay)play();
+}
+$('prev').onclick=()=>select(current-1,true);$('next').onclick=()=>select(current+1,true);
+$('speed').onchange=()=>{audio.playbackRate=Number($('speed').value)};
+$('repeat').onchange=()=>{audio.loop=$('repeat').checked};
+$('search').oninput=list;$('filter').onchange=list;
+audio.addEventListener('ended',()=>{if($('autonext').checked&&!$('repeat').checked){if(current<episodes.length-1)select(current+1,true);else $('status').textContent='40 集播放完毕。可以重新挑选喜欢的故事。'}});
+audio.addEventListener('error',()=>{$('status').classList.add('error');$('status').textContent='未能打开音频。请先完整解压音频包，并保留播放页与 audio 文件夹的位置。'});
+if(episodes.length)select(current);else $('status').textContent='还没有可播放的音频。';
+</script>
+</body>
+</html>

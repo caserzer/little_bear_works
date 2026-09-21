@@ -1,0 +1,186 @@
+{
+  "id": 29,
+  "title": "A Small Apology",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 84.12,
+  "word_count": 252,
+  "words_per_minute_including_pauses": 179.7,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 15.432,
+      "clip_sha256": "01fa692932e52fc25315e78a5b873b83ad18e758ee6299bf6b10489fb45321a8"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 15.552,
+      "end": 18.384,
+      "clip_sha256": "7d97934b634ca9f56927e11ef7b3a25545e06785ea5f0a5d1fb33456c7ec783c"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 18.504,
+      "end": 29.808,
+      "clip_sha256": "893ad650f7406d3e398f5128dfc5411ab4d0756300c41b975d399b826587de53"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 29.928,
+      "end": 31.752000000000002,
+      "clip_sha256": "6f6a796a15860b7167c9b2c08f1d16cffcef4c8e7d5752071d543976b6df73ad"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 31.872000000000003,
+      "end": 42.528000000000006,
+      "clip_sha256": "c3e1946745711930764c19cbfa635f9c0f26c6603f1a55d42d10f3677a93f193"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 42.648,
+      "end": 46.800000000000004,
+      "clip_sha256": "261e8b206cb97876d3d60a675423d6ff7fb16964c41052fc99a67202274c0fd2"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 46.92,
+      "end": 52.464,
+      "clip_sha256": "1b2e1c7b0d7c8a25ed4ddaaf4c3dd2fb651bd8860a041982594ce128e8d3fcd1"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 52.583999999999996,
+      "end": 58.559999999999995,
+      "clip_sha256": "aa325186aea507fcbff0ff545b658562fda97734044fb97284806dda283aa303"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 58.67999999999999,
+      "end": 72.24,
+      "clip_sha256": "69b5d0afe4a0d4c62b761654e59157c813fabf8a306b36c602cfc3c3fd1efe17"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 72.36,
+      "end": 74.16,
+      "clip_sha256": "878965a778b4c8c16f02f1b552bdd31cb016c14010d68a5870c494f974325861"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 74.28,
+      "end": 84.072,
+      "clip_sha256": "33f2fe2742c750433b02028b48c49ffebfa344e48aaad86436fa9b3d6bd06599"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "24a5d18a0de18f8dc27a80c08aa7ab1ebdcd811b28725255a7a808959dd84903",
+  "subtitle_sha256": "96a918fac03672c3ec67b0cf6b25c496c1674b1ce6148864e797649ec35f001f",
+  "input_sha256": "131e0ac03fb75ff4df13ad96f73c49a221bc043397bb13a7c44acde83e9c0d99",
+  "audio": "audio/29_a_small_apology.mp3",
+  "subtitle": "subtitles/29_a_small_apology.srt",
+  "transcript": "transcripts/29_a_small_apology.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.8,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

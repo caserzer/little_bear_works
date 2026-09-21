@@ -1,0 +1,189 @@
+{
+  "id": 14,
+  "title": "The Homework Help Call",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 84.216,
+  "word_count": 239,
+  "words_per_minute_including_pauses": 170.3,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 11.856,
+      "clip_sha256": "c2a388ec938ee3016df7b46517d0a4b3b3ef2c23024787c66221ac31dd096f57"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 11.975999999999999,
+      "end": 13.056,
+      "clip_sha256": "fd7be4988d38f928f2918588c27471b187b1de890296c5f7e6fc38f50d390f36"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 13.175999999999998,
+      "end": 20.112,
+      "clip_sha256": "7a839be7a89014819d97467ac443f1a2055d293a48ca18105426ad9286d5357c"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 20.232,
+      "end": 22.439999999999998,
+      "clip_sha256": "362c55249d03102a85f45a8c43575e9656204c70e7e7e07c1dea7c9ac2ac7af8"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 22.56,
+      "end": 29.424,
+      "clip_sha256": "7389a0a25a2be3e00e684290ba376886638001ba8b24f08545efaf809ada4552"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 29.544,
+      "end": 34.68,
+      "clip_sha256": "47d380b9eb1da61389723e72e556fc538a43f972bd09398dcef343c2b8cdbfcc"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 34.8,
+      "end": 43.656,
+      "clip_sha256": "8ec1e2d190297f34a152b0f626856da871af29e72f4eddb43d06198714a2eff2"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 43.775999999999996,
+      "end": 51.0,
+      "clip_sha256": "3fe357cf124b9312c03dcb5a839a5d668070aa8d9bf762fca683ef334acf4bc5"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 51.12,
+      "end": 53.879999999999995,
+      "clip_sha256": "b8d5eef72593133f42155b8f47e9655e5240bc4e55a4c45172ecafd41f6b4420"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 53.99999999999999,
+      "end": 58.67999999999999,
+      "clip_sha256": "7aeb457e3779798fdfe7dbaa8a99bbabd00d021e67bebb9dfa809a039ecfd397"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 58.79999999999999,
+      "end": 66.96,
+      "clip_sha256": "fd080e262e3e425bd59f788831f271fc244e2fced3858cdcfe04c3625f85e921"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 67.08,
+      "end": 68.16,
+      "clip_sha256": "abe701aed5df5413b01cb5efebc2436a3b9d20f594b97d85758c3ca926651264"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 68.28,
+      "end": 71.4,
+      "clip_sha256": "c9a64ba715417b5a0f6c10e45e30f0f51abc1509910a7dd976a9e3553e3dd351"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 71.52000000000001,
+      "end": 73.968,
+      "clip_sha256": "aa992df972b8128ec1d0f270ebdaf3171b8eaabbbbe6b24432de4291fee250e9"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 74.08800000000001,
+      "end": 84.168,
+      "clip_sha256": "22e849eb656f3412e0423dcf36bb954a96acbd02dd60fbd50db612ebd05447ec"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "0812a9e4cc38fc87bdda3b32df744cfd26554a785d6c367cb0769b25ee3a2161",
+  "subtitle_sha256": "18bc7af0ea600167509e638d1148796cf15e23bd10a7586d8a6f77fff4ee0f85",
+  "input_sha256": "7e980fae74dff16f58334e7c6e7e1ba1edd4db18a5dfcdb62f815c5fd1f2c93d",
+  "audio": "audio/14_the_homework_help_call.mp3",
+  "subtitle": "subtitles/14_the_homework_help_call.srt",
+  "transcript": "transcripts/14_the_homework_help_call.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.7,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

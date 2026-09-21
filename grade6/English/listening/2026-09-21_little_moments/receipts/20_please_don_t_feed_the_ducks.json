@@ -1,0 +1,191 @@
+{
+  "id": 20,
+  "title": "Please Don't Feed the Ducks",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 78.0,
+  "word_count": 242,
+  "words_per_minute_including_pauses": 186.2,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 13.272,
+      "clip_sha256": "0186861b23251fde76d5847eff439e3edb1dfe257fdf9cc9e7779837ad58fdf5"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 13.392,
+      "end": 17.016,
+      "clip_sha256": "c8d59f82d496f28505e8064a17f549622ad7340473145a95cb3f936fbe2756e1"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 17.136,
+      "end": 24.72,
+      "clip_sha256": "df802772a9f8be334a14ccc5cf34dea740c71e5ed7c2ef94038df3ffb3ea7e03"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 24.84,
+      "end": 29.52,
+      "clip_sha256": "d9c7e9d73f0a850c1c8d8a07fb730d3efaf87bf843d13bc89fdd6044558a5a9e"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 29.64,
+      "end": 35.64,
+      "clip_sha256": "bfbb6aff26679cb3e0a1a392f821e2ecc9a163241a71282ea24586680dbd0774"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 35.76,
+      "end": 43.992,
+      "clip_sha256": "97372b9623fa5effe7e7608f7b93296148ccbf42c491a71d9ea39669a7700f05"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 44.111999999999995,
+      "end": 46.367999999999995,
+      "clip_sha256": "ebd0eb9db6cf6fe6a91fdaab769b9f4c8d7db4e707f89f6fcbeac55d999fdc55"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 46.48799999999999,
+      "end": 52.99199999999999,
+      "clip_sha256": "6fd9a19c2a61b1d73b8a56f94beef6cc13d9f9cf246b717c6db547818f6ab510"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 53.11199999999999,
+      "end": 55.99199999999999,
+      "clip_sha256": "279c8f4547d1b9e746606aa019c4abbb5eeb566fa70ee7a837e64831c2d3e7a0"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 56.11199999999999,
+      "end": 64.15199999999999,
+      "clip_sha256": "73cd757cf77882f7d181bfd4c5ba932e18ee18113f0f16f96c624fa1396d54b6"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 64.27199999999999,
+      "end": 66.88799999999999,
+      "clip_sha256": "202e4d8b2fb05422dad0765f9eb4aca449a74011862d2a67abcc4ceebe8c6da1"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 67.008,
+      "end": 77.952,
+      "clip_sha256": "e4c56a55e6650b4efe5c6505fb8ec0d0eae24c0573c5e540766ba083bb8b5a80"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "fbd7d1f654600dd2ccce15a2fb7c680aeb2465abdb985f85cfe60d5f0d9d44ab",
+  "subtitle_sha256": "761743da7b40e33224abad3f5377e27b9afb4c0186090b10af4a4b013b65b7f6",
+  "input_sha256": "0ffd1389fcaa62ce9064dcf16e0e7af62765ae3f787982e98e795ee4405d8773",
+  "audio": "audio/20_please_don_t_feed_the_ducks.mp3",
+  "subtitle": "subtitles/20_please_don_t_feed_the_ducks.srt",
+  "transcript": "transcripts/20_please_don_t_feed_the_ducks.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

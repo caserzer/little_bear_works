@@ -1,0 +1,213 @@
+{
+  "id": 11,
+  "title": "The Red Sock Mystery",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 89.28,
+  "word_count": 228,
+  "words_per_minute_including_pauses": 153.2,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 13.2,
+      "clip_sha256": "5bb7d1ee619433fd28616b3c240f76ad47f9e11df7f56b9b3263cde89e5eeb1d"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 13.319999999999999,
+      "end": 17.951999999999998,
+      "clip_sha256": "d67c65988f1bf8b06433971dabfcc3f83cf87ba683ae96a85eaac87525c4f151"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 18.072,
+      "end": 23.712,
+      "clip_sha256": "d5b32109f7a2f82ed67cd26f42ecbfe3dfee9b623335209eeb6a26677f7f0f07"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 23.832,
+      "end": 27.264,
+      "clip_sha256": "e5c8d504de09499fb372af234256d1ca1a0e454b2d0887dd950a278be6b3d965"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 27.384,
+      "end": 33.072,
+      "clip_sha256": "68ff4736e3c7f0c8f0210f63ef71f261768950e67b05551190501f912fda2495"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 33.192,
+      "end": 42.528,
+      "clip_sha256": "ebb35bc9a59ee406f44c126d51f18e55e82c154bbf144427ae5e3feb85b95779"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 42.647999999999996,
+      "end": 46.943999999999996,
+      "clip_sha256": "1c519e46507ec673d4323813a9ce89e0063fb01377972027bae02e49b05df65a"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 47.06399999999999,
+      "end": 52.07999999999999,
+      "clip_sha256": "3aab8bb2e581484d2bf50c1b586d4a1245b2bce196d0a7522e43f62781f34919"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 52.19999999999999,
+      "end": 56.83199999999999,
+      "clip_sha256": "4170db69d9894de75e37bbb6a36c01eee580fd5a2ec8ab5be344038aa3725c3a"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 56.951999999999984,
+      "end": 65.75999999999999,
+      "clip_sha256": "801d0148bb5132d0f45221728f72c9cf28cc99ad1de550b52e95efac87499ca4"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 65.88,
+      "end": 69.288,
+      "clip_sha256": "c73ab030deaff049735f16d8e8146034666fb479712b327dac48313ff2e86dd4"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 69.408,
+      "end": 71.76,
+      "clip_sha256": "2229c4a492b67ab1beb285c1539a8c814432f95bba5b905619a6d057d4a2d209"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 71.88000000000001,
+      "end": 77.64000000000001,
+      "clip_sha256": "b56d7eaed5135bc12ad679360956be4035805ac9b925e926f7b45479993548eb"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 77.76000000000002,
+      "end": 81.36000000000001,
+      "clip_sha256": "664c2be11547b273c0d7bb5230ed12374dc24a4fe131e2847e53e2700f4877ac"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 81.48000000000002,
+      "end": 89.23200000000001,
+      "clip_sha256": "96443262d51c0c4fec9eba2c374c630a815ee67132ad848d261c112ecf3e2d1f"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "15c5d322d487d667c8990511ede6dd6cd8b000f174957c7ff0cf037616de9fe9",
+  "subtitle_sha256": "347eb891e5422061d6dd23d20611c791118a5a07e1491fec03ac0bc22ee39ed1",
+  "input_sha256": "8b1d90888b2b838592e26ded806d073a02f25f751ecf6ab2679f9b85ef967128",
+  "audio": "audio/11_the_red_sock_mystery.mp3",
+  "subtitle": "subtitles/11_the_red_sock_mystery.srt",
+  "transcript": "transcripts/11_the_red_sock_mystery.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

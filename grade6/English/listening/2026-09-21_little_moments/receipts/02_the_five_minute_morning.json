@@ -1,0 +1,199 @@
+{
+  "id": 2,
+  "title": "The Five-Minute Morning",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 90.672,
+  "word_count": 243,
+  "words_per_minute_including_pauses": 160.8,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 12.192,
+      "clip_sha256": "758486ab62832fe5956f1ae024cd20b22ebc01d21d7ff3ba517b17c8f29bc3a3"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 12.312,
+      "end": 18.311999999999998,
+      "clip_sha256": "a6ce1af2e9f3704bff4c2d000d43dfe27e81cd8d414ce03f25afb0126120228e"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 18.432,
+      "end": 27.599999999999998,
+      "clip_sha256": "f0c2acd02f9edbcc8ad615d9343de3d26fa85986e288ab8e11ba59860d6fff32"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 27.72,
+      "end": 31.488,
+      "clip_sha256": "a46ccfa260a98ad04bc8cdc2304984d3302150add680e055e052fb788e58ed58"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 31.608,
+      "end": 41.496,
+      "clip_sha256": "f6f207770cb024b880cee017261280582a11eb3985a2950404a13096ccfb9af1"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 41.616,
+      "end": 45.432,
+      "clip_sha256": "828980fdf0d9676d1fdc0c459e70ebc266e623aa10e29733fe8bd18e80807e76"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 45.552,
+      "end": 53.879999999999995,
+      "clip_sha256": "850050060dbff382e8de21020efb840eada4940241f2b25ffe08987196fded49"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 53.99999999999999,
+      "end": 57.91199999999999,
+      "clip_sha256": "8c06f78cf5585491bcfddc54c10fc2f4537f448b04c04c3d7ad4aa107062fd84"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 58.03199999999999,
+      "end": 65.30399999999999,
+      "clip_sha256": "f1c81c5e4f34717250e7052d1b7df18204eec25b7f8fc1a56c6820b1b951ddc2"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 65.42399999999999,
+      "end": 70.53599999999999,
+      "clip_sha256": "0325b9c418225ff8f0d1446f559e95267447a8bdb83e96211be87637a7fac75a"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 70.65599999999999,
+      "end": 75.02399999999999,
+      "clip_sha256": "f86bc54a2624a0667303e1641cc959478ef5074f20580474b80b0a1843cff940"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 75.14399999999999,
+      "end": 77.25599999999999,
+      "clip_sha256": "8915ba1959176b234f7c900e4df2a80df75595ddd353d80d060711110b068816"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 77.37599999999999,
+      "end": 90.624,
+      "clip_sha256": "3aaacaedc3282458d5b3796cf6b79c2f54110417bc5aa7904b50b82f0b59eb0a"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "3b4c6a940be7fe6ca5ebddfb9b4a7dfc360224643aefb98ec4d527b273cdf46d",
+  "subtitle_sha256": "071eb94b242d5cc4ae78f70c8848a9000b9755b12bc89eb89b840a59ea26e3bf",
+  "input_sha256": "11a0cd3573b5d5fea6453dc3dac6e8e10df845dc1bd4f578b38507f7e883a96d",
+  "audio": "audio/02_the_five_minute_morning.mp3",
+  "subtitle": "subtitles/02_the_five_minute_morning.srt",
+  "transcript": "transcripts/02_the_five_minute_morning.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

@@ -1,0 +1,214 @@
+{
+  "id": 24,
+  "title": "A Haircut, Just a Little",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "clerk": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+      "ShortName": "en-US-JennyNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "General"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Considerate",
+          "Comfort"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 81.888,
+  "word_count": 234,
+  "words_per_minute_including_pauses": 171.5,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 13.8,
+      "clip_sha256": "989ec9e65dd1e7820795f60f1bfa8425ee25552c0085c6b04fe919029cd8bd82"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 13.92,
+      "end": 15.624,
+      "clip_sha256": "66b1caf06c4b349e725fe82690bc771a73a8efa8b64270407555016f9a998239"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 15.744,
+      "end": 17.88,
+      "clip_sha256": "d2924f575fe8ec878827dbf58d6109d790052e760a55bfc8b3a9fae823539ab1"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 18.0,
+      "end": 20.904,
+      "clip_sha256": "a096e308e64789982f0e1fc86b725a2d3d652c6dbeb5f51843d136bc5d0f5f48"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 21.024,
+      "end": 27.216,
+      "clip_sha256": "da238c304cc614344cad3aa5c7d1301993897a8260b8eb2de8ffa7c24b13249b"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 27.336000000000002,
+      "end": 33.216,
+      "clip_sha256": "266b637e65335a4870edccb2368b017c1296bacf8e8a65e74a3e14eb55ae2b2b"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 33.336,
+      "end": 42.672,
+      "clip_sha256": "2135d4ab508404beb2f29f8ad9be85b7170d920f8fb5b37bcf520104eb7c3762"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 42.791999999999994,
+      "end": 44.20799999999999,
+      "clip_sha256": "dc7a28e058f4104b6c3e9cbf670e266fd89d56868882bac6d3942268e6319010"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 44.32799999999999,
+      "end": 49.487999999999985,
+      "clip_sha256": "f59a940b62e065249db3dc635c58b7a27d89c3854ec4a2156550aa891fe3a061"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 49.60799999999998,
+      "end": 53.759999999999984,
+      "clip_sha256": "e9b16cfb2960f8f33c641f156de2308b5d31f12f1b5deec235d2abedf1248708"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 53.87999999999998,
+      "end": 63.86399999999998,
+      "clip_sha256": "bb54149ec0d959a34ca5b82f432b7595174bea683d5c1cf0c44227d6a0bce603"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 63.98399999999998,
+      "end": 65.59199999999998,
+      "clip_sha256": "db651b9c2539f6ebfe1b97250e24bdf4940495aa84b43dba354a3e74bae2e4cb"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 65.71199999999999,
+      "end": 70.07999999999998,
+      "clip_sha256": "bc5589eaf85e457983dbf93ad459134a9f25481f47959b9756cdd5c1d1535e69"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 70.19999999999999,
+      "end": 71.68799999999999,
+      "clip_sha256": "081a1a3f95919b42f5f08bce466a31f8a40c745421443a73797faaaa01f11d6d"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 71.80799999999999,
+      "end": 81.83999999999999,
+      "clip_sha256": "38fb09379ce188da4ca3f424851ada7c986e13cd1a5aa2d4186f4457ff266421"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "875501ff7a7dea7383014cf03de8efd4c48a6eca377e6228c31a13f4d4f3628d",
+  "subtitle_sha256": "bfe490c1e08dafaa9cc169ab0622239cd1811b5c97a8b365e256138b8e8421f9",
+  "input_sha256": "af64cc77ae1d95f670225f89258d27424e426eec30fc9728e8a2e0f77ebafe52",
+  "audio": "audio/24_a_haircut_just_a_little.mp3",
+  "subtitle": "subtitles/24_a_haircut_just_a_little.srt",
+  "transcript": "transcripts/24_a_haircut_just_a_little.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

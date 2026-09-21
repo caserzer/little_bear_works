@@ -1,0 +1,212 @@
+{
+  "id": 23,
+  "title": "The Backpack That Wouldn't Close",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 90.576,
+  "word_count": 245,
+  "words_per_minute_including_pauses": 162.3,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 15.0,
+      "clip_sha256": "b7ba5987dcb8aed215f9f42485e759c10b562665ee727505bf675dd75ebe044a"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 15.12,
+      "end": 16.992,
+      "clip_sha256": "b89217c1f7a7010c87d01a5c6501582f58f99d71cba38461e696d24e47350f72"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 17.112000000000002,
+      "end": 21.528000000000002,
+      "clip_sha256": "c797c4eeb486c87039759d297d930b6cd94593a30ae1d18ba8803767ec0c6b2b"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 21.648000000000003,
+      "end": 26.448000000000004,
+      "clip_sha256": "23addc89496a3e99b4ff7417ff91a91e0d2cbbc58d7029f5d3f90643b7c78fcd"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 26.568000000000005,
+      "end": 35.664,
+      "clip_sha256": "810f440732e0df130f282b477279bce53763d63d3eb2f35f4e1dff2ad701c08f"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 35.784,
+      "end": 38.112,
+      "clip_sha256": "aff466577ec9e6dfe031c871c6e385cd4775c2b2ba4de21cdd7b6c31016f0a7d"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 38.232,
+      "end": 43.272,
+      "clip_sha256": "e920a8a685aac8435a60627563387957d34cd5cfdab895de8841b8a259a18445"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 43.391999999999996,
+      "end": 47.592,
+      "clip_sha256": "c09855d3ede2dbe7757ed37b4a4f0e202305dbabab8122f4c2a10aab7aa27602"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 47.711999999999996,
+      "end": 57.023999999999994,
+      "clip_sha256": "85994b2c55e6546df9def9239fb9d6e938ab6c0e909f05c905ab21fb28a33276"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 57.14399999999999,
+      "end": 59.20799999999999,
+      "clip_sha256": "499afc621ee287b632fa5965d47a731e9c7602a8b6179e02ed26c9724b4a036a"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 59.32799999999999,
+      "end": 69.96,
+      "clip_sha256": "40714988379eeb0575787ad7dd1ee9b25b819df2d211f5e9b04848487e87a76d"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 70.08,
+      "end": 71.928,
+      "clip_sha256": "08b5b5cacf57cc74f19902ce5ec695a68750f39c421852dbcc8433c9e97d8d21"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 72.048,
+      "end": 79.128,
+      "clip_sha256": "517af6065b3ddff8d78449bb20ead01862eaa8d9743e4430c2fe254311956215"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 79.248,
+      "end": 81.28800000000001,
+      "clip_sha256": "22c17e4500ef52b9f1a99aa30c63e852e7ce96a99ae5ca76579b2d3870c47cdb"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 81.40800000000002,
+      "end": 90.52800000000002,
+      "clip_sha256": "0b971dff44ddddb8d119f79c77c9c5c9952bdd7a0200ca44f854d7c93bf9a964"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "0d3f5f9a14b7d6955666582d50ecd995de805e8f35810f18b5d6463e08847407",
+  "subtitle_sha256": "aa85b24470afc7b232ab1dde6dd627b686586486a6c254d9f56dad6b588ba49e",
+  "input_sha256": "b20e6df1ccdf1c8a87d05c768722a2b6ee068f9436836b5ff7452ea7a2a77b5b",
+  "audio": "audio/23_the_backpack_that_wouldn_t_close.mp3",
+  "subtitle": "subtitles/23_the_backpack_that_wouldn_t_close.srt",
+  "transcript": "transcripts/23_the_backpack_that_wouldn_t_close.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.2,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

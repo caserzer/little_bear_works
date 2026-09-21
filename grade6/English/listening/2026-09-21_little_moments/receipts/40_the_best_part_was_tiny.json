@@ -1,0 +1,238 @@
+{
+  "id": 40,
+  "title": "The Best Part Was Tiny",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 93.36,
+  "word_count": 259,
+  "words_per_minute_including_pauses": 166.5,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 12.552,
+      "clip_sha256": "3b42285fd2f366e9ae34cbd8d5181de033b5f1bd68d4e18cef31bbba770ed146"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 12.671999999999999,
+      "end": 17.616,
+      "clip_sha256": "03368eefdd0cf1d6a092813e346ca2109f38a3d7f1ea3da9bf906e921f5b2ed0"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 17.736,
+      "end": 27.6,
+      "clip_sha256": "95115376be6b068162c78a723627de301e34dcb83a5e8c6695195d67d84822f8"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 27.720000000000002,
+      "end": 29.784000000000002,
+      "clip_sha256": "67585337b9af62795c984efbc2015cf020c30a768dac2da0b0d1d59b1525c5bd"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 29.904000000000003,
+      "end": 33.048,
+      "clip_sha256": "c1a67c07e4f44db157ac9389aa7d392b1b189488ba66c4be3d89cae1e1cc38c7"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 33.168,
+      "end": 38.496,
+      "clip_sha256": "a13e61a5f888cb59556ac1c3e68848ec0800fead019b3ce27af15e8e947cff40"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 38.616,
+      "end": 42.144,
+      "clip_sha256": "6eff9d448c7f19a8157ca48d263fa2f2a7d51fac532baa6099f9e3241be31e2c"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 42.263999999999996,
+      "end": 48.36,
+      "clip_sha256": "3badf0e5e6cf8e9fd61d9d81f92c58b103954ab63fcf19a1882180eb8c7b87c3"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 48.48,
+      "end": 56.376,
+      "clip_sha256": "5f1d061f84d048b90f0ec8c4067fe7b12f56d07dc89ffbcf7a490c96fe8b42b7"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 56.495999999999995,
+      "end": 60.696,
+      "clip_sha256": "4eaa35940931a55daf8cb59638033eb25a8e1bf049a259af968be980afc78e11"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 60.815999999999995,
+      "end": 64.22399999999999,
+      "clip_sha256": "0a0efa38802474c6a85a6b28d90e7e33d26c86245aaf6aabb32293743ab2781f"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 64.344,
+      "end": 77.28,
+      "clip_sha256": "fba7f067b2ebc54815d76afea38a816150e2dad83264daa9ffa3132ff9e9cf48"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 77.4,
+      "end": 79.584,
+      "clip_sha256": "8b7331f8bb14501e7271d8e3b0002c25dc48436cac2da7a6fc1c0d8dac74be0d"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 79.70400000000001,
+      "end": 83.54400000000001,
+      "clip_sha256": "55760a9e75f427aec0c1cc6d4f3685dfdb373630f4471a75dcfd4b24b726ae6c"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 83.66400000000002,
+      "end": 93.31200000000001,
+      "clip_sha256": "8ed10cd9a9a8134d1cc990b66374f652ec15584ce42c88356bfbe4988dfbc752"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "028a34caea245d4d252c82240ab9cc04787d089012c04955392fc4afa604c14e",
+  "subtitle_sha256": "150b22662ab9ac4859083c7e80a910bb9ae53a004b903db4a81eb4939730e2c4",
+  "input_sha256": "3073ca98d3135ef33f3d8b9dec18aabfa697eccad3f7c39076a8173b58a89786",
+  "audio": "audio/40_the_best_part_was_tiny.mp3",
+  "subtitle": "subtitles/40_the_best_part_was_tiny.srt",
+  "transcript": "transcripts/40_the_best_part_was_tiny.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.3,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

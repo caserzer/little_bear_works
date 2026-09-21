@@ -1,0 +1,214 @@
+{
+  "id": 37,
+  "title": "A Shortcut Through the Menu",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "clerk": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+      "ShortName": "en-US-JennyNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "General"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Considerate",
+          "Comfort"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 82.296,
+  "word_count": 228,
+  "words_per_minute_including_pauses": 166.2,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 12.912,
+      "clip_sha256": "3f10fb7072659307c6f695ff958a120ccdd7b07d27feb7a11b1f1237755cc110"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 13.032,
+      "end": 16.728,
+      "clip_sha256": "b15d8e3a06ee60f488a6870255ffd61bf296b883d5275fe08f4c6ece5e1d876c"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 16.848000000000003,
+      "end": 21.6,
+      "clip_sha256": "4c66985574bb8c9b5f47660241d1b11bc47f9be43409939305254fca86b4ff12"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 21.720000000000002,
+      "end": 26.328000000000003,
+      "clip_sha256": "74786f0644afd81164639bad2334824d99b9bebaa7b0ece8e00f191e1fee8589"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 26.448000000000004,
+      "end": 28.272000000000006,
+      "clip_sha256": "0c9ebdbeaa2ebae34e00fa94f893d88b40b77d951fd91ad5f7b03ae676b9ceac"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 28.392000000000007,
+      "end": 34.632000000000005,
+      "clip_sha256": "20e6a3da71b4f93ff4b5d401768f2159af7eae595ac2e08f7a84a3d8b3d238b9"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 34.752,
+      "end": 36.888000000000005,
+      "clip_sha256": "b8e0acefe8825612bc9e0a9724772ad54883e2ef949149ecb5d7a1b7109d1e15"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 37.008,
+      "end": 40.512,
+      "clip_sha256": "4303fecbbd18700eb62906ce17625c1ca1a338a47c6a1d01b3c69e03612292a9"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 40.632,
+      "end": 51.336,
+      "clip_sha256": "afc282f72b09c2b35820ef18cd1c3b228a6a9e7649f0e9af4eff5ec24becc4c5"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 51.455999999999996,
+      "end": 52.895999999999994,
+      "clip_sha256": "ed2d6826e16aab5570dc85ec6e3e8502023f70d5623e5736c9dde80abd1761ce"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 53.01599999999999,
+      "end": 59.23199999999999,
+      "clip_sha256": "38459c6dfcb79f4f56d8adbc07dc11dd411a81a8987863b840f1e1546bd81b15"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 59.35199999999999,
+      "end": 60.98399999999999,
+      "clip_sha256": "f938e61e8817641b8edc1f0eb4f4a99c5b2b650b8cd4485cbafbd7272854dd20"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 61.103999999999985,
+      "end": 66.52799999999999,
+      "clip_sha256": "6d2ece7b766ecd9a55113dca3afd359cef1c1cd1f9fee225d694bee12691a6a4"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 66.648,
+      "end": 68.496,
+      "clip_sha256": "9f87bbeea70029a798ab263c62260c450903ff6aa6676a54547e9fba17922f47"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 68.616,
+      "end": 82.248,
+      "clip_sha256": "fa1446dffe92e5fe6f6913bf910f1e19d4a46ee05fb2e3a793001fc17ceb2e19"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "02cdab2539130634a14be6d6c8a68ea91071009f8954ab809792b05516b92437",
+  "subtitle_sha256": "487de0d52f01eabac1ad60e3b0b0b523300f3424d22119a12e806e1d6a60ad29",
+  "input_sha256": "3eded87f907a8b87eddc1a88b450769bf627a105c7496be142d2a44e59496a31",
+  "audio": "audio/37_a_shortcut_through_the_menu.mp3",
+  "subtitle": "subtitles/37_a_shortcut_through_the_menu.srt",
+  "transcript": "transcripts/37_a_shortcut_through_the_menu.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

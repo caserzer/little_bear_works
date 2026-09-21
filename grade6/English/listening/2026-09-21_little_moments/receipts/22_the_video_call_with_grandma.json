@@ -1,0 +1,217 @@
+{
+  "id": 22,
+  "title": "The Video Call With Grandma",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 86.376,
+  "word_count": 244,
+  "words_per_minute_including_pauses": 169.5,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 13.512,
+      "clip_sha256": "0f6c509ec0211d5a91cfac172bc8f58962b95f2f575e7812e18b85427d29aac4"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 13.632,
+      "end": 20.904,
+      "clip_sha256": "927562d2c14fcfbb4a8b648119bf03e2c9d512d08671d29891c5332218631656"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 21.024,
+      "end": 28.080000000000002,
+      "clip_sha256": "99728e529a1b87f0a0fe454d418397c3d958e32e1d379d608f3303b8d0683049"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 28.200000000000003,
+      "end": 32.232,
+      "clip_sha256": "b7a2f63a07df7a880353febdfc80c3e203c5505d770a029e1fced397071d3439"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 32.352,
+      "end": 41.928,
+      "clip_sha256": "23ba2e326d0614d9c10072f178e4349b40a812698d26afc302dc5531e5c9a39d"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 42.047999999999995,
+      "end": 45.504,
+      "clip_sha256": "3c04fe2cfeafdc733d83a94ad97d8eb60f5c2b56ab4bbc0dcd9838b32447fbdb"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 45.623999999999995,
+      "end": 50.495999999999995,
+      "clip_sha256": "9cd166b5d79674dfdf15f8376c6e17b3e4aeddc91e4e13bbecc8c62137bcc663"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 50.61599999999999,
+      "end": 61.05599999999999,
+      "clip_sha256": "300f099880c9824bf65f330e995df716e8dcb0e36b4c7cf6523e6783df90e86e"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 61.17599999999999,
+      "end": 65.61599999999999,
+      "clip_sha256": "036f8660588827970504a1f8883188cd94e4aac5231a7c33e021fb02801bf7a8"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 65.73599999999999,
+      "end": 74.928,
+      "clip_sha256": "e63d274a1e65f9fe1ac1a342960bd3c8c8e558f0f1671f2e87848be449371d27"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 75.048,
+      "end": 77.08800000000001,
+      "clip_sha256": "298ee71766b87418b5dd78641f0c5c0fd5f443de5bbb098a593f9b1575c70fb7"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 77.20800000000001,
+      "end": 86.32800000000002,
+      "clip_sha256": "af4e5e4bd5b1093b8bda91b70d5c8b4164de21a6c76de37698c91a3f1c880242"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "3a08d73b6a68304755db06bac64c7bb1328106e0f94689cc475d2a11e5ee663f",
+  "subtitle_sha256": "6fdf3345ee3bc21c90a4ed87bd3757afbd146d4a74d4407a6d4bf649dde9f8bf",
+  "input_sha256": "ec07e0b5a7bc9cdb7c56ce8bb0260a1c05db6a26d79b08463c7280963bc340f6",
+  "audio": "audio/22_the_video_call_with_grandma.mp3",
+  "subtitle": "subtitles/22_the_video_call_with_grandma.srt",
+  "transcript": "transcripts/22_the_video_call_with_grandma.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.4,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

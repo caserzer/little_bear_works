@@ -1,0 +1,47 @@
+{
+  "method": "Local Whisper large-v3-turbo; two complete episodes; machine transcription only, not human listening.",
+  "results": [
+    {
+      "id": 5,
+      "audio": "audio/05_a_cart_with_one_wobbly_wheel.mp3",
+      "asr_text": " Little moments. A cart with one wobbly wheel. Our shopping cart makes a tiny squeak every time mom turns a corner. Ben thinks it sounds like a mouse. I think it sounds like a mouse asking for a vacation. We need milk, eggs, bread, and cereal. Lucy, can you hold the list? And cookies. Very important cookies. Is that on the list? Ben looks over my shoulder as if the word might appear if he stares hard enough. It doesn't. We reach the end of the aisle, but there's still no cereal. Excuse me. Which aisle is the cereal in? Aisle 5, next to the oatmeal. The signs above you show the aisle numbers. Thanks. In aisle 5, Ben picks up the biggest box he can reach. It's almost the size of his backpack. This one has a spaceship on it. Let's compare the smaller box, too. We only need enough for this week, and we already have some at home. We choose the smaller box and cross cereal off the list. At checkout, I count four things. Milk, eggs, bread, and cereal. Perfect. The cart did all that work without getting any cookies. The cart doesn't eat cookies. That explains the squeaking. It's upset. We park it with the other carts. I give it a little wave. Thanks for the ride, Tiny Mouse. Enjoy your break.",
+      "expected_text": "Little Moments. A Cart With One Wobbly Wheel. Our shopping cart makes a tiny squeak every time Mom turns a corner. Ben thinks it sounds like a mouse. I think it sounds like a mouse asking for a vacation. We need milk, eggs, bread, and cereal. Lucy, can you hold the list? And cookies. Very important cookies. Is that on the list? Ben looks over my shoulder as if the word might appear if he stares hard enough. It doesn't. We reach the end of the aisle, but there's still no cereal. Excuse me. Which aisle is the cereal in? Aisle five, next to the oatmeal. The signs above you show the aisle numbers. Thanks. In aisle five, Ben picks up the biggest box he can reach. It's almost the size of his backpack. This one has a spaceship on it. Let's compare the smaller box, too. We only need enough for this week, and we already have some at home. We choose the smaller box and cross cereal off the list. At checkout, I count four things. Milk, eggs, bread, and cereal. Perfect. The cart did all that work without getting any cookies. The cart doesn't eat cookies. That explains the squeaking. It's upset. We park it with the other carts. I give it a little wave. Thanks for the ride, tiny mouse. Enjoy your break.",
+      "processing_seconds": 24.6
+    },
+    {
+      "id": 33,
+      "audio": "audio/33_the_after_school_club_choice.mp3",
+      "asr_text": " Little moments. The after-school club choice. The school hallway is covered with club posters. Emma stops in front of the art club sign. I stop in front of the cooking club sign. There's a picture of a very attractive muffin on it. You're choosing based on the picture, aren't you? Partly. But I also want to learn how to make something besides toast. We walk over to the teacher at the cooking club table. What happens at the first meeting? We'll tour the kitchen, talk about the rules, and plan a simple snack together. Do I need any experience? No. Beginners are welcome. Bring your curiosity, and we'll start with the basics. It sounds fun, but I still really want to try art club. We don't have to choose the same one. You can show me what you make, and I can tell you what I cook. Can you also bring me what you cook? That depends on the recipe and our sharing rules. But you'll definitely have stories to exchange. We check the meeting days and take the sign-up information home for our parents. Emma points out that both clubs meet on Wednesdays. We can still walk home together afterward. Perfect. You'll have paint on your hands, and I'll probably have flour on my sleeves. Different clubs, same walk home. I look once more at the muffin picture. I hope my curiosity is ready, because my appetite certainly is. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready. I hope my curiosity is ready.",
+      "expected_text": "Little Moments. The After-School Club Choice. The school hallway is covered with club posters. Emma stops in front of the art club sign. I stop in front of the cooking club sign. There's a picture of a very attractive muffin on it. You're choosing based on the picture, aren't you? Partly. But I also want to learn how to make something besides toast. We walk over to the teacher at the cooking club table. What happens at the first meeting? We'll tour the kitchen, talk about the rules, and plan a simple snack together. Do I need any experience? No. Beginners are welcome. Bring your curiosity, and we'll start with the basics. It sounds fun. But I still really want to try art club. We don't have to choose the same one. You can show me what you make, and I can tell you what I cook. Can you also bring me what you cook? That depends on the recipe and our sharing rules. But you'll definitely have stories to exchange. We check the meeting days and take the sign-up information home for our parents. Emma points out that both clubs meet on Wednesdays. We can still walk home together afterward. Perfect. You'll have paint on your hands, and I'll probably have flour on my sleeves. Different clubs, same walk home. I look once more at the muffin picture. I hope my curiosity is ready, because my appetite certainly is.",
+      "processing_seconds": 34.8
+    }
+  ],
+  "episode_33_followup": {
+    "scope": "Isolated final speaker turn, with no previous-text conditioning",
+    "duration_seconds": 13.992000000000004,
+    "text": " Perfect. You'll have paint on your hands, and I'll probably have flour on my sleeves. Different clubs, same walk home. I look once more at the muffin picture. I hope my curiosity is ready, because my appetite certainly is.",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.5,
+        "text": " Perfect. You'll have paint on your hands, and I'll probably have flour on my sleeves."
+      },
+      {
+        "start": 5.38,
+        "end": 9.18,
+        "text": " Different clubs, same walk home. I look once more at the muffin picture."
+      },
+      {
+        "start": 10.02,
+        "end": 13.18,
+        "text": " I hope my curiosity is ready, because my appetite certainly is."
+      }
+    ]
+  },
+  "assessment": {
+    "episode_5": "Complete transcription matches after case, punctuation and number normalization.",
+    "episode_33": "Complete expected narration recognized; full-pass ASR also appended spurious repetitions. Isolated final-turn retranscription matches exactly, supporting an ASR tail artifact rather than repeated audio.",
+    "isolated_final_turn_match": true,
+    "human_listening": false
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": 31,
+  "title": "The Great Pancake Flip",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 88.872,
+  "word_count": 241,
+  "words_per_minute_including_pauses": 162.7,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 16.2,
+      "clip_sha256": "75d35b80dcf5d15ba4edec3b56ded76768bb9dab86ddc9ec04193e90a888631a"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 16.32,
+      "end": 26.064,
+      "clip_sha256": "058e03c402cef4e58adca79ba43847d979b692b98fefc9a7f32a1b0f2d586b51"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 26.184,
+      "end": 33.264,
+      "clip_sha256": "80a9ea6303b6defa08701909ef2062a386b244fac71d6c03f40ef4015bb22d80"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 33.384,
+      "end": 39.408,
+      "clip_sha256": "1415336e02050a2297cc46ce6cca94f6ac58d7d0cb82dd7b00b8c9dce12593d9"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 39.528,
+      "end": 42.192,
+      "clip_sha256": "ce9645c6ffb8834ce9ce8d59c5e038f118719573ac3a3d7d70312c3b315267c6"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 42.312,
+      "end": 48.408,
+      "clip_sha256": "ac23be920f7d511ed1a81e847f178a8929d3af302043aa00bab640e3d98e89a8"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 48.528,
+      "end": 54.888,
+      "clip_sha256": "04132f384cdfdbf6f5ed9752fc8da4a9a19db6fe1285692da9427513321ebb21"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 55.007999999999996,
+      "end": 57.839999999999996,
+      "clip_sha256": "b950db3b0a16408c7dea00df84b25668f82a50e927df0b92f3be10c873cb0916"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 57.959999999999994,
+      "end": 67.67999999999999,
+      "clip_sha256": "6d4329a5edbafe7e27f7ffacfcb14c89167931f6a82c3223a21ddc459b25ace6"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 67.8,
+      "end": 71.28,
+      "clip_sha256": "29eb1c5844cb9913287042f37d9b5fc0c3f5bb3453c7e72cb48548651cd128c9"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 71.4,
+      "end": 75.864,
+      "clip_sha256": "89e6ffd7e0997b4be972b8db7fd9cc987dd8db248822d66ca8af3e59fcf7293f"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 75.98400000000001,
+      "end": 88.82400000000001,
+      "clip_sha256": "26075915cad56bfdbed57d123beb95d3a41c55d0afda5f88b033009050bb16a2"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "47ca72bd129a347772758b0505e9bd2f11a9adaeb3f57c90070e1bb722be70db",
+  "subtitle_sha256": "a5733fec6ce0fe440fbe254a9dd8c448a49667e6c76a4b77be5cb958a4535f69",
+  "input_sha256": "86a4e28a3ad8ff5ecc907d4887f9e776bc638989a45ffa28aa64aeb5ecfb27d1",
+  "audio": "audio/31_the_great_pancake_flip.mp3",
+  "subtitle": "subtitles/31_the_great_pancake_flip.srt",
+  "transcript": "transcripts/31_the_great_pancake_flip.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.2,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

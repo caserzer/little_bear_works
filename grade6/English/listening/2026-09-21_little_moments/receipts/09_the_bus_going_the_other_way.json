@@ -1,0 +1,232 @@
+{
+  "id": 9,
+  "title": "The Bus Going the Other Way",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "staff": {
+      "name": "老师／男性服务人员（按每集角色表）",
+      "voice": "en-US-ChristopherNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "clerk": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+      "ShortName": "en-US-JennyNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "General"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Considerate",
+          "Comfort"
+        ]
+      }
+    },
+    "staff": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, ChristopherNeural)",
+      "ShortName": "en-US-ChristopherNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Christopher Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Reliable",
+          "Authority"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 79.176,
+  "word_count": 232,
+  "words_per_minute_including_pauses": 175.8,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 11.688,
+      "clip_sha256": "dc966a61f106f7f4ba46daf810b4d7db5b1e17afe011e08b5b12801c7e1b8c26"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 11.808,
+      "end": 14.28,
+      "clip_sha256": "691ec42c45916d7b31fabbd7d6de71efcc8b07536c9659aaf3993d2e595c6a0b"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 14.399999999999999,
+      "end": 25.128,
+      "clip_sha256": "48b0029545e63632fcfb4d7eedd2b0d8849b6c0edce5a289bcc6658380f75854"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 25.248,
+      "end": 27.912000000000003,
+      "clip_sha256": "0de0e3d5b33c1be64edad9d10fca18b2d33bac38e31b58e989a62646f83ae4f1"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 28.032000000000004,
+      "end": 30.144000000000005,
+      "clip_sha256": "d05867086691b1c14c4d5260f2cc43b19cfbee81674910bcb1b1880011331c6b"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 30.264000000000006,
+      "end": 36.19200000000001,
+      "clip_sha256": "dfbb2c124bd701ab7874f157eb68518c1bcc0be28d82b33f99600841b607c73c"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 36.312000000000005,
+      "end": 39.84,
+      "clip_sha256": "42be42b5c542318fc93f939a6c9ccd1a2ef1e2036642d0455e43072c501232a1"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 39.96,
+      "end": 49.008,
+      "clip_sha256": "1d1cfbd60cc8a2c1d0fdb35363473529f25c6b9674c9191cca9d415f292d6ba1"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 49.128,
+      "end": 51.672,
+      "clip_sha256": "0012b7be86962930259cc2aa484049103685efad2932f4f85c550f4c4dc9c279"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 51.791999999999994,
+      "end": 59.087999999999994,
+      "clip_sha256": "8a933092477a88b54287a695d57ed16229cf66166a11e41cc06489ce2bfa6593"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 59.20799999999999,
+      "end": 63.215999999999994,
+      "clip_sha256": "81e224390845595fe686e1ec2e32c6d0eb78ea2f66c633b98cbfe4cfd9201bcf"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 63.33599999999999,
+      "end": 68.088,
+      "clip_sha256": "c2404198e73b9ed8edc4f54298116743a0cda183bbd0313c3d3b5a41fe0f5be6"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 68.208,
+      "end": 70.368,
+      "clip_sha256": "c64be9130c2be8c3eb755a186a714d2ad9360fe81369e147e228ee9efc77efdd"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 70.488,
+      "end": 79.128,
+      "clip_sha256": "2fbe757562da9235736b1a7d69df9d31bef0f8c79f055425dcfc13b6fa986fd1"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "737d2974364d77f90a029a17e3662b740d106ecf657a1b4c33ad2d1f6a69e645",
+  "subtitle_sha256": "43615222cf744f3fe81b948718219dbb7be0fadcda8419150fb42ef361f83d1a",
+  "input_sha256": "97ce31f4befad5055704b4c3ec70e808811feb2a2ca466f3205e9645e5adfd3d",
+  "audio": "audio/09_the_bus_going_the_other_way.mp3",
+  "subtitle": "subtitles/09_the_bus_going_the_other_way.srt",
+  "transcript": "transcripts/09_the_bus_going_the_other_way.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.1,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

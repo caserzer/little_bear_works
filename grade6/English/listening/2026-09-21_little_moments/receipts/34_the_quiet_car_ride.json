@@ -1,0 +1,238 @@
+{
+  "id": 34,
+  "title": "The Quiet Car Ride",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 85.32,
+  "word_count": 236,
+  "words_per_minute_including_pauses": 166.0,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 7.632,
+      "clip_sha256": "b3fa319facd9242ad058cc97fddabd0b96dcd13da755722a90d89d739b89dcc9"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 7.752,
+      "end": 9.384,
+      "clip_sha256": "c859f7ba1a1f4eee3f4574b851f795a37aae760816dbeec19fc97155744ec912"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 9.504,
+      "end": 13.392,
+      "clip_sha256": "fe524f7943cc9f08228b57553c38fd768237f81e7002ebf0b6937628da7355ed"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 13.511999999999999,
+      "end": 15.623999999999999,
+      "clip_sha256": "21788ae9fd1143292ff7d278e157835b44c12392ca6b643dcf2aa7b3f398dfce"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 15.743999999999998,
+      "end": 24.36,
+      "clip_sha256": "762d7a07276e412511635977cf9d4c110b544f080f7c4de3ba6947b9fd3dce37"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 24.48,
+      "end": 27.84,
+      "clip_sha256": "7bc6fb0d50bd0833605eb3d050f8eb4ccec7a98859691b9307b830dfcaa7e920"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 27.96,
+      "end": 32.208,
+      "clip_sha256": "5c9fc8cb685d778767c7e1ad0bf31d2e7a5683b8fa59d68b271b0a7ef623ebde"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 32.327999999999996,
+      "end": 39.407999999999994,
+      "clip_sha256": "2a63f231fdf9a3e4ad35f1c78edd0a504702a2bca89c13e6f702aa87e96b36fa"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 39.52799999999999,
+      "end": 52.41599999999999,
+      "clip_sha256": "01c260a8fb16f14dcd3d67ce683c5147f48e7cbc34006607f8c50942ba79e8f5"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 52.53599999999999,
+      "end": 55.34399999999999,
+      "clip_sha256": "be692b2a786c519688e51db37fe5274db7171d0de67079faef99a15403b1ee6a"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 55.463999999999984,
+      "end": 64.27199999999999,
+      "clip_sha256": "c59566bf7c9c4fc529fd08cbf0ff1b905c54dafd751122c4672fa83e36ba44c4"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 64.392,
+      "end": 66.09599999999999,
+      "clip_sha256": "e0d9fdaa71faf65c21b0631860ddb7b383853bb12937c9541a438f2571e6770d"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 66.216,
+      "end": 69.36,
+      "clip_sha256": "167e0656f289b47cac7867863588c0af06e2dc0ff2c06c5d13f2dbb69901d5c1"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 69.48,
+      "end": 74.83200000000001,
+      "clip_sha256": "4a823c77d7f1239650f4f8bef79e131a76234d4d5fcfa7fe49722aa1cf60b897"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 74.95200000000001,
+      "end": 85.27200000000002,
+      "clip_sha256": "aff37d9844cd48132632a200dc55c7e7924f0336c7aea49a9bfc0aa83325a466"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "2e789baa6c9b359d543c4e270701e674e19c4ce3f6b2bb28772f9bf4007bb266",
+  "subtitle_sha256": "67d46affb8b6412829662dbf0fd2ff17ef9c5d46eba4bbea8e646f27c1a56f53",
+  "input_sha256": "17c1932f32b9c92236c07264bbc9f229f2bb9680d044a8ddaacffd3c6c51dd14",
+  "audio": "audio/34_the_quiet_car_ride.mp3",
+  "subtitle": "subtitles/34_the_quiet_car_ride.srt",
+  "transcript": "transcripts/34_the_quiet_car_ride.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.2,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

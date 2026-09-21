@@ -1,0 +1,229 @@
+{
+  "id": 6,
+  "title": "No Ice, Please",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "clerk": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+      "ShortName": "en-US-JennyNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "General"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Considerate",
+          "Comfort"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 81.576,
+  "word_count": 218,
+  "words_per_minute_including_pauses": 160.3,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 14.208,
+      "clip_sha256": "865a7adb2c81ac9d9940bb989f34f50fbc0ec8e62f0c04025840d7863f2f021f"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 14.328,
+      "end": 18.408,
+      "clip_sha256": "8178f935d51b1507289f32a271b197907992f5ad44535ed6ed7e8c7e2f0540f3"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 18.528000000000002,
+      "end": 22.512,
+      "clip_sha256": "2e56198567e8e1a6c069364a1eac32d17c3799b670197fd78b9464be8a9f9479"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 22.632,
+      "end": 25.728,
+      "clip_sha256": "0a7ffcbdbd6985c6a043591e287967e0823b5c04ea05d6e4901653e665371e39"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 25.848000000000003,
+      "end": 29.76,
+      "clip_sha256": "a818a28b6cf06008ae49739e6aa6a5e500002ce4671b853d6036266b80e8918b"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 29.880000000000003,
+      "end": 34.2,
+      "clip_sha256": "70c10e9d61d1901b938f65f780bff5b2c54d0990f1d2b1a829a07fa1e2eef2f0"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 34.32,
+      "end": 36.192,
+      "clip_sha256": "003d63a823e9239a0a4a710e88f6fa019fdb15b5f19aae4e3cdf689c77d7449c"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 36.312,
+      "end": 46.31999999999999,
+      "clip_sha256": "090d09ead89cc01a27f750efc5058558fadaaed1f0388132757df636d89804f8"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 46.43999999999999,
+      "end": 50.15999999999999,
+      "clip_sha256": "da513dabdacdc97fedcf5539f8e01eaae313ab11c773c5fb676e380c1143c661"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 50.27999999999999,
+      "end": 52.77599999999999,
+      "clip_sha256": "d9f1c3c0401460c4fc1b4c0f034c6e1062b689ef07c15b14b93d785d2b8f49a1"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 52.89599999999999,
+      "end": 58.295999999999985,
+      "clip_sha256": "29f100e5c88eecdd8a0bb7a80d3e34102072792e901b4fa680ca60406518ce9e"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 58.41599999999998,
+      "end": 67.12799999999999,
+      "clip_sha256": "0a3e7b2a1ac6f2ff0f792ad4c0aea189edcb8b2bf26141b4f2bef8938619daae"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 67.24799999999999,
+      "end": 67.99199999999999,
+      "clip_sha256": "93abc6abc4b8974a4d0404ef79151a42e6a3ff90d2b28b5f811bc19fa6107657"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 68.112,
+      "end": 74.37599999999999,
+      "clip_sha256": "a9225c9b22debca1bde21b7f72e24e5886555a4ecb5199da8d14fd4f330178a3"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 74.496,
+      "end": 75.432,
+      "clip_sha256": "46400f68633f6a3c8408183143fad1e96dfe896f91eb561ba7b1b0f5c47cb7bc"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 75.552,
+      "end": 78.864,
+      "clip_sha256": "da94e0692a863d4e42440545a7f9a399d43add33f22c8e55ab4ae95380f37a73"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 78.98400000000001,
+      "end": 81.528,
+      "clip_sha256": "537d67992f84bfc1fb615af351ade7fc531edb7d259cff0ab6992bf5e9fc5bdc"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "85fee88bbdab664d5368d76e14379bffc295a061cd971ced114c8cd37c68117a",
+  "subtitle_sha256": "72b257573c78c2fcd3015497566bc1fb0f8f19d698d525269fd89418489a0b95",
+  "input_sha256": "e3ef3ad513c12806150b39b584f0277b8279c62ce94e3ac79efc6a1e669c9661",
+  "audio": "audio/06_no_ice_please.mp3",
+  "subtitle": "subtitles/06_no_ice_please.srt",
+  "transcript": "transcripts/06_no_ice_please.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.7,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

@@ -1,0 +1,141 @@
+{
+  "lucy": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+    "ShortName": "en-US-MichelleNeural",
+    "Gender": "Female",
+    "Locale": "en-US",
+    "LocaleName": "English (United States)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "News",
+        "Novel"
+      ],
+      "VoicePersonalities": [
+        "Friendly",
+        "Pleasant"
+      ]
+    }
+  },
+  "dad": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+    "ShortName": "en-US-GuyNeural",
+    "Gender": "Male",
+    "Locale": "en-US",
+    "LocaleName": "English (United States)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "News",
+        "Novel"
+      ],
+      "VoicePersonalities": [
+        "Passion"
+      ]
+    }
+  },
+  "clerk": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+    "ShortName": "en-US-JennyNeural",
+    "Gender": "Female",
+    "Locale": "en-US",
+    "LocaleName": "English (United States)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "General"
+      ],
+      "VoicePersonalities": [
+        "Friendly",
+        "Considerate",
+        "Comfort"
+      ]
+    }
+  },
+  "ben": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+    "ShortName": "en-US-EricNeural",
+    "Gender": "Male",
+    "Locale": "en-US",
+    "LocaleName": "English (United States)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "News",
+        "Novel"
+      ],
+      "VoicePersonalities": [
+        "Rational"
+      ]
+    }
+  },
+  "mom": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+    "ShortName": "en-US-AriaNeural",
+    "Gender": "Female",
+    "Locale": "en-US",
+    "LocaleName": "English (United States)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "News",
+        "Novel"
+      ],
+      "VoicePersonalities": [
+        "Positive",
+        "Confident"
+      ]
+    }
+  },
+  "emma": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+    "ShortName": "en-US-EmmaMultilingualNeural",
+    "Gender": "Female",
+    "Locale": "en-US",
+    "LocaleName": "English (United States)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "Conversation",
+        "Copilot"
+      ],
+      "VoicePersonalities": [
+        "Cheerful",
+        "Clear",
+        "Conversational"
+      ]
+    }
+  },
+  "staff": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-US, ChristopherNeural)",
+    "ShortName": "en-US-ChristopherNeural",
+    "Gender": "Male",
+    "Locale": "en-US",
+    "LocaleName": "English (United States)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Christopher Online (Natural) - English (United States)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "News",
+        "Novel"
+      ],
+      "VoicePersonalities": [
+        "Reliable",
+        "Authority"
+      ]
+    }
+  }
+}

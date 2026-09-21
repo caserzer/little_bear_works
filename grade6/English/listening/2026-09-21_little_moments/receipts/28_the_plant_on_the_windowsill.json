@@ -1,0 +1,199 @@
+{
+  "id": 28,
+  "title": "The Plant on the Windowsill",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "mom": {
+      "name": "妈妈",
+      "voice": "en-US-AriaNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "mom": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+      "ShortName": "en-US-AriaNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Aria Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Positive",
+          "Confident"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 81.744,
+  "word_count": 241,
+  "words_per_minute_including_pauses": 176.9,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 13.704,
+      "clip_sha256": "eb9c435e070127e45db2340774f29623e607968982afca5d40ab61fa1ba99ca8"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 13.824,
+      "end": 15.911999999999999,
+      "clip_sha256": "9e99454f6e573c67a5aff8c71c111bcf4d137195bc2786a75ba7c5dc4f3c3a3b"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 16.032,
+      "end": 19.392,
+      "clip_sha256": "a6f51ea63c53b72b0b9e648f594a14e3dfc506becaeef26698c1f9a0dbfcbd62"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 19.512,
+      "end": 21.912,
+      "clip_sha256": "e55d7d32f19fb1c65a2374d3417643cf2d8b1af49edde8a013e9e9c22a4515e6"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 22.032,
+      "end": 29.112000000000002,
+      "clip_sha256": "7ef8d30bbc3fb0373b844248ab03ea7a3d81418083b7654005d1f7a722d284d9"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 29.232000000000003,
+      "end": 37.416000000000004,
+      "clip_sha256": "6951821921e317c15efde8fbc79074bce8261acda1e119511cecfed235085896"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 37.536,
+      "end": 43.656,
+      "clip_sha256": "26eba766a9d3c8a803a6afba22faaadb12e058598412e9e2287b87563d93a70a"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 43.775999999999996,
+      "end": 47.928,
+      "clip_sha256": "d9172df1be03859ec2b96765ee68a761992a587f7f0e2c7392b6941dc8d7ba5c"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 48.047999999999995,
+      "end": 56.111999999999995,
+      "clip_sha256": "ba706766334e7c5004e75a485f84ad73b34dda9ee5a9d6b4a0d235d0e0262e02"
+    },
+    {
+      "speaker": "mom",
+      "voice": "en-US-AriaNeural",
+      "start": 56.23199999999999,
+      "end": 60.35999999999999,
+      "clip_sha256": "85ce085150dc10134081c223e1a92b4b23f0a0bd85f10819c989af32d38f7c9e"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 60.47999999999999,
+      "end": 68.88,
+      "clip_sha256": "61cb67cea06ec0a0899965f1bb686787d98e38a0302ce07e361cda2e38c9c4aa"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 69.0,
+      "end": 72.96,
+      "clip_sha256": "f39b8f23e45868355675bd90a94a0d7990b9f63071c3035a286c7e6a419b16cd"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 73.08,
+      "end": 81.696,
+      "clip_sha256": "325ebbf9b26d802927d66810f41abe0742c0f09cbc4a26d81cf208f58f9dd373"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "092bee1a18882e94484b5ec0f794588fd9196dea4c372d2bd5ce47a3cb01b50f",
+  "subtitle_sha256": "0a258dba27def98d335e5913b6ee7536e6713f4f71b3eda859c12efb5cd49c46",
+  "input_sha256": "3b3128a36eca57e076f4bf6101467c83bdfeaf9eaee98b65a4d8813a34e717ed",
+  "audio": "audio/28_the_plant_on_the_windowsill.mp3",
+  "subtitle": "subtitles/28_the_plant_on_the_windowsill.srt",
+  "transcript": "transcripts/28_the_plant_on_the_windowsill.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.8,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

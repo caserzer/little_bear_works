@@ -4,6 +4,8 @@
 
 ## 使用入口
 
+生活英语新增：[Little Moments · 40集分角色美式英语](listening/2026-09-21_little_moments/README.md) · [打开播放页](listening/2026-09-21_little_moments/播放.html) · [音频目录](listening/2026-09-21_little_moments/目录.md) · [下载整套](listening/2026-09-21_生活英语_40集分角色美式音频.zip)。
+
 新增：[40集美式英语磨耳朵：好奇心俱乐部](listening/2026-09-20_curiosity_club/README.md) · [打开播放页](listening/2026-09-20_curiosity_club/播放.html) · [音频目录](listening/2026-09-20_curiosity_club/目录.md)。
 
 | 内容 | 文件 | 用途 |

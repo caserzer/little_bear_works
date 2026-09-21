@@ -1,0 +1,225 @@
+{
+  "id": 15,
+  "title": "Who Turned Off the Wi-Fi?",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 83.04,
+  "word_count": 234,
+  "words_per_minute_including_pauses": 169.1,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 15.216,
+      "clip_sha256": "deef2daf88c58a8dd4410e8ebb81bd1afb90c374f55153b0460c41cc778adab1"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 15.335999999999999,
+      "end": 18.671999999999997,
+      "clip_sha256": "0e7991940b9582206b2091d75d36cdedd84619624ab84d31614c050dd371dc98"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 18.791999999999998,
+      "end": 28.32,
+      "clip_sha256": "18a61079acd113f2a918481aff95e199e773df5d81da7098f2d5f8387deb97c9"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 28.44,
+      "end": 31.968,
+      "clip_sha256": "3b1af2029af1ac5fd2c3957dac18e53eea29091f2da90c6cb0d8c62723ad1ffa"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 32.088,
+      "end": 39.144,
+      "clip_sha256": "ff29398d1f4c2b63d8be4576aa6a27248874df3393c92ecc3d9ffacd3108423b"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 39.263999999999996,
+      "end": 45.263999999999996,
+      "clip_sha256": "f9e626d87c84e04e076e6a819648a9c3ea4fced79696309307786ab6c96e58c5"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 45.38399999999999,
+      "end": 49.48799999999999,
+      "clip_sha256": "1ef00790afa19f5f8b3a9700b9b7c1777f79949b649735eee69f759908503d5d"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 49.60799999999999,
+      "end": 54.59999999999999,
+      "clip_sha256": "458ce9ed9d4c51a22f1a4c2aa88fd4230e52dd922fb8ea65c26baaa2016b5be0"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 54.719999999999985,
+      "end": 60.695999999999984,
+      "clip_sha256": "e6dd81bbd26df773fef3624ebbb75c1765367c29b8f94792aadbe7c2a318b9fd"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 60.81599999999998,
+      "end": 63.09599999999998,
+      "clip_sha256": "245899a192e08360d00f1185c434162ce7edd9843f37cd8c2e32ae672f64a377"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 63.21599999999998,
+      "end": 67.43999999999998,
+      "clip_sha256": "57a4e73adabb82f33f3cfa431b3f02746d9520392f5accfc3a642267ba1708b7"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 67.55999999999999,
+      "end": 69.192,
+      "clip_sha256": "504f119ead419d857ee6fd2d4da7aba730a3ba185e6672a147ba5eb321b13912"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 69.312,
+      "end": 82.99199999999999,
+      "clip_sha256": "b239f58c07611d77abb6d84e5970e24013147d4b193bf018d2f64ddf6ea108ef"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "830826364825da50bff34b3f74026e46f5eaa5016af0720e9740eaca64e4cf13",
+  "subtitle_sha256": "ae39fcf00c5c9f668a9d4fff175798dec31bb4d96f3fa8d044e38b0786d069ca",
+  "input_sha256": "2461ba45663ff36a509b5c692457f8f070957948d4dd9e82d005ec967a43749d",
+  "audio": "audio/15_who_turned_off_the_wi_fi.mp3",
+  "subtitle": "subtitles/15_who_turned_off_the_wi_fi.srt",
+  "transcript": "transcripts/15_who_turned_off_the_wi_fi.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.3,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

@@ -1,0 +1,231 @@
+{
+  "id": 30,
+  "title": "The Hotel Room Key",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "dad": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+      "ShortName": "en-US-GuyNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Guy Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Passion"
+        ]
+      }
+    },
+    "clerk": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, JennyNeural)",
+      "ShortName": "en-US-JennyNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Jenny Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "General"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Considerate",
+          "Comfort"
+        ]
+      }
+    },
+    "ben": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EricNeural)",
+      "ShortName": "en-US-EricNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Eric Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Rational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 87.888,
+  "word_count": 233,
+  "words_per_minute_including_pauses": 159.1,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 14.088,
+      "clip_sha256": "87ac2f89592844d4c7369e49fd24b88c8ceb8c97d6732f10ec0bc3e2baf1f1c7"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 14.207999999999998,
+      "end": 18.695999999999998,
+      "clip_sha256": "cb5e52df4b80ea49a3b22581e19a6f4ba88f11863a318a9c89b0c25564715128"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 18.816,
+      "end": 27.528,
+      "clip_sha256": "70ed5670499a2d3e9b80dc9a6d1e8766f1dfbe8794c67354b5133f2374f60860"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 27.648,
+      "end": 30.024,
+      "clip_sha256": "b650d07891b6169ad7288f5e07c51543ce0a0b84448f6161f92fdfae94ba3df2"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 30.144000000000002,
+      "end": 39.864000000000004,
+      "clip_sha256": "65c80dece1492703aaa681dd865faf3a0df7510ab96695d78cc18e388794f772"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 39.984,
+      "end": 44.208,
+      "clip_sha256": "ac70d73c3aa9ed4e8c47c12b446dea7bacfebab688fa35f9818d037ee382c8c9"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 44.327999999999996,
+      "end": 48.72,
+      "clip_sha256": "1f99d5f22f11117782833aabf3c98a95f0e5b40acd86c2d73890be115e3a3dfa"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 48.839999999999996,
+      "end": 53.855999999999995,
+      "clip_sha256": "7007147a944b769c6df9e6eabf5b6ea750e59482fd45a888a40c42440bae211c"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 53.97599999999999,
+      "end": 60.28799999999999,
+      "clip_sha256": "58f220a8f690fb78ee398f860bb875a1540a8e157bea830a408dada6cd9de585"
+    },
+    {
+      "speaker": "ben",
+      "voice": "en-US-EricNeural",
+      "start": 60.40799999999999,
+      "end": 62.92799999999999,
+      "clip_sha256": "2d7fe3140c97340d394fd6b6bf9f63e41ffacfd0582c7920d4d7a8b062effd31"
+    },
+    {
+      "speaker": "clerk",
+      "voice": "en-US-JennyNeural",
+      "start": 63.04799999999999,
+      "end": 65.13599999999998,
+      "clip_sha256": "697b7fddd50957e8391710974ba3679007cb2caaa9de616494b6624bb8329add"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 65.25599999999999,
+      "end": 74.37599999999999,
+      "clip_sha256": "bfe6be024378e4dc99cfb3258e0ab6a7a68967a5480a34e5f9b538e00e964b1e"
+    },
+    {
+      "speaker": "dad",
+      "voice": "en-US-GuyNeural",
+      "start": 74.496,
+      "end": 78.024,
+      "clip_sha256": "ec6d75a152ee706988e058a1795cc275117d0a05ea65a862786c19a3488fd49a"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 78.144,
+      "end": 87.84,
+      "clip_sha256": "942293371445f9cac600e14514402d0d5d742c767c435b72d46734070571d33d"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "fe888d08fef56a86c54b529bdbd80059f20b4ac3921a9ec7d5e2bc50b3ce6358",
+  "subtitle_sha256": "66a3fa70ec3776f6ca5f3cbc8b76b94339b07e0d8effe7de08c6818eb0272158",
+  "input_sha256": "aa4624657f0bd1d4d3c6a0b45e00d355553d577d153888c815627c8bcfdbbc24",
+  "audio": "audio/30_the_hotel_room_key.mp3",
+  "subtitle": "subtitles/30_the_hotel_room_key.srt",
+  "transcript": "transcripts/30_the_hotel_room_key.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.6,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

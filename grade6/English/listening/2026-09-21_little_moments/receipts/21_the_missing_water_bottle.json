@@ -1,0 +1,222 @@
+{
+  "id": 21,
+  "title": "The Missing Water Bottle",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "staff": {
+      "name": "老师／男性服务人员（按每集角色表）",
+      "voice": "en-US-ChristopherNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    },
+    "staff": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, ChristopherNeural)",
+      "ShortName": "en-US-ChristopherNeural",
+      "Gender": "Male",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Christopher Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Reliable",
+          "Authority"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 83.496,
+  "word_count": 243,
+  "words_per_minute_including_pauses": 174.6,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 13.536,
+      "clip_sha256": "b4f0b5716fa209a5d6f4371f7ab2932b25a43a6aff578966c4bb2560703b920c"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 13.655999999999999,
+      "end": 15.095999999999998,
+      "clip_sha256": "affeff1e9e267f7281b20b9ee1974fe904104e21db3516d8561c48699511e554"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 15.215999999999998,
+      "end": 25.656,
+      "clip_sha256": "096d53d0a6e296bd1b39db68fa980d1990b77e98acf769cb0987509434087edf"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 25.776,
+      "end": 27.408,
+      "clip_sha256": "ec87cb9b795cd5e0e7f7f9239be8fc813677c8edf011c245a327080e6107aa93"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 27.528000000000002,
+      "end": 31.752000000000002,
+      "clip_sha256": "2e7b945453adce9c6badb8ecd2cc368a0101780e266e0d06d864b3d568601f6b"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 31.872000000000003,
+      "end": 33.6,
+      "clip_sha256": "384e785a9986f69acf97f84f55e0f2b1f099edf0404d26cc3347a662d67eb16e"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 33.72,
+      "end": 39.72,
+      "clip_sha256": "38e9f06e23a2fde7343157f5b02845adfef57f79b073f0ac734fbc529c59f5f0"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 39.839999999999996,
+      "end": 45.455999999999996,
+      "clip_sha256": "0688b5187c9c2af99cf595e201a1dfa6ed34c20288ea7b3f805a469a25a15c8c"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 45.57599999999999,
+      "end": 52.535999999999994,
+      "clip_sha256": "1407575ac23ce3b62f15feae519e96ac7f7f663322d4218b7178297920eed23e"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 52.65599999999999,
+      "end": 54.047999999999995,
+      "clip_sha256": "da6a591014f7cc93b7e39abb429c1a06b15088965bb1c4c4dba85736fcbc9171"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 54.16799999999999,
+      "end": 56.06399999999999,
+      "clip_sha256": "cda8a590cc1ad63df43ced132699fdbb296ecd918889ec70684828b3cabe2131"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 56.18399999999999,
+      "end": 59.54399999999999,
+      "clip_sha256": "91cec3eb3270ee04ab6c8ee853295a2e58280119570909abc81ebdff6c01bce2"
+    },
+    {
+      "speaker": "staff",
+      "voice": "en-US-ChristopherNeural",
+      "start": 59.66399999999999,
+      "end": 62.951999999999984,
+      "clip_sha256": "e7a1a07b4eff91e8044f99607a4138ade7a9c0532a3509020edb48d4563ad503"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 63.07199999999998,
+      "end": 72.69599999999998,
+      "clip_sha256": "78fa096b97e9cdb2310a8b8115d6074a247f52396d0d55eb96b9ac1f557258dc"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 72.81599999999999,
+      "end": 73.728,
+      "clip_sha256": "eb9518a1163dda3a8ea18a68b8a2e231c7307e361b0d6faf6e17607e86fe3aa5"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 73.848,
+      "end": 83.448,
+      "clip_sha256": "827f1488c72c741d42fbf1f0aa0a0aae33f64c640cdc362fb5fb705c1622e3f6"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "f5eb7de666da71c554bbc5ec63a8a2cc69b58daba3d2f068823cc6030367ed4f",
+  "subtitle_sha256": "3b6c929c6b4ba526f0debf1c22d9918fda60a55ea128baddf6e12891b9fdb805",
+  "input_sha256": "f9e1f3a6ac87a0c9a432e3c6b0e4b1b1f4afe0dd80424129168afd5c2d81bcf0",
+  "audio": "audio/21_the_missing_water_bottle.mp3",
+  "subtitle": "subtitles/21_the_missing_water_bottle.srt",
+  "transcript": "transcripts/21_the_missing_water_bottle.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.5,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

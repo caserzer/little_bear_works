@@ -1,0 +1,161 @@
+{
+  "id": 27,
+  "title": "My Turn to Choose",
+  "status": "COMPLETE",
+  "engine": "edge-tts",
+  "engine_version": "7.2.8",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "emma": {
+      "name": "朋友 Emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    }
+  },
+  "voice_metadata": {
+    "lucy": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, MichelleNeural)",
+      "ShortName": "en-US-MichelleNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft Michelle Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "News",
+          "Novel"
+        ],
+        "VoicePersonalities": [
+          "Friendly",
+          "Pleasant"
+        ]
+      }
+    },
+    "emma": {
+      "Name": "Microsoft Server Speech Text to Speech Voice (en-US, EmmaMultilingualNeural)",
+      "ShortName": "en-US-EmmaMultilingualNeural",
+      "Gender": "Female",
+      "Locale": "en-US",
+      "LocaleName": "English (United States)",
+      "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+      "FriendlyName": "Microsoft EmmaMultilingual Online (Natural) - English (United States)",
+      "Status": "GA",
+      "VoiceTag": {
+        "ContentCategories": [
+          "Conversation",
+          "Copilot"
+        ],
+        "VoicePersonalities": [
+          "Cheerful",
+          "Clear",
+          "Conversational"
+        ]
+      }
+    }
+  },
+  "duration_seconds": 77.952,
+  "word_count": 239,
+  "words_per_minute_including_pauses": 184.0,
+  "speaker_turns": [
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 0.0,
+      "end": 13.056,
+      "clip_sha256": "9f9d7abd5a6ea23e9b5a4c7212054f5dff1e149ffe8ee8fc9b661ffaecb9a81c"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 13.175999999999998,
+      "end": 14.639999999999999,
+      "clip_sha256": "e9b93661e0ad2590b9e0ee4ec485494502d5c867f728f101c9e1c7000013b7c9"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 14.759999999999998,
+      "end": 18.311999999999998,
+      "clip_sha256": "cc05c883adb4b3a84484d2d10c0c35569e91af5d138ed1d0d1b2ef3276e1cabc"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 18.432,
+      "end": 21.912,
+      "clip_sha256": "39ba796f362ec369afd958e98e942b5c18db01b28c48f78b15ea745993b60395"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 22.032,
+      "end": 29.592,
+      "clip_sha256": "9c29d7e79c241d0b6fd3934a402f22ccd2ff48a7a238c880d367728e8ded60be"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 29.712,
+      "end": 33.864,
+      "clip_sha256": "22ca833a947d1a0813c75336f4d6e9845f4b0435dd330f1e13918669383c6b96"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 33.983999999999995,
+      "end": 45.35999999999999,
+      "clip_sha256": "b24b127260ba3bc5a0bd215823deb68dbaa36ec5704044a6d9651345c486d736"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 45.47999999999999,
+      "end": 47.95199999999999,
+      "clip_sha256": "f636d0fa8f9b0ead47847825f09645169ef96c5201b2eeea69b8d44276cde4ae"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 48.07199999999999,
+      "end": 59.35199999999999,
+      "clip_sha256": "b36198dd815d8f171c0de05dfc1830c6193025d7c94a3615cfac118aa21e7891"
+    },
+    {
+      "speaker": "emma",
+      "voice": "en-US-EmmaMultilingualNeural",
+      "start": 59.47199999999999,
+      "end": 62.255999999999986,
+      "clip_sha256": "60d76e9ea77c7d62890c4435481bf67a2c106fd03a66254a61cb7b95abb9e607"
+    },
+    {
+      "speaker": "lucy",
+      "voice": "en-US-MichelleNeural",
+      "start": 62.37599999999998,
+      "end": 77.90399999999998,
+      "clip_sha256": "abbfbc639210fcff51b10803903c42e20c9147c0fba76172b502683ae21187ff"
+    }
+  ],
+  "turn_gap_seconds": 0.12,
+  "audio_sha256": "72c91fc05e0e8f9153a614705ef7883da728a3d4314c90a7dc9751b5916eb8c9",
+  "subtitle_sha256": "6948bdf97b044d4ead5acd00950a3b2909921e9126057e1422952e22ce6205b3",
+  "input_sha256": "e6c155a3855c4808c5bd017c73bcb7945607a6f1d87d77144d6a05c7b404f692",
+  "audio": "audio/27_my_turn_to_choose.mp3",
+  "subtitle": "subtitles/27_my_turn_to_choose.srt",
+  "transcript": "transcripts/27_my_turn_to_choose.md",
+  "checks": {
+    "full_decode": "passed",
+    "distinct_us_voices": true,
+    "subtitle_full_text_match": true,
+    "peak_db": -2.7,
+    "silence_over_3_seconds": false
+  },
+  "human_listening_review": "not_performed"
+}

@@ -1,0 +1,159 @@
+{
+  "title": "One More, Please!",
+  "cast": {
+    "lucy": {
+      "name": "Lucy／第一人称旁白",
+      "voice": "en-US-MichelleNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "dad": {
+      "name": "爸爸",
+      "voice": "en-US-GuyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "clerk": {
+      "name": "店员",
+      "voice": "en-US-JennyNeural",
+      "rate": "+20%",
+      "pitch": "+0Hz"
+    },
+    "ben": {
+      "name": "弟弟 Ben",
+      "voice": "en-US-EricNeural",
+      "rate": "+20%",
+      "pitch": "+6Hz"
+    }
+  },
+  "segments": [
+    {
+      "speaker": "lucy",
+      "text": "Little Moments.\nOne More, Please!\n\nIt's Saturday morning, and the bakery smells amazing.\nWarm bread. Sweet cinnamon. And something buttery.\n\nDad smiles at me."
+    },
+    {
+      "speaker": "dad",
+      "text": "You're ordering today, Lucy."
+    },
+    {
+      "speaker": "lucy",
+      "text": "Me?"
+    },
+    {
+      "speaker": "dad",
+      "text": "Yep. I'll be right here."
+    },
+    {
+      "speaker": "lucy",
+      "text": "Okay. I can do this.\n\nThe woman behind the counter waves."
+    },
+    {
+      "speaker": "clerk",
+      "text": "Hi there! What can I get for you?"
+    },
+    {
+      "speaker": "lucy",
+      "text": "Could I have two cinnamon rolls, please?"
+    },
+    {
+      "speaker": "clerk",
+      "text": "Sure! For here or to go?"
+    },
+    {
+      "speaker": "lucy",
+      "text": "I look at Dad.\nHe points to the little paper bags.\n\nTo go, please.\n\nThe woman reaches for a bag.\nThen I remember my little brother, Ben.\nHe's at home, probably asking Mom when breakfast is coming.\n\nActually, could we make that three?"
+    },
+    {
+      "speaker": "clerk",
+      "text": "Of course. Three cinnamon rolls."
+    },
+    {
+      "speaker": "lucy",
+      "text": "Dad raises an eyebrow."
+    },
+    {
+      "speaker": "dad",
+      "text": "Who's the third one for?"
+    },
+    {
+      "speaker": "lucy",
+      "text": "Ben!"
+    },
+    {
+      "speaker": "dad",
+      "text": "Good thinking. He'd notice if we came home smelling like cinnamon."
+    },
+    {
+      "speaker": "lucy",
+      "text": "I laugh.\nThen I spot a tray of tiny cookies shaped like cats.\nOne has a crooked ear.\nIt looks a little like our cat, Noodle.\n\nDad, look! That one's Noodle."
+    },
+    {
+      "speaker": "dad",
+      "text": "It does look like him."
+    },
+    {
+      "speaker": "lucy",
+      "text": "Can we get a cookie, too?\n\nDad checks the bag."
+    },
+    {
+      "speaker": "dad",
+      "text": "Let's stick with the rolls today."
+    },
+    {
+      "speaker": "lucy",
+      "text": "Okay. Maybe next time.\n\nThe woman hands me our breakfast.\n\nHow much is it?"
+    },
+    {
+      "speaker": "clerk",
+      "text": "Nine dollars, please."
+    },
+    {
+      "speaker": "lucy",
+      "text": "Dad pays, and I take the bag.\nIt's warm against my fingers.\n\nCould we have a few napkins, please?"
+    },
+    {
+      "speaker": "clerk",
+      "text": "Absolutely. Here you go."
+    },
+    {
+      "speaker": "lucy",
+      "text": "Thank you! Have a nice day!"
+    },
+    {
+      "speaker": "clerk",
+      "text": "You, too!"
+    },
+    {
+      "speaker": "lucy",
+      "text": "Outside, Dad grins."
+    },
+    {
+      "speaker": "dad",
+      "text": "You handled that really well."
+    },
+    {
+      "speaker": "lucy",
+      "text": "I grin back.\n\nI only forgot Ben for about three seconds.\n\nAt home, Ben runs to the door."
+    },
+    {
+      "speaker": "ben",
+      "text": "Did you get me anything?"
+    },
+    {
+      "speaker": "lucy",
+      "text": "I hold up the bag.\n\nOne cinnamon roll. Just for you."
+    },
+    {
+      "speaker": "ben",
+      "text": "You're the best!"
+    },
+    {
+      "speaker": "lucy",
+      "text": "Noodle walks over and sniffs the bag.\n\nSorry, Noodle,\n\nI tell him.\n\nYour breakfast is in your bowl.\n\nHe flicks his tail and walks away.\n\nDad laughs."
+    },
+    {
+      "speaker": "dad",
+      "text": "I think he wants to speak to the manager."
+    }
+  ]
+}
